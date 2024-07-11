@@ -38,18 +38,23 @@ class PaperToMarkdownPipeline:
                 old_content = f.readlines()
             old_content = [orjson.loads(x) for x in old_content]
             self.content = self.content + old_content
-            # reduce by title
-            self.content = reduce(lambda x, y: x if y in x else x + [y], self.content, [])
 
         # some filter rules
         _content = []
+        title_set = set()
         for item in self.content:
+            item["title"] = item["title"].replace("[Remote] ", "")
+            if item["title"] in title_set:
+                continue
+            title_set.add(item["title"])
+
             if item["conf"] == "" or item["title"] == "" or item["author"] == "" or item["title"].startswith("Q&A ("):
                 continue
+
             _content.append(
                 {
                     "conf": item["conf"],
-                    "title": item["title"].replace("[Remote] ", ""),
+                    "title": item["title"],
                     "author": item["author"],
                 }
             )
