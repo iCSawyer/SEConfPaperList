@@ -1,15 +1,4 @@
-# Paper Spider for SE Conferences
-
-Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
-
-### Usage
-- Dependency: `scrapy`, `openpyxl`
-- Usage: 
-    1. add new links in `paper_spider/utils/paperlist.py`
-    2. run `scrapy crawl paper_spider`
-
-### Paper list
-| Conference | Title | Authors |
+| conf | title | author |
 | --- | --- | --- |
 | ICSE 2024 | A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments | Cuiying Gao, Gaozhun Huang, Heng Li, Bang Wu, Yueming Wu, Wei Yuan |
 | ICSE 2024 | A First Look at the Inheritance-Induced Redundant Test Execution | Dong Jae Kim, Jinqiu Yang, Tse-Hsun (Peter) Chen |
@@ -326,7 +315,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
 | FSE 2024 | Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers | Dongwei Xiao, Zhibo Liu, Qi Pang, Shuai Wang, Yichen LI |
 | FSE 2024 | Mining Action Rules for Defect Reduction Planning | Khouloud Oueslati, Gabriel Laberge, Maxime Lamothe, Foutse Khomh |
 | FSE 2024 | MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions | Ying Xiao, Jie M. Zhang, Yepang Liu, Mohammad Reza Mousavi, Sicen Liu, Dingyuan Xue |
-| FSE 2024 | MisConferenceiguration Software Testing for Failure Emergence in Autonomous Driving Systems | Yuntianyi Chen, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia |
+| FSE 2024 | Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems | Yuntianyi Chen, Yuqi Huai, Shilong Li, Changnam Hong, Joshua Garcia |
 | FSE 2024 | Mobile Bug Report Reproduction via Global Search on the App UI Model | Zhaoxu Zhang, Fazle Mohammed Tawsif, Komei Ryu, Tingting Yu, William G.J. Halfond |
 | FSE 2024 | Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models | Yan Wang, Xiaoning Li, Tien N. Nguyen, Shaohua Wang, Chao Ni, Ling Ding |
 | FSE 2024 | Natural Symbolic Execution-based Testing for Big Data Analytics | Yaoxuan Wu, Ahmad Humayun, Muhammad Ali Gulzar, Miryung Kim |
@@ -767,7 +756,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
 | ASE 2023 | Causality-Aided Trade-off Analysis for Machine Learning Fairness | Zhenlan Ji, Pingchuan Ma, Shuai Wang, Yanhui Li |
 | ASE 2023 | Cell2Doc: ML Pipeline for Generating Documentation in Computational Notebooks | Tamal Mondal, Scott Barnett, Akash Lal, Jyothi Vedurada |
 | ASE 2023 | CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space | haibin zheng, Jinyin Chen, Haibo Jin |
-| ASE 2023 | CoMSA: A modeling driven sampling approach for Conferenceiguration performance testing | Yuanjie Xia, Zishuo Ding, Weiyi Shang |
+| ASE 2023 | CoMSA: A modeling driven sampling approach for configuration performance testing | Yuanjie Xia, Zishuo Ding, Weiyi Shang |
 | ASE 2023 | Code Difference Guided Adversarial Example Generation for Deep Code Models | Zhao Tian, Junjie Chen, Zhi Jin |
 | ASE 2023 | CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation | Mingwei Liu, Tianyong Yang, Yiling Lou, Xueying Du, Ying Wang, Xin Peng |
 | ASE 2023 | Compiler Auto-tuning via Critical Flag Selection | Mingxuan Zhu, Dan Hao |
@@ -1649,7 +1638,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
 | FSE 2021 | Fair Preprocessing: Towards Understanding Compositional Fairness of Data Transformers in Machine Learning Pipeline | Sumon Biswas, Hridesh Rajan |
 | FSE 2021 | Fairea: A Model Behaviour Mutation Approach to Benchmarking Bias Mitigation Methods | Max Hort, Jie M. Zhang, Federica Sarro, Mark Harman |
 | FSE 2021 | Feature Trace Recording | Paul Maximilian Bittner, Alexander Schultheiß, Thomas Thüm, Timo Kehrer, Jeffrey M. Young, Lukas Linsbauer |
-| FSE 2021 | Finding Broken Linux Configuration Specifications by Statically Analyzing the KConferenceig Language | Jeho Oh, Necip Fazıl Yıldıran, Julian Braha, Paul Gazzillo |
+| FSE 2021 | Finding Broken Linux Configuration Specifications by Statically Analyzing the Kconfig Language | Jeho Oh, Necip Fazıl Yıldıran, Julian Braha, Paul Gazzillo |
 | FSE 2021 | Flaky Test Detection in Android via Event Order Exploration | Zhen Dong, Abhishek Tiwari, Xiao Liang Yu, Abhik Roychoudhury |
 | FSE 2021 | GLIB: Towards Automated Test Oracle for Graphically-Rich Applications | Ke Chen, Yufei Li, Yingfeng Chen, Changjie Fan, Zhipeng Hu, Wei Yang |
 | FSE 2021 | Generalizable and Interpretable Learning for Configuration Extrapolation | Yi Ding, Ahsan Pervaiz, Michael Carbin, Henry Hoffmann |
@@ -1945,7 +1934,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
 | ICSE 2020 | Here We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? | Nischal Shrestha, Colton Botta, Titus Barik, Chris Parnin |
 | ICSE 2020 | HeteroRefactor: Refactoring for Heterogeneous Computing with FPGA | Aishwarya Sivaraman, Jason Lau, Qian Zhang, Muhammad Ali Gulzar, Jason Cong, Miryung Kim |
 | ICSE 2020 | How Android Developers Handle Evolution-induced API Compatibility Issues: A Large-scale Study | Hao Xia, Yuan Zhang, Yingtian Zhou, Xiaoting Chen, Yang Wang, Xiangyu Zhang, Shuaishuai Cui, Geng Hong, Xiaohan Zhang, Min Yang, Zhemin Yang |
-| ICSE 2020 | How Does MisConferenceiguration of Analytic Services Compromise Mobile Privacy? | Xueling Zhang, Xiaoyin Wang, Rocky Slavin, Travis Breaux, Jianwei Niu |
+| ICSE 2020 | How Does Misconfiguration of Analytic Services Compromise Mobile Privacy? | Xueling Zhang, Xiaoyin Wang, Rocky Slavin, Travis Breaux, Jianwei Niu |
 | ICSE 2020 | How Has Forking Changed in the Last 20 Years? A Study of Hard Forks on GitHub | Shurui Zhou, Bogdan Vasilescu, Christian Kästner |
 | ICSE 2020 | How Software Practitioners Use Informal Local Meetups to Share Software Engineering Knowledge | Claire Ingram, Anders Drachen |
 | ICSE 2020 | How do Companies Collaborate in Open Source Ecosystems? An Empirical Study of OpenStack | Yuxia Zhang, Minghui Zhou, Klaas-Jan Stol, Jianyu Wu, Zhi Jin |
@@ -2066,7 +2055,7 @@ Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
 | FSE 2020 | Does Stress Impact Technical Interview Performance? | Mahnaz (Mana) Behroozi, Shivani Shirolkar, Titus Barik, Chris Parnin |
 | FSE 2020 | Domain-Independent Interprocedural Program Analysis using Block-Abstraction Memoization | Dirk Beyer, Karlheinz Friedberger |
 | FSE 2020 | Dynamic Slicing for Deep Neural Networks | Ziqi Zhang, Yuanchun Li, Yao Guo, Xiangqun Chen, Yunxin Liu |
-| FSE 2020 | Dynamically ReConferenceiguring Software Microbenchmarks: Reducing Execution Time without Sacrificing Result Quality | Christoph Laaber, Stefan Würsten, Harald Gall, Philipp Leitner |
+| FSE 2020 | Dynamically Reconfiguring Software Microbenchmarks: Reducing Execution Time without Sacrificing Result Quality | Christoph Laaber, Stefan Würsten, Harald Gall, Philipp Leitner |
 | FSE 2020 | Efficient Binary-Level Coverage Analysis | M. Ammar Ben Khadra, Dominik Stoffel, Wolfgang Kunz |
 | FSE 2020 | Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search | Jiazhen Gu, Chuan Luo, Si Qin, Bo Qiao, Qingwei Lin, Hongyu Zhang, Ze Li, Yingnong Dang, Shaowei Cai, Wei-Cheng Wu, Yangfan Zhou, Murali Chintalapati, Dongmei Zhang |
 | FSE 2020 | Efficiently Finding Higher-Order Mutants | Chu-Pan Wong, Jens Meinicke, Leo Chen, João Paulo Diniz, Christian Kästner, Eduardo Figueiredo |

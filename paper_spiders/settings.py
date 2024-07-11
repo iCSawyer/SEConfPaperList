@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'paper_spiders.pipelines.PaperToExcelPipeline': 300,
+   'paper_spiders.pipelines.PaperToMarkdownPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

@@ -4,64 +4,83 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 import scrapy
 from itemadapter import ItemAdapter
-from openpyxl import Workbook, load_workbook
-from openpyxl.worksheet.worksheet import Worksheet
-from openpyxl.utils import get_column_letter
 from typing import Dict, Tuple, List
-from openpyxl.styles import DEFAULT_FONT, Font, NamedStyle
-from openpyxl.cell import Cell
 from .utils.paperlist import paper_list
+import os
+import orjson
+from functools import reduce
 
 
-def config_style():
-    style = NamedStyle(name='paper_style')
-    style.font = Font(name='等线', sz=14)
-    return style
+def jsonline2md(jsonline: list[dict], header: List[str]) -> str:
+    md = ""
+    for h in header:
+        md += f"| {h} "
+    md += "|\n"
+    for h in header:
+        md += "| --- "
+    md += "|\n"
+    for j in jsonline:
+        for h in header:
+            md += f"| {j[h]} "
+        md += "|\n"
+    return md
 
 
-class PaperToExcelPipeline:
+class PaperToMarkdownPipeline:
     def __init__(self):
+        self.content = []
+        self.jsonl_path = "papers.jsonl"
+        self.md_path = "papers.md"
 
-        self.wb = Workbook()
-        del self.wb['Sheet']
-        self.default_style = config_style()
-        self.ws_dict = {p['title']: self.wb.create_sheet(title=p['title']) for p in paper_list}
-        self.save_path = 'papers.xlsx'
+    def _update_and_sort(self):
+        if os.path.exists(self.jsonl_path):
+            with open(self.jsonl_path, "r") as f:
+                old_content = f.readlines()
+            old_content = [orjson.loads(x) for x in old_content]
+            self.content = self.content + old_content
+            # reduce by title
+            self.content = reduce(lambda x, y: x if y in x else x + [y], self.content, [])
+
+        self.content = [
+            {"conf": x["conf"].strip(), "title": x["title"].lstrip("[Remote]").strip(), "author": x["author"].strip()}
+            for x in self.content
+        ]
+
+        self.content = sorted(
+            self.content,
+            key=lambda x: (
+                -1 * int(x["conf"].split(" ")[-1]),  # year
+                ["ICSE", "FSE", "ASE", "ISSTA"].index(x["conf"].split(" ")[0]),  # series
+                x["title"],  # title
+            ),
+        )
+
+        with open(self.jsonl_path, "w") as f:
+            for c in self.content:
+                f.write(orjson.dumps(c).decode("utf-8") + "\n")
 
     def process_item(self, item: Dict, spider):
-        title = item['title']
-        ws = self.ws_dict[title]
-        paper = item['paper']
-
-        ws.append([paper])
+        conf, title, author = item["conf"], item["title"], item["author"]
+        self.content.append({"conf": conf, "title": title, "author": author})
         return item
 
     def open_spider(self, spider: scrapy.Spider):
-        spider.log('spider open')
+        spider.log("spider open")
         pass
 
-    def apply_style(self):
-        for ws in self.ws_dict.values():
-            for r in ws.rows:
-                c: Cell
-                for c in r:
-                    c.style = self.default_style
-
-            c: Tuple[Cell]
-            for c in ws.columns:
-                column = c[0].column
-                max_len = 0
-                r: Cell
-                for r in c:
-                    if r.value is None:
-                        break
-                    max_len = max(max_len, len(r.value))
-                adjusted_width = max_len * 1.1
-                print('adjusted_width', adjusted_width)
-                ws.column_dimensions[get_column_letter(column)].width = adjusted_width
-
     def close_spider(self, spider):
-        spider.log('spider close')
-        self.apply_style()
-        self.wb.save(filename=self.save_path)
-        self.wb.close()
+        spider.log("spider close")
+        self._update_and_sort()
+        md = jsonline2md(self.content, ["conf", "title", "author"])
+        with open(self.md_path, "w") as f:
+            f.write(md)
+
+        # update the README.md
+        with open("README.md", "r+") as f:
+            readme = f.read()
+            start_idx = readme.find("### Paper list\n")
+            readme = readme[: start_idx + 15] + md
+            readme = readme.replace("conf", "Conference").replace("title", "Title").replace("author", "Authors")
+            f.seek(0)
+            f.write(readme)
+            f.truncate()
