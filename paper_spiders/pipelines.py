@@ -29,8 +29,8 @@ def jsonline2md(jsonline: list[dict], header: List[str]) -> str:
 class PaperToMarkdownPipeline:
     def __init__(self):
         self.content = []
-        self.jsonl_path = "papers.jsonl"
-        self.md_path = "papers.md"
+        self.jsonl_path = "./paper_spiders/papers.jsonl"
+        self.md_path = "./paper_spiders/papers.md"
 
     def _update_and_sort(self):
         if os.path.exists(self.jsonl_path):
@@ -86,10 +86,10 @@ class PaperToMarkdownPipeline:
         # update the README.md
         with open("README.md", "r+") as f:
             readme = f.read()
-            start_idx = readme.find("### Paper list\n")
-            end_idx = readme.find("### Acknowledgments\n")
+            start_idx = readme.find("### Papers\n")
+            end_idx = readme.find("\n### Acknowledgments\n")
 
-            readme = readme[: start_idx + 15] + md + readme[end_idx:]
+            readme = readme[: start_idx + 11] + md + readme[end_idx:]
             readme = readme.replace("conf", "Conference").replace("title", "Title").replace("author", "Authors")
             f.seek(0)
             f.write(readme)
