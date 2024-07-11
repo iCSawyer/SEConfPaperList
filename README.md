@@ -1,6 +1,6 @@
-# Paper Spider for SE Conferences
+# Paper Lists of SE Conferences
 
-Research papers accepted by {ICSE, FSE, ASE, ISSTA} from 2020.
+Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 
 ### Usage
 - Dependency: `scrapy`, `openpyxl`
