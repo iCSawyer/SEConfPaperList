@@ -41,13 +41,21 @@ class PaperToMarkdownPipeline:
             # reduce by title
             self.content = reduce(lambda x, y: x if y in x else x + [y], self.content, [])
 
-        self.content = [
-            {"conf": x["conf"].strip(), "title": x["title"].lstrip("[Remote]").strip(), "author": x["author"].strip()}
-            for x in self.content
-        ]
+        # some filter rules
+        _content = []
+        for item in self.content:
+            if item["conf"] == "" or item["title"] == "" or item["author"] == "" or item["title"].startswith("Q&A ("):
+                continue
+            _content.append(
+                {
+                    "conf": item["conf"],
+                    "title": item["title"].replace("[Remote] ", ""),
+                    "author": item["author"],
+                }
+            )
 
         self.content = sorted(
-            self.content,
+            _content,
             key=lambda x: (
                 -1 * int(x["conf"].split(" ")[-1]),  # year
                 ["ICSE", "FSE", "ASE", "ISSTA"].index(x["conf"].split(" ")[0]),  # series
@@ -79,7 +87,9 @@ class PaperToMarkdownPipeline:
         with open("README.md", "r+") as f:
             readme = f.read()
             start_idx = readme.find("### Paper list\n")
-            readme = readme[: start_idx + 15] + md
+            end_idx = readme.find("### Acknowledgments\n")
+
+            readme = readme[: start_idx + 15] + md + readme[end_idx:]
             readme = readme.replace("conf", "Conference").replace("title", "Title").replace("author", "Authors")
             f.seek(0)
             f.write(readme)
