@@ -2,6 +2,8 @@
 
 Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 
+💥**Update**: Papers accepted by ICSE 2025 Cycle 1 are continously being announced [here](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-Cycle) and we will add them after full acceptance announcement.
+
 ### Usage
 - Dependency: `scrapy`, `openpyxl`
 - Usage: 
