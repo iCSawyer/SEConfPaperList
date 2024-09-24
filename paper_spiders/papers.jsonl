@@ -1,4 +1,4 @@
-{"conf":"ICSE 2024","title":"A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments","author":"Cuiying Gao, Gaozhun Huang, Heng Li, Bang Wu, Yueming Wu, Wei Yuan"}
+{"conf":"ICSE 2024","title":"A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments","author":"Gao Cuiying, Gaozhun Huang, Heng Li, Bang Wu, Yueming Wu, Wei Yuan"}
 {"conf":"ICSE 2024","title":"A First Look at the Inheritance-Induced Redundant Test Execution","author":"Dong Jae Kim, Jinqiu Yang, Tse-Hsun (Peter) Chen"}
 {"conf":"ICSE 2024","title":"A Framework For Inferring Properties of User-Defined Functions","author":"Xinyu Liu, Joy Arulraj, Alessandro Orso"}
 {"conf":"ICSE 2024","title":"A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges","author":"Jenny T. Liang, Chenyang Yang, Brad A. Myers"}
@@ -13,7 +13,7 @@
 {"conf":"ICSE 2024","title":"An Exploratory Investigation of Log Anomalies in Unmanned Aerial Vehicles","author":"Dinghua Wang, Shuqing Li, Guanping Xiao, Yepang Liu, Yulei Sui, Pinjia He, Michael Lyu"}
 {"conf":"ICSE 2024","title":"Analyzing and Debugging Normative Requirements via Satisfiability Checking","author":"Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik"}
 {"conf":"ICSE 2024","title":"Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot","author":"David OBrien, Sumon Biswas, Sayem Mohammad Imtiaz, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan"}
-{"conf":"ICSE 2024","title":"Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers","author":"Shuohan Wu, zihao li, Luyi Yan, Weimin Chen, Muhui Jiang, Chenxu Wang, Xiapu Luo, Hao Zhou"}
+{"conf":"ICSE 2024","title":"Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers","author":"Shuohan Wu, Zihao Li, Luyi Yan, Weimin Chen, Muhui Jiang, Chenxu Wang, Xiapu Luo, Hao Zhou"}
 {"conf":"ICSE 2024","title":"Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App","author":"Fuman Xie, Chuan Yan, Mark Huasong Meng, Shaoming Teng, Yanjun Zhang, Guangdong Bai"}
 {"conf":"ICSE 2024","title":"Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps","author":"Yongliang Chen, Ruoqin Tang, Chaoshun Zuo, Xiaokuan Zhang, Lei Xue, Xiapu Luo, Qingchuan Zhao"}
 {"conf":"ICSE 2024","title":"Automated Program Repair, What Is It Good For? Not Absolutely Nothing!","author":"Hadeel Eladawy, Claire Le Goues, Yuriy Brun"}
@@ -40,7 +40,7 @@
 {"conf":"ICSE 2024","title":"Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction","author":"Huanting Wang, Zhanyong Tang, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang"}
 {"conf":"ICSE 2024","title":"Compiler-directed Migrating API Callsite of Client Code","author":"Hao Zhong, Na Meng"}
 {"conf":"ICSE 2024","title":"Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications","author":"Shaoheng Cao, Minxue Pan, Yu Pei, Wenhua Yang, Tian Zhang, Linzhang Wang, Xuandong Li"}
-{"conf":"ICSE 2024","title":"Concrete Constraint Guided Symbolic Execution","author":"Yue Sun, Guowei Yang,  lvshichao, Zhi Li, Limin Sun"}
+{"conf":"ICSE 2024","title":"Concrete Constraint Guided Symbolic Execution","author":"Yue Sun, Guowei Yang, Shichao Lv, Zhi Li, Limin Sun"}
 {"conf":"ICSE 2024","title":"Constraint Based Program Repair for Persistent Memory Bugs","author":"Zunchen Huang, Chao Wang"}
 {"conf":"ICSE 2024","title":"Context-Aware Name Recommendation for Field Renaming","author":"Chunhao Dong, Yanjie Jiang, Nan Niu, Yuxia Zhang, Hui Liu"}
 {"conf":"ICSE 2024","title":"CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace","author":"Yuchao Huang, Junjie Wang, Zhe Liu, Yawen Wang, Song Wang, Chunyang Chen, Yuanzhe Hu, Qing Wang"}
@@ -90,7 +90,7 @@
 {"conf":"ICSE 2024","title":"Fuzz4All: Universal Fuzzing with Large Language Models","author":"Chunqiu Steven Xia, Matteo Paltenghi, Jia Le Tian, Michael Pradel, Lingming Zhang"}
 {"conf":"ICSE 2024","title":"FuzzInMem: Fuzzing Programs via In-memory Structures","author":"Xuwei Liu, Wei You, Yapeng Ye, Zhuo Zhang, Jianjun Huang, Xiangyu Zhang"}
 {"conf":"ICSE 2024","title":"FuzzSlice: Pruning False Positives in Static Analysis Warnings through Function-Level Fuzzing","author":"Aniruddhan Murali, Noble Saji Mathews, Mahmoud Alfadel, Mei Nagappan, Meng Xu"}
-{"conf":"ICSE 2024","title":"GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis","author":"Yuqiang Sun, Daoyuan Wu, YUE XUE, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu"}
+{"conf":"ICSE 2024","title":"GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis","author":"Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu"}
 {"conf":"ICSE 2024","title":"GenderMag Improves Discoverability in the Field, Especially for Women","author":"Emerson Murphy-Hill, Alberto Elizondo, Ambar Murillo, Marian Harbach, Bogdan Vasilescu, Delphine Carlson, Florian Dessloch"}
 {"conf":"ICSE 2024","title":"Generating REST API Specifications through Static Analysis","author":"Ruikai Huang, Manish Motwani, Idel Martinez, Alessandro Orso"}
 {"conf":"ICSE 2024","title":"GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code","author":"Qihao Zhu, Qingyuan Liang, Zeyu Sun, Yingfei Xiong, Lu Zhang, Shengyu Cheng"}
@@ -283,7 +283,7 @@
 {"conf":"FSE 2024","title":"Effective Teaching through Code Reviews: Patterns and Anti-Patterns","author":"Anita Sarma, Nina Chen"}
 {"conf":"FSE 2024","title":"Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts","author":"Zexu Wang, Jiachi Chen, Yanlin Wang, Zibin Zheng, Yu Zhang, Weizhe Zhang"}
 {"conf":"FSE 2024","title":"Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs","author":"Yanfu Yan, Nathan Cooper, Kevin Moran, Gabriele Bavota, Denys Poshyvanyk, Steve Rich"}
-{"conf":"FSE 2024","title":"Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning","author":"Xiaoling Zhang, Zhengzi Xu, shouguo yang, Zhi Li, zhiqiang shi, Limin Sun"}
+{"conf":"FSE 2024","title":"Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning","author":"Xiaoling Zhang, Zhengzi Xu, shouguo yang, Zhi Li, Zhiqiang Shi, Limin Sun"}
 {"conf":"FSE 2024","title":"Evaluating Directed Fuzzers: Are We Heading in the Right Direction?","author":"Tae Eun Kim, Jaeseung Choi, Seongjae Im, Kihong Heo, Sang Kil Cha"}
 {"conf":"FSE 2024","title":"Evaluating and Improving ChatGPT for Unit Test Generation","author":"Zhiqiang Yuan, Mingwei Liu, Shiji Ding, Kaixin Wang, Yixuan Chen, Xin Peng, Yiling Lou"}
 {"conf":"FSE 2024","title":"Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation","author":"Shasha Zhou, Mingyu Huang, Ke Li, Yanan Sun"}
@@ -353,20 +353,179 @@
 {"conf":"FSE 2024","title":"Understanding the Impact of APIs Behavioral Breaking Changes on Client Applications","author":"Dhanushka Jayasuriya, Valerio Terragni, Jens Dietrich, Kelly Blincoe"}
 {"conf":"FSE 2024","title":"Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example","author":"Malinda Dilhara, Abhiram Bellur, Timofey Bryksin, Danny Dig"}
 {"conf":"FSE 2024","title":"Your Code Secret Belongs to Me: Neural Code Completion Tools Can Memorize Hard-coded Credentials","author":"Yizhan Huang, Yichen LI, Weibin Wu, Jianping Zhang, Michael Lyu"}
+{"conf":"ASE 2024","title":"1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection","author":"Xiaobing Sun, Xingan Gao, Sicong Cao, Lili Bo, Xiaoxue Wu, Kaifeng Huang"}
+{"conf":"ASE 2024","title":"A Combinatorial Testing Approach to Surrogate Model Construction","author":"Sunny Shree, Krishna Khadka, Jeff Yu Lei, Raghu Kacker, D. Richard Kuhn"}
+{"conf":"ASE 2024","title":"A Joint Learning Model with Variational Interaction for Multilingual Program Translation","author":"Yali Du, Hui Sun, Ming Li"}
+{"conf":"ASE 2024","title":"A Longitudinal Analysis Of Replicas in the Wild Wild Android","author":"Syeda Mashal Abbas Zaidi, Shahpar Khan, Parjanya Vyas, Yousra Aafer"}
+{"conf":"ASE 2024","title":"A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement","author":"Huan Zhang, Wei Cheng, Yuhan Wu, Wei Hu"}
+{"conf":"ASE 2024","title":"A Position-Aware Approach to Decomposing God Classes","author":"Tianyi Chen, Yanjie Jiang, Fu Fan, Bo Liu, Hui Liu"}
+{"conf":"ASE 2024","title":"A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How","author":"Chaozheng Wang, Shuzheng Gao, Cuiyun Gao, Wenxuan Wang, Chun Yong Chong, Shan Gao, Michael Lyu"}
+{"conf":"ASE 2024","title":"AACEGEN: Attention Guided Adversarial Code Example Generation for Deep Code Models","author":"Zhong Li, Chong Zhang, Minxue Pan, Tian Zhang, Xuandong Li"}
+{"conf":"ASE 2024","title":"AI-driven Java Performance Testing: Balancing Result Quality with Testing Time","author":"Luca Traini, Federico Di Menna, Vittorio Cortellessa"}
+{"conf":"ASE 2024","title":"ART: A Unified Unsupervised Framework for Incident Management in Microservice Systems","author":"Yongqian Sun, Binpeng Shi, Mingyu Mao, Minghua Ma, Sibo Xia, Shenglin Zhang, Dan Pei"}
+{"conf":"ASE 2024","title":"AVIATE: Exploiting Translation Variants of Artifacts to Improve IR-based Traceability Recovery in Bilingual Software Projects","author":"Kexin Sun, Yiding Ren, Hongyu Kuang, Hui Gao, Xiaoxing Ma, Guoping Rong, Dong Shao, He Zhang"}
+{"conf":"ASE 2024","title":"AXA: Cross-Language Analysis through Integration of Single-Language Analyses","author":"Tobias Roth, Julius Näumann, Dominik Helm, Sven Keidel, Mira Mezini"}
+{"conf":"ASE 2024","title":"AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis","author":"Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, Hao Wu, Ming Fan, Ting Liu, Haijun Wang"}
+{"conf":"ASE 2024","title":"An Empirical Study on Learning-based Techniques for Explicit and Implicit Commit Messages Generation","author":"Zhiquan Huang, Yuan Huang, Xiangping Chen, Xiaocong Zhou, Changlin Yang, Zibin Zheng"}
+{"conf":"ASE 2024","title":"An Empirical Study to Evaluate AIGC Detectors on Code Content","author":"wang.jian , Shangqing Liu, Xiaofei Xie, Yi Li"}
+{"conf":"ASE 2024","title":"An Explainable Automated Model for Measuring Software Engineer Contribution","author":"Yue Li, He Zhang, Yuzhe Jin, Zhong Ren, Liming Dong, Jun Lyu, Lanxin Yang, David Lo, Dong Shao"}
+{"conf":"ASE 2024","title":"Approximation-guided Fairness Testing through Discriminatory Space Analysis","author":"Zhenjiang Zhao, Takahisa Toda, Takashi Kitamura"}
+{"conf":"ASE 2024","title":"Attribution-guided Adversarial Code Prompt Generation for Code Completion Models","author":"Xueyang Li, Guozhu Meng, Shangqing Liu, Lu Xiang, Kun Sun, Kai Chen, Xiapu Luo, Yang Liu"}
+{"conf":"ASE 2024","title":"B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests","author":"Mouxiang Chen, Zhongxin Liu, He Tao, Yusu Hong, David Lo, Xin Xia, JianLing Sun"}
+{"conf":"ASE 2024","title":"Balancing the Quality and Cost of Updating Dependencies","author":"Damien Jaime, Pascal Poizat, Joyce El Haddad, Thomas Degueule"}
+{"conf":"ASE 2024","title":"Beyond Manual Modeling: Automating GUI Model Generation Using Design Documents","author":"Shaoheng Cao, Renyi Chen, Minxue Pan, Wenhua Yang, Xuandong Li"}
+{"conf":"ASE 2024","title":"Blackbox Observability of Features and Feature Interactions","author":"Kallistos Weis, Leopoldo Teixeira, Clemens Dubslaff, Sven Apel"}
+{"conf":"ASE 2024","title":"Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems","author":"Mohammad Hossein Amini, Shiva Nejati"}
+{"conf":"ASE 2024","title":"CEDAR: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring","author":"Di Wu, Fangwen Mu, Lin Shi, Zhaoqiang Guo, Kui Liu, Weiguang Zhuang, Yuqi Zhong, Li Zhang"}
+{"conf":"ASE 2024","title":"COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts","author":"Wenkai Li, Xiaoqi Li, Zongwei Li, Yuqing Zhang"}
+{"conf":"ASE 2024","title":"Can Cooperative Multi-Agent Reinforcement Learning Boost Automatic Web Testing? An Exploratory Study","author":"Yujia Fan, Sinan Wang, Zebang Fei, Yao Qin, Huaxuan Li, Yepang Liu"}
+{"conf":"ASE 2024","title":"ChatBR: Automated assessment and improvement of bug report quality using ChatGPT","author":"Lili Bo, wangjie ji, Xiaobing Sun, Ting Zhang, Xiaoxue Wu, Ying Wei"}
+{"conf":"ASE 2024","title":"Coding-PTMs: How to Find Optimal Code Pre-trained Models for Code Embedding in Vulnerability Detection?","author":"Yu Zhao, Lina Gong, Zhiqiu Huang, Yongwei Wang, Mingqiang Wei, Fei Wu"}
+{"conf":"ASE 2024","title":"Combining Coverage and Expert Features with Semantic Representation for Coincidental Correctness Detection","author":"Huan Xie, Yan Lei, Maojin Li, Meng Yan, Sheng Zhang"}
+{"conf":"ASE 2024","title":"Compiler Bug Isolation via Enhanced Test Program Mutation","author":"Yujie Liu, Mingxuan Zhu, Jinhao Dong, Junzhe Yu, Dan Hao"}
+{"conf":"ASE 2024","title":"ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code","author":"jiafeng , Jiachen Liu, Cuiyun Gao, Chun Yong Chong, Chaozheng Wang, Shan Gao, Xin Xia"}
+{"conf":"ASE 2024","title":"Compositional Security Analysis of Dynamic Component-based Systems","author":"Narges Khakpour, Charilaos Skandylas"}
+{"conf":"ASE 2024","title":"Constraint-Based Test Oracles for Program Analyzers","author":"Markus Fleischmann, David Kaindlstorfer, Anastasia Isychev, Valentin Wüstholz, Maria Christakis"}
+{"conf":"ASE 2024","title":"Context-Aware Automated Sprint Plan Generation for Agile Software Development","author":"Elvan Kula, Arie van Deursen, Georgios Gousios"}
+{"conf":"ASE 2024","title":"Contextualized Data-Wrangling Code Generation in Computational Notebooks","author":"Junjie Huang, Daya Guo, Chenglong Wang, Jiazhen Gu, Shuai Lu, Jeevana Priya Inala, Cong Yan, Jianfeng Gao, Nan Duan, Michael Lyu"}
+{"conf":"ASE 2024","title":"DRMiner: Extracting Latent Design Rationale from Jira Issue Logs","author":"Jiuang Zhao, Zitian Yang, Li Zhang, Xiaoli Lian, Donghao Yang, Xin Tan"}
+{"conf":"ASE 2024","title":"DataRecipe — How to Cook the Data for CodeLLM?","author":"Kisub Kim, Jounghoon Kim, Byeongjo Park, Dongsun Kim, Chun Yong Chong, Yuan Wang, Tiezhu Sun, Xunzhu Tang, Jacques Klein, Tegawendé F. Bissyandé"}
+{"conf":"ASE 2024","title":"DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning","author":"Davide Corradini, Zeno Montolli, Michele Pasqua, Mariano Ceccato"}
+{"conf":"ASE 2024","title":"Demonstration-Free: Towards More Practical Log Parsing with Large Language Models","author":"Yi Xiao, Van-Hoang Le, Hongyu Zhang"}
+{"conf":"ASE 2024","title":"Detect Hidden Dependency to Untangle Commits","author":"Mengdan Fan, Wei Zhang, Haiyan Zhao, Guangtai Liang, Zhi Jin"}
+{"conf":"ASE 2024","title":"Detecting Element Accessing Bugs in C++ Sequence Containers","author":"zhilin li, Xutong Ma, Mengze Hu, Jun Yan"}
+{"conf":"ASE 2024","title":"Detecting and Explaining Anomalies Caused by Web Tamper Attacks via Building Consistency-based Normality","author":"Yifan Liao, Ming Xu, Yun Lin, Xiwen Teoh, Xiaofei Xie, Ruitao Feng, Frank Liauw, Hongyu Zhang, Jin Song Dong"}
+{"conf":"ASE 2024","title":"DevMuT: Testing Deep Learning Framework via Developer Expertise-Based Mutation","author":"Yanzhou Mu, Juan Zhai, Chunrong Fang, Xiang Chen, Zhixiang Cao, Peiran Yang, Zou Yinglong, Tao Zheng, Zhenyu Chen"}
+{"conf":"ASE 2024","title":"Developer-Defined Accelerations in Continuous Integration: A Detection Approach and Catalog of Patterns","author":"Mingyang Yin, Yutaro Kashiwa, Keheliya Gallaba, Mahmoud Alfadel, Yasutaka Kamei, Shane McIntosh"}
+{"conf":"ASE 2024","title":"Diagnosis via Proofs of Unsatisfiability for First-Order Logic with Relational Objects","author":"Nick Feng, Lina Marsso, Marsha Chechik"}
+{"conf":"ASE 2024","title":"Differential Fuzzing for Data Distribution Service Programs via Dynamic Configuration and Packet Input Generation","author":"Dohyun Ryu, Giyeol Kim, Daeun Lee, Seongjin Kim, Seungjin Bae, Junghwan Rhee, Taegyu Kim"}
+{"conf":"ASE 2024","title":"Discovering Likely Program Invariants for Persistent Memory","author":"Zunchen Huang, Srivatsan Ravi, Chao Wang"}
+{"conf":"ASE 2024","title":"Do not neglect what's on your hands: localizing software faults with exception trigger stream","author":"Xihao Zhang, Yi Song, Xiaoyuan Xie, Qi Xin, Chenliang Xing"}
+{"conf":"ASE 2024","title":"DroidCoder: Enhanced Android Code Completion with Context-Enriched Retrieval-Augmented Generation","author":"Xinran Yu, Chun Li, Minxue Pan, Xuandong Li"}
+{"conf":"ASE 2024","title":"DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators","author":"Mingyi Zhou, Xiang Gao, Xiao Chen, Chunyang Chen, John Grundy, Li Li"}
+{"conf":"ASE 2024","title":"Dynamic Scoring Code Token Tree: A Novel Decoding Strategy for Generating High-Performance Code","author":"Muzi Qu, Jie Liu, Liangyi Kang, Shuai Wang, Dan Ye, Tao Huang"}
+{"conf":"ASE 2024","title":"Effective Unit Test Generation for Java Null Pointer Exceptions","author":"Myungho Lee, Jiseong Bak, Seokhyeon Moon, Yoon-Chan Jhi, Hakjoo Oh"}
+{"conf":"ASE 2024","title":"Effective Vulnerable Function Identification based on CVE Description Empowered by Large Language Models","author":"Yulun Wu, Ming Wen, Zeliang Yu, Xiaochen Guo, Hai Jin"}
+{"conf":"ASE 2024","title":"Efficient Detection of Test Interference in C Projects","author":"Florian Eder, Stefan Winter"}
+{"conf":"ASE 2024","title":"Efficient Detection of Toxic Prompts in Large Language Models","author":"Yi Liu, Junzhe Yu, Huijia Sun, Ling Shi, Gelei Deng, Yuqi Chen, Yang Liu"}
+{"conf":"ASE 2024","title":"Efficient Incremental Code Coverage Analysis for Regression Test Suites","author":"Jiale Amber Wang, Kaiyuan Wang, Pengyu Nie"}
+{"conf":"ASE 2024","title":"Efficient Slicing of Feature Models via Projected d-DNNF Compilation","author":"Chico Sundermann, Jacob Loth, Thomas Thüm"}
+{"conf":"ASE 2024","title":"End-to-End AutoML for Unsupervised Log Anomaly Detection","author":"Shenglin Zhang, Yuhe Ji, Jiaqi Luan, Xiaohui Nie, Zi`ang Cheng, Minghua Ma, Yongqian Sun, Dan Pei"}
+{"conf":"ASE 2024","title":"Enhancing Automated Program Repair with Solution Design","author":"Jiuang Zhao, Donghao Yang, Li Zhang, Xiaoli Lian, Zitian Yang, Fang Liu"}
+{"conf":"ASE 2024","title":"Enhancing the Efficiency of Automated Program Repair via Greybox Analysis","author":"YoungJae Kim, Yechan Park, Seungheon Han, Jooyong Yi"}
+{"conf":"ASE 2024","title":"Evaluating Terminology Translation in Machine Translation Systems via Metamorphic Testing","author":"Yihui Xu, Yanhui Li, Jun Wang, Xiaofang Zhang"}
+{"conf":"ASE 2024","title":"Evaluation of Version Control Merge Tools","author":"Benedikt Schesch, Ryan Featherman, Ben Roberts, Kenneth J Yang, Michael D. Ernst"}
+{"conf":"ASE 2024","title":"Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security","author":"Chuan Yan, Mark Huasong Meng, Liuhuo Wan, Tian Yang Ooi, Ruomai Ren, Guangdong Bai"}
+{"conf":"ASE 2024","title":"Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair","author":"liguochang , Chen Zhi, Jialiang Chen, Junxiao Han, Shuiguang Deng"}
+{"conf":"ASE 2024","title":"FAIL: Analyzing Software Failures from the News Using LLMs","author":"Dharun Anandayuvaraj, Matthew Campbell, Arav Tewari, James C. Davis"}
+{"conf":"ASE 2024","title":"FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection","author":"Jialuo Chen, Jingyi Wang, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng"}
+{"conf":"ASE 2024","title":"FIPSER: Improving Fairness Testing of DNN by Seed Prioritization","author":"Junwei Chen, Yueling Zhang, Lingfeng Zhang, Min Zhang, Chengcheng Wan, Ting Su, Geguang Pu"}
+{"conf":"ASE 2024","title":"FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows","author":"yilun wang, Pengfei Chen, Hui Dou, Yiwen Zhang, Guangba  Yu, Zilong He, Haiyu Huang"}
+{"conf":"ASE 2024","title":"FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments","author":"Fang Liu, Zhenwei Liu, Qianhui Zhao, Jing Jiang, Li Zhang, Zian Sun, Ge Li, Zhongqi Li, Yuchi Ma"}
+{"conf":"ASE 2024","title":"GPP: A Graph-Powered Prioritizer for Code Review Requests","author":"Lanxin Yang, Jinwei Xu, He Zhang, Fanghao Wu, Jun Lyu, Yue Li, Alberto Bacchelli"}
+{"conf":"ASE 2024","title":"General and Practical Property-based Testing for Android Apps","author":"Yiheng Xiong, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su"}
+{"conf":"ASE 2024","title":"Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach","author":"Jialiang Wei, Anne-Lise Courbis, Thomas Lambolais, Binbin Xu, Pierre Louis Bernard, Gerard Dray, Walid Maalej"}
+{"conf":"ASE 2024","title":"Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization","author":"Lei Tao, Shenglin Zhang, ZedongJia , Jinrui Sun, Minghua Ma, Zhengdan Li, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei"}
+{"conf":"ASE 2024","title":"Giving without Notifying: Assessing Compliance of Data Transmission in Android Apps","author":"Ming Fan, Jifei Shi, Yin Wang, Le Yu, Xicheng Zhang, Haijun Wang, Wuxia Jin, Ting Liu"}
+{"conf":"ASE 2024","title":"GlitchProber: Advancing Effective Detection and Mitigation of Glitch Tokens in Large Language Models","author":"Zhibo Zhang, Wuxia Bai, Yuxi Li, Mark Huasong Meng, Kailong Wang, Ling Shi, Li Li, Jun Wang, Haoyu Wang"}
+{"conf":"ASE 2024","title":"GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph","author":"Wei Liu, Ailun Yu, Daoguang Zan, Bo Shen, Wei Zhang, Haiyan Zhao, Zhi Jin, Qianxiang Wang"}
+{"conf":"ASE 2024","title":"How Does Code Optimization Impact Third-party Library Detection for Android Applications?","author":"Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin"}
+{"conf":"ASE 2024","title":"How Effective Do Code Language Models Understand Poor-Readability Code?","author":"Chao Hu, Yitian Chai, Hao Zhou, Fandong Meng, Jie Zhou, Xiaodong Gu"}
+{"conf":"ASE 2024","title":"How to Pet a Two-Headed Snake? Solving Cross-Repository Compatibility Issues with Hera","author":"Yifan Xie, Zhouyang Jia, Shanshan Li, Ying Wang, Jun Ma, Xiaoling Li, Haoran Liu, Ying Fu, Liao Xiangke"}
+{"conf":"ASE 2024","title":"Hybrid Regression Test Selection by Integrating File and Method Dependences","author":"Guofeng Zhang, Luyao Liu, Zhenbang Chen, Ji Wang"}
+{"conf":"ASE 2024","title":"Imperceptible Content Poisoning in LLM-Powered Applications","author":"Quan Zhang, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang"}
+{"conf":"ASE 2024","title":"Incremental Context-free Grammar Inference in Black Box Settings","author":"Feifei Li, Xiao Chen, Xi Xiao, Xiaoyu Sun, Chuan Chen, Shaohua Wang, Jitao Han"}
+{"conf":"ASE 2024","title":"Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks","author":"jiawei lu, Haoye Wang, Zhongxin Liu, Keyu Liang, Lingfeng Bao , Xiaohu Yang"}
+{"conf":"ASE 2024","title":"Interrogation Testing of Program Analyzers for Soundness and Precision Issues","author":"David Kaindlstorfer, Anastasia Isychev, Valentin Wüstholz, Maria Christakis"}
+{"conf":"ASE 2024","title":"JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models","author":"Jialun Cao, Zhiyong Chen, Jiarong Wu, Shing-Chi Cheung, Chang Xu"}
+{"conf":"ASE 2024","title":"LLM Meets Bounded Model Checking: Neuro-symbolic Loop Invariant Inference","author":"Guangyuan Wu, Weining Cao, Yuan Yao, Hengfeng Wei, Taolue Chen, Xiaoxing Ma"}
+{"conf":"ASE 2024","title":"LLM-Generated Invariants for Bounded Model Checking Without Loop Unrolling","author":"Muhammad A. A. Pirzada, Giles Reger, Ahmed Bhayat, Lucas C. Cordeiro"}
+{"conf":"ASE 2024","title":"Language-Agnostic Static Analysis of Probabilistic Programs","author":"Markus Böck, Michael Schröder, Jürgen Cito"}
+{"conf":"ASE 2024","title":"LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models","author":"Shuncheng Tang, Zhenya Zhang, Jixiang Zhou, Lei Wang, Yuan Zhou, Yinxing Xue"}
+{"conf":"ASE 2024","title":"LeanBin: Harnessing Lifting and Recompilation to Debloat Binaries","author":"Igor Wodiany, Antoniu Pop, Mikel Luján"}
+{"conf":"ASE 2024","title":"Leveraging Large Language Model to Assist Detecting Rust Code Comment Inconsistency","author":"Zhang Yichi, Zixi Liu, Yang Feng, Baowen Xu"}
+{"conf":"ASE 2024","title":"MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing","author":"Congying Xu, Songqiang Chen, Jiarong Wu, Shing-Chi Cheung, Valerio Terragni, Hengcheng Zhu, Jialun Cao"}
+{"conf":"ASE 2024","title":"MRCA: Metric-level Root Cause Analysis for Microservices via Multi-Modal Data","author":"Wang yidan, Zhouruixing Zhu, Qiuai Fu, Yuchi Ma, Pinjia He"}
+{"conf":"ASE 2024","title":"Magneto: A Step-Wise Approach to Exploit Vulnerabilities in Dependent Libraries via LLM-Empowered Directed Fuzzing","author":"Zhuotong Zhou, Yongzhuo Yang, Susheng Wu, Yiheng Huang, Bihuan Chen, Xin Peng"}
+{"conf":"ASE 2024","title":"MaskDroid: Robust Android Malware Detection with Masked Graph Representations","author":"Jingnan Zheng, Jiahao Liu, Kechi Zhang, Jun ZENG, Ziqi Yang, Zhenkai Liang, Tat-Seng Chua"}
+{"conf":"ASE 2024","title":"Microservice Decomposition Techniques: An Independent Tool Comparison","author":"YINGYING WANG, Sarah Bornais, Julia Rubin"}
+{"conf":"ASE 2024","title":"MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs","author":"Yin Wang, Ming Fan, Hao Zhou, Haijun Wang, Wuxia Jin, Jiajia Li, Wenbo Chen, Shijie Li, Yu Zhang, Deqiang Han, Ting Liu"}
+{"conf":"ASE 2024","title":"Mutation-Based Deep Learning Framework Testing Method in JavaScript Environment","author":"Zou Yinglong, Juan Zhai, Chunrong Fang, Jiawei Liu, Tao Zheng, Zhenyu Chen"}
+{"conf":"ASE 2024","title":"Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training","author":"Yangsen Wang, Yizhou Chen, Yifan Zhao, Zhihao Gong, Junjie Chen, Dan Hao"}
+{"conf":"ASE 2024","title":"Navigating Mobile Testing Evaluation: A Comprehensive Statistical Analysis of Android GUI Testing Metrics","author":"Yuanhong Lan, Yifei Lu, Minxue Pan, Xuandong Li"}
+{"conf":"ASE 2024","title":"NeuroJIT: Improving Just-In-Time Defect Prediction Using Neurophysiological and Empirical Perceptions of Modern Developers","author":"Gichan Lee, Hansae Ju, Scott Uk-Jin Lee"}
+{"conf":"ASE 2024","title":"On the Evaluation of Large Language Models in Unit Test Generation","author":"Lin Yang, Chen Yang, Shutao Gao, Weijing Wang, Bo Wang, Qihao Zhu, Xiao Chu, Jianyi Zhou, Guangtai Liang, Qianxiang Wang, Junjie Chen"}
+{"conf":"ASE 2024","title":"Parf: Adaptive Parameter Tuning for Abstract Interpretation","author":"Zhongyi Wang, Linyu Yang, Mingshuai Chen, Yixuan Bu, Zhiyang Li, Qiuye Wang, Shengchao Qin, Yi Xiao, Jianwei Yin"}
+{"conf":"ASE 2024","title":"PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code","author":"Ziyou Jiang, Lin Shi, Guowei Yang, Qing Wang"}
+{"conf":"ASE 2024","title":"Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation","author":"gao xin yu, Yun Xiong, Deze Wang, Zhenhan Guan, Zejian Shi, Haofen Wang, Shanshan Li"}
+{"conf":"ASE 2024","title":"Prioritizing Test Inputs for DNNs Using Training Dynamics","author":"Jian Shen, Zhong Li, Minxue Pan, Xuandong Li"}
+{"conf":"ASE 2024","title":"Program Synthesis Meets Visual What-Comes-Next Puzzles","author":"Akshay Kumar Chittora, Varun Vankudre, Pankaj Kumar Kalita, Sumit Lahiri, Subhajit Roy"}
+{"conf":"ASE 2024","title":"Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization","author":"Zhi Chen, Lingxiao Jiang"}
+{"conf":"ASE 2024","title":"Proof Automation with Large Language Models","author":"Minghai Lu, Benjamin Delaware, Tianyi Zhang"}
+{"conf":"ASE 2024","title":"RCFG2Vec: Considering Long-Distance Dependency for Binary Code Similarity Detection","author":"Weilong Li, Jintian Lu, Ruizhi Xiao, Pengfei Shao, Shuyuan Jin"}
+{"conf":"ASE 2024","title":"REACT: IR-Level Patch Presence Test for Binary","author":"Qi Zhan, Xing Hu, Xin Xia, Shanping Li"}
+{"conf":"ASE 2024","title":"RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code","author":"Jiachi Chen, Qingyuan Zhong, Yanlin Wang, Kaiwen Ning, Yongkun Liu, Zenan Xu, Zhe Zhao, Ting Chen, Zibin Zheng"}
+{"conf":"ASE 2024","title":"ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation","author":"Shiwei Feng, Yapeng Ye, Qingkai Shi, Zhiyuan Cheng, Xiangzhe Xu, Siyuan Cheng, Hongjun Choi, Xiangyu Zhang"}
+{"conf":"ASE 2024","title":"Reducing Test Runtime by Transforming Test Fixtures","author":"Chengpeng Li, Abdelrahman Baz, August Shi"}
+{"conf":"ASE 2024","title":"Refinement Types for Visualization","author":"Jingtao Xia, Junrui Liu, Nicholas Brown, Yanju Chen, Yu Feng"}
+{"conf":"ASE 2024","title":"Repairing Regex-Dependent String Functions","author":"Nariyoshi Chida, Tachio Terauchi"}
+{"conf":"ASE 2024","title":"Revisiting the Conflict-Resolving Problem from a Semantic Perspective","author":"Jinhao Dong, Jun Sun, Yun Lin, Yedi Zhang, Murong Ma, Jin Song Dong, Dan Hao"}
+{"conf":"ASE 2024","title":"Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?","author":"Luan Pham, Huong Ha, Hongyu Zhang"}
+{"conf":"ASE 2024","title":"Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation","author":"Wenzhang Yang, Cuifeng Gao, Xiaoyuan Liu, Yuekang Li, Yinxing Xue"}
+{"conf":"ASE 2024","title":"SLIM: a Scalable and Interpretable Light-weight Fault Localization Algorithm for Imbalanced Data in Microservice","author":"Rui Ren, Jingbang Yang, Linxiao Yang, Xinyue Gu, Liang Sun"}
+{"conf":"ASE 2024","title":"STASE: Static Analysis Guided Symbolic Execution for UEFI Vulnerability Signature Generation","author":"Md Shafiuzzaman, Achintya Desai, Laboni Sarker, Tevfik Bultan"}
+{"conf":"ASE 2024","title":"Scaler: Efficient and Effective Cross Flow Analysis","author":"Steven (Jiaxun) Tang, Mingcan Xiang, Yang Wang, Bo Wu, Jianjun Chen, Tongping Liu"}
+{"conf":"ASE 2024","title":"Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models","author":"Cong Wu, Jing Chen, Ziwei Wang, Ruichao Liang, Ruiying Du"}
+{"conf":"ASE 2024","title":"Semantic-Enhanced Indirect Call Analysis with Large Language Models","author":"Baijun Cheng, Cen Zhang, Kailong Wang, Ling Shi, Yang Liu, Haoyu Wang, Yao Guo, Xiangqun Chen"}
+{"conf":"ASE 2024","title":"Semi-Supervised Code Translation Overcoming the Scarcity of Parallel Code Data","author":"Ming Zhu, Mohimenul Karim, Ismini Lourentzou, Daphne Yao"}
+{"conf":"ASE 2024","title":"Semistructured Merge with Language-Specific Syntactic Separators","author":"Guilherme Cavalcanti, Paulo Borba, Leonardo dos Anjos, Jonatas Clementino"}
+{"conf":"ASE 2024","title":"Shoot Yourself in the Foot — Efficient Code Causes Inefficiency in Compiler Optimizations","author":"Fengjuan Gao, Hongyu Chen, Yuewei Zhou, Ke Wang"}
+{"conf":"ASE 2024","title":"Sifting through the Chaff: On Utilizing Execution Feedback for Ranking the Generated Code Candidates","author":"Zhihong Sun, Yao Wan, Jia Li, Hongyu Zhang, Zhi Jin, Ge Li, Chen Lyu"}
+{"conf":"ASE 2024","title":"Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts","author":"Haijun Wang, Yurui Hu, Hao Wu, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu"}
+{"conf":"ASE 2024","title":"SlicePromptTest4J: High-coverage Test Generation using LLM via Method Slicing","author":"Zejun Wang, Kaibo Liu, Ge Li, Zhi Jin"}
+{"conf":"ASE 2024","title":"Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection","author":"Sicong Cao, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, Wei Liu"}
+{"conf":"ASE 2024","title":"SoVAR: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing","author":"An Guo, Yuan Zhou, Haoxiang Tian, Chunrong Fang, Yunjian Sun, Weisong Sun, Xinyu Gao, Luu Anh Tuan, Yang Liu, Zhenyu Chen"}
+{"conf":"ASE 2024","title":"SpiderScan: Practical Detection of Malicious NPM Packages Based on Graph-Based Behavior Modeling and Matching","author":"Yiheng Huang, Ruisi Wang, Wen Zheng, Zhuotong Zhou, Susheng Wu, Shulin Ke, Bihuan Chen, Shan Gao, Xin Peng"}
+{"conf":"ASE 2024","title":"Spotting Code Mutation for Predictive Mutation Testing","author":"Yifan Zhao, Yizhou Chen, Zeyu Sun, Qingyuan Liang, Guoqing Wang, Dan Hao"}
+{"conf":"ASE 2024","title":"Test Case Generation for Simulink Models using Model Fuzzing and State Solving","author":"Zhuo Su, Zehong Yu, Dongyan Wang, Wanli Chang, Bin Gu, Yu Jiang"}
+{"conf":"ASE 2024","title":"Test-Driven Development and LLM-based Code Generation","author":"Noble Saji Mathews, Mei Nagappan"}
+{"conf":"ASE 2024","title":"The Potential of One-Shot Failure Root Cause Analysis: Collaboration of the Large Language Model and Small Classifier","author":"Yongqi Han, Qingfeng Du, Ying Huang, Jiaqi Wu, Fulong Tian, Cheng He"}
+{"conf":"ASE 2024","title":"Three Heads Are Better Than One: Suggesting Move Method Refactoring Opportunities with Inter-class Code Entity Dependency Enhanced Hybrid Hypergraph Neural Network","author":"Di Cui, Jiaqi Wang, Qiangqiang Wang, Peng Ji, Minglang Qiao, Yutong Zhao, Jingzhao Hu, Luqiao Wang, Qingshan Li"}
+{"conf":"ASE 2024","title":"To Tag, or Not to Tag: Translating C’s Unions to Rust’s Tagged Unions","author":"Jaemin Hong, Sukyoung Ryu"}
+{"conf":"ASE 2024","title":"Towards Effective Static Type-Error Detection for Python","author":"Wonseok Oh, Hakjoo Oh"}
+{"conf":"ASE 2024","title":"Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach","author":"Vittoriano Muttillo, Claudio Di Sipio, Riccardo Rubei, Luca Berardinelli, MohammadHadi Dehghani"}
+{"conf":"ASE 2024","title":"Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation","author":"Zongze Jiang, Ming Wen, Jialun Cao, Xuanhua Shi, Hai Jin"}
+{"conf":"ASE 2024","title":"TypeFSL: Type Prediction from Binaries via Inter-procedural Data-flow Analysis and Few-shot Learning","author":"Zirui Song, YuTong Zhou, Shuaike Dong, Ke Zhang, Kehuan Zhang"}
+{"conf":"ASE 2024","title":"Typed and Confused: Studying the Unexpected Dangers of Gradual Typing","author":"Dominic Troppmann, Aurore Fass, Cristian-Alexandru Staicu"}
+{"conf":"ASE 2024","title":"UFront: Toward A Unified MLIR Frontend for Deep Learning","author":"Guoqing Bao, Heng Shi, Chengyi Cui, Yalin Zhang, Jianguo Yao"}
+{"conf":"ASE 2024","title":"Understanding Code Changes Practically with Small-Scale Language Models","author":"Cong Li, Zhaogui Xu, Peng Di, Dongxia Wang, Zheng Li, Qian Zheng"}
+{"conf":"ASE 2024","title":"Understanding the Implications of Changes to Build Systems","author":"Mahtab Nejati, Mahmoud Alfadel, Shane McIntosh"}
+{"conf":"ASE 2024","title":"Unlocking the Power of Numbers: Log Compression via Numeric Token Parsing","author":"Siyu Yu, Yifan Wu, Ying Li, Pinjia He"}
+{"conf":"ASE 2024","title":"Unveiling the Characteristics and Impact of Security Patch Evolution","author":"Zifan Xie, Ming Wen, Zichao Wei, Hai Jin"}
+{"conf":"ASE 2024","title":"Verifying the Option Type With Rely-Guarantee Reasoning","author":"James Yoo, Michael D. Ernst, René Just"}
+{"conf":"ASE 2024","title":"Vision: Identifying Affected Library Versions for Open Source Software Vulnerabilities","author":"Susheng Wu, Ruisi Wang, Kaifeng Huang, Yiheng Cao, Wenyan Song, Zhuotong Zhou, Yiheng Huang, Bihuan Chen, Xin Peng"}
+{"conf":"ASE 2024","title":"VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair","author":"Jian Zhang, Chong Wang, Anran Li, Wenhan Wang, Li Tianlin, Yang Liu"}
+{"conf":"ASE 2024","title":"WaDec: Decompile WebAssembly Using Large Language Model","author":"Xinyu She, Yanjie Zhao, Haoyu Wang"}
+{"conf":"ASE 2024","title":"What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing","author":"Chenyang Yang, Yining Hong, Grace Lewis, Tongshuang Wu, Christian Kästner"}
+{"conf":"ASE 2024","title":"What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective","author":"Xiao Yu, Zexian Zhang, Feifei Niu, Xing Hu, Xin Xia, John Grundy"}
 {"conf":"ISSTA 2024","title":"A Large-Scale Empirical Study on Improving the Fairness of Image Classification Models","author":"Junjie Yang, Jiajun Jiang, Zeyu Sun, Junjie Chen"}
 {"conf":"ISSTA 2024","title":"A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?","author":"Zhihan Jiang, Jinyang Liu, Junjie Huang, Yichen LI, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, Michael Lyu"}
 {"conf":"ISSTA 2024","title":"AI Coders Are Among Us: Rethinking Programming Language Grammar Towards Efficient Code Generation","author":"Zhensu Sun, Xiaoning Du, Zhou Yang, Li Li, David Lo"}
+{"conf":"ISSTA 2024","title":"AI Coders Are among Us: Rethinking Programming Language Grammar towards Efficient Code Generation","author":"Zhensu Sun, Xiaoning Du, Zhou Yang, Li Li, David Lo"}
 {"conf":"ISSTA 2024","title":"API Misuse Detection via Probabilistic Graphical Model","author":"Yunlong Ma, Wentong Tian, Xiang Gao, Hailong Sun, Li Li"}
 {"conf":"ISSTA 2024","title":"An Empirical Examination of Fuzzer Mutator Performance","author":"James Kukucka, Luís Pina, Paul Ammann, Jonathan Bell"}
 {"conf":"ISSTA 2024","title":"An Empirical Study of Static Analysis Tools for Secure Code Review","author":"Wachiraphan (Ping) Charoenwet, Patanamon Thongtanunam, Thuan Pham, Christoph Treude"}
 {"conf":"ISSTA 2024","title":"An Empirical Study on Kubernetes Operator Bugs","author":"Qingxin Xu, Yu Gao, Jun Wei"}
+{"conf":"ISSTA 2024","title":"An In-Depth Study of Runtime Verification Overheads during Software Testing","author":"Kevin Guan, Owolabi Legunsen"}
 {"conf":"ISSTA 2024","title":"An In-depth Study of Runtime Verification Overheads during Software Testing","author":"Kevin Guan, Owolabi Legunsen"}
+{"conf":"ISSTA 2024","title":"Arfa: An Agile Regime-Based Floating-Point Optimization Approach for Rounding Errors","author":"Jinchen Xu, Mengqi Cui, Fei Li, Zuoyan Zhang, Hongru Yang, Bei Zhou, Jie Zhao"}
 {"conf":"ISSTA 2024","title":"Arfa: an Agile Regime-based Floating-point Optimization Approach for Rounding Errors","author":"Jinchen Xu, Mengqi Cui, Fei Li, Zuoyan Zhang, Hongru Yang, Bei Zhou, Jie Zhao"}
 {"conf":"ISSTA 2024","title":"AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference","author":"Hyungseok Kim, Soomin Kim, Jungwoo Lee, Sang Kil Cha"}
 {"conf":"ISSTA 2024","title":"Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries","author":"Hao Xiong, Qinming Dai, Rui Chang, Mingran Qiu, Renxiang Wang, Wenbo Shen, Yajin Zhou"}
-{"conf":"ISSTA 2024","title":"AutoCodeRover: Autonomous Program Improvement","author":"Yuntong Zhang, Haifeng Ruan , Zhiyu Fan, Abhik Roychoudhury"}
-{"conf":"ISSTA 2024","title":"Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph","author":"Yan Xiaoyong, Biao He, Wenbo Shen, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang"}
+{"conf":"ISSTA 2024","title":"AutoCodeRover: Autonomous Program Improvement","author":"Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury"}
+{"conf":"ISSTA 2024","title":"Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph","author":"Xiaoyong Yan, Biao He, Wenbo Shen, Yu Ouyang, Kaihang Zhou, Xingjian Zhang, Xingyu Wang, Yukai Cao, Rui Chang"}
 {"conf":"ISSTA 2024","title":"Automated Deep Learning Optimization via DSL-Based Source Code Transformation","author":"Ruixin Wang, Minghai Lu, Cody Hao Yu, Yi-Hsiang Lai, Tianyi Zhang"}
+{"conf":"ISSTA 2024","title":"Automated Program Repair via Conversation: Fixing 162 out of 337 Bugs for $0.42 Each using ChatGPT","author":"Chunqiu Steven Xia, Lingming Zhang"}
 {"conf":"ISSTA 2024","title":"Automated Program Repair via Conversation: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT","author":"Chunqiu Steven Xia, Lingming Zhang"}
 {"conf":"ISSTA 2024","title":"Automating Zero-Shot Patch Porting for Hard Forks","author":"Shengyi Pan, You Wang, Zhongxin Liu, Xing Hu, Xin Xia, Shanping Li"}
 {"conf":"ISSTA 2024","title":"BRAFAR: Bidirectional Refactoring, Alignment, Fault Localization, and Repair for Programming Assignments","author":"Linna Xie, Chongmin Li, Yu Pei, Tian Zhang, Minxue Pan"}
@@ -378,37 +537,43 @@
 {"conf":"ISSTA 2024","title":"C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging","author":"Xuezhi Song, Yijian Wu, Shuning Liu, Bihuan Chen, Yun Lin, Xin Peng"}
 {"conf":"ISSTA 2024","title":"CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection","author":"Hao Wang, Zeyu Gao, Chao Zhang, Mingyang Sun, Yuchen Zhou, Han Qiu, Xi Xiao"}
 {"conf":"ISSTA 2024","title":"CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision","author":"Hao Wang, Zeyu Gao, Chao Zhang, Zihan Sha, Mingyang Sun, Yuchen Zhou, Wenyu Zhu, Wenju Sun, Han Qiu, Xi Xiao"}
+{"conf":"ISSTA 2024","title":"CREF: An LLM-Based Conversational Software Repair Framework for Programming Tutors","author":"Boyang Yang, Haoye Tian, Weiguo Pian, Haoran Yu, Haitao Wang, Jacques Klein, Tegawendé F. Bissyandé, Shunfu Jin"}
 {"conf":"ISSTA 2024","title":"CREF: An LLM-based Conversational Software Repair Framework for Programming Tutors","author":"Boyang Yang, Haoye Tian, Weiguo PIAN, Haoran Yu, Haitao Wang, Jacques Klein, Tegawendé F. Bissyandé, Shunfu Jin"}
 {"conf":"ISSTA 2024","title":"Calico: Automated Knowledge Calibration and Diagnosis for Elevating AI Mastery in Code Tasks","author":"Yuxin Qiu, Jie Hu, Qian Zhang, Heng Yin"}
 {"conf":"ISSTA 2024","title":"Call Graph Soundness in Android Static Analysis","author":"Jordan Samhi, René Just, Tegawendé F. Bissyandé, Michael D. Ernst, Jacques Klein"}
 {"conf":"ISSTA 2024","title":"Can Graph Database Systems Correctly Handle Writing Operations? A Metamorphic Testing Approach with Graph-State Persistence Oracle","author":"Shuang Liu, Junhao Lan, Xiaoning Du, Jiyuan Li, Wei Lu, Jiajun Jiang, Xiaoyong Du"}
-{"conf":"ISSTA 2024","title":"Certified Continual Learning for Neural Network Regression","author":"Long Pham Hong, Jun Sun"}
+{"conf":"ISSTA 2024","title":"Certified Continual Learning for Neural Network Regression","author":"Long H. Pham, Jun Sun"}
+{"conf":"ISSTA 2024","title":"Characterizing and Detecting Program Representation Faults of Static Analysis Frameworks","author":"Huaien Zhang, Yu Pei, Shuyun Liang, Zezhong Xing, Shin Hwei Tan"}
 {"conf":"ISSTA 2024","title":"Characterizing and Detecting Program Representation Faults of Static Analysis Frameworks via Two-Dimensional Testing","author":"Huaien Zhang, Yu Pei, Shuyun Liang, Zezhong Xing, Shin Hwei Tan"}
-{"conf":"ISSTA 2024","title":"CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature","author":"Chenyan Liu, Cai Yufan, Yun Lin, Yuhuan Huang, Yunrui Pei, Bo Jiang, Ping Yang, Jin Song Dong, Hong Mei"}
+{"conf":"ISSTA 2024","title":"CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature","author":"Chenyan Liu, Yufan Cai, Yun Lin, Yuhuan Huang, Yunrui Pei, Bo Jiang, Ping Yang, Jin Song Dong, Hong Mei"}
 {"conf":"ISSTA 2024","title":"CoSec: On-the-Fly Security Hardening of Code LLMs via Supervised Co-Decoding","author":"dong li, Meng Yan, Yaosheng Zhang, Zhongxin Liu, Chao Liu, Xiaohong Zhang, Ting Chen, David Lo"}
+{"conf":"ISSTA 2024","title":"CoSec: On-the-Fly Security Hardening of Code LLMs via Supervised Co-decoding","author":"Dong Li, Meng Yan, Yaosheng Zhang, Zhongxin Liu, Chao Liu, Xiaohong Zhang, Ting Chen, David Lo"}
 {"conf":"ISSTA 2024","title":"CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios","author":"Zhengran Zeng, Yidong Wang, Rui Xie, Wei Ye, Shikun Zhang"}
 {"conf":"ISSTA 2024","title":"Commit Artifact Preserving Build Prediction","author":"Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, Qingyuan Liang, Dan Hao"}
-{"conf":"ISSTA 2024","title":"CooTest: An Automated Testing Approach for V2X Communication Systems","author":"An Guo, Xinyu Gao, Zhenyu Chen, Yuan-An Xiao, Jiakai Liu, Xiuting Ge, Weisong Sun, Chunrong Fang"}
+{"conf":"ISSTA 2024","title":"CooTest: An Automated Testing Approach for V2X Communication Systems","author":"An Guo, Xinyu Gao, Zhenyu Chen, Yuan Xiao, Jiakai Liu, Xiuting Ge, Weisong Sun, Chunrong Fang"}
 {"conf":"ISSTA 2024","title":"DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3","author":"Zhiying Wu, Jiajing Wu, Hui Zhang, Ziwei Li, Jiachi Chen, Zibin Zheng, Qing Xia, Gang Fan, Yi Zhen"}
 {"conf":"ISSTA 2024","title":"DBStorm: Generating Various Effective Workloads for Testing Isolation Levels","author":"Keqiang Li, Siyang Weng, Lyu Ni, Chengcheng Yang, Rong Zhang, Xuan Zhou, Aoying Zhou"}
 {"conf":"ISSTA 2024","title":"DDGF: Dynamic Directed Greybox Fuzzing with Path Profiling","author":"Haoran Fang, Kaikai Zhang, Donghui Yu, Yuanyuan Zhang"}
 {"conf":"ISSTA 2024","title":"Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing","author":"Tong Wang, Taotao Gu, Huan Deng, Hu Li, Xiaohui Kuang, Gang Zhao"}
 {"conf":"ISSTA 2024","title":"Datactive: Data Fault Localization for Object Detection Systems","author":"Yining Yin, Yang Feng, Shihao Weng, Yuan Yao, Jia Liu, Zhihong Zhao"}
-{"conf":"ISSTA 2024","title":"DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications","author":"Maoyi Xie, Ming Hu, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, YUE XUE, Hao Zhang, Ye Liu, Yang Liu"}
-{"conf":"ISSTA 2024","title":"DeLink: Source File Information Recovery in Binaries","author":"Zhe Lang, Zhengzi Xu, Xiaohui Chen,  lvshichao, Zhanwei Song, zhiqiang shi, Limin Sun"}
+{"conf":"ISSTA 2024","title":"DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications","author":"Maoyi Xie, Ming Hu, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, Yang Liu"}
+{"conf":"ISSTA 2024","title":"DeLink: Source File Information Recovery in Binaries","author":"Zhe Lang, Zhengzi Xu, Xiaohui Chen, Shichao Lv, Zhanwei Song, Zhiqiang Shi, Limin Sun"}
 {"conf":"ISSTA 2024","title":"Decomposition of Deep Neural Networks into Modules via Mutation Analysis","author":"Ali Ghanbari"}
 {"conf":"ISSTA 2024","title":"Define-Use Guided Path Exploration for Better Forced Execution","author":"Dongnan He, Dongchen Xie, Yujie Wang, Wei You, Bin Liang, Jianjun Huang, Wenchang Shi, Zhuo Zhang, Xiangyu Zhang"}
 {"conf":"ISSTA 2024","title":"Detecting Build Dependency Errors in Incremental Builds","author":"Jun Lyu, Shanshan Li, He Zhang, Yang Zhang, Guoping Rong, Manuel Rigger"}
 {"conf":"ISSTA 2024","title":"DiaVio: LLM-Empowered Diagnosis of Safety Violations in ADS Simulation Testing","author":"You Lu, Yifan Tian, Yuyang Bi, Bihuan Chen, Xin Peng"}
 {"conf":"ISSTA 2024","title":"Distance-Aware Test Input Selection for Deep Neural Networks","author":"Zhong Li, Zhengfeng Xu, Ruihua Ji, Minxue Pan, Tian Zhang, Linzhang Wang, Xuandong Li"}
 {"conf":"ISSTA 2024","title":"DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation","author":"Mingke Yang, Yuqi Chen, Yi Liu, Ling Shi"}
+{"conf":"ISSTA 2024","title":"Domain Adaptation for Code Model-Based Unit Test Case Generation","author":"Jiho Shin, Sepehr Hashtroudi, Hadi Hemmati, Song Wang"}
 {"conf":"ISSTA 2024","title":"Domain Adaptation for Code Model-based Unit Test Case Generation","author":"Jiho Shin, Sepehr Hashtroudi, Hadi Hemmati, Song Wang"}
 {"conf":"ISSTA 2024","title":"Efficient DNN-Powered Software with Fair Sparse Models","author":"Xuanqi Gao, Weipeng Jiang, Juan Zhai, Shiqing Ma, Xiaoyu Zhang, Chao Shen"}
 {"conf":"ISSTA 2024","title":"Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis","author":"Shuwei Song, Jiachi Chen, Ting Chen, Xiapu Luo, Teng Li, Wenwu Yang, Leqing Wang, Weijie Zhang, Feng Luo, Zheyuan He, Yi Lu, Pan Li"}
 {"conf":"ISSTA 2024","title":"Enhancing Multi-Agent System Testing with Diversity-Guided Exploration and Adaptive Critical State Exploitation","author":"Ma Xuyan, Yawen Wang, Junjie Wang, Xiaofei Xie, Boyu Wu, Shoubin Li, Fanjiang Xu, Qing Wang"}
-{"conf":"ISSTA 2024","title":"Enhancing ROS System Fuzzing through Callback Tracing","author":"Yuheng Shen, Jianzhong Liu, Yiru Xu, Hao Sun, Mingzhe Wang, Heyuan Shi, Nan Guan, Yu Jiang"}
-{"conf":"ISSTA 2024","title":"Enhancing Robustness of Code Authorship Attribution through Expert Feature Knowledge","author":"XiaoweiGuo , Cai Fu, Juan Chen, Hongle Liu, Lansheng Han, Wenjin Li"}
+{"conf":"ISSTA 2024","title":"Enhancing Multi-agent System Testing with Diversity-Guided Exploration and Adaptive Critical State Exploitation","author":"Xuyan Ma, Yawen Wang, Junjie Wang, Xiaofei Xie, Boyu Wu, Shoubin Li, Fanjiang Xu, Qing Wang"}
+{"conf":"ISSTA 2024","title":"Enhancing ROS System Fuzzing through Callback Tracing","author":"Yuheng Shen, Jianzhong Liu, Yiru Xu, Hao Sun, Mingzhe Wang, Nan Guan, Heyuan Shi, Yu Jiang"}
+{"conf":"ISSTA 2024","title":"Enhancing Robustness of Code Authorship Attribution through Expert Feature Knowledge","author":"Xiaowei Guo, Cai Fu, Juan Chen, Hongle Liu, Lansheng Han, Wenjin Li"}
 {"conf":"ISSTA 2024","title":"Equivalent Mutants in the Wild: Identifying and Efficiently Suppressing Equivalent Mutants for Java Programs","author":"Benjamin Kushigian, Samuel Kaufman, Ryan Featherman, Hannah Potter, Ardi Madadi, René Just"}
+{"conf":"ISSTA 2024","title":"Evaluating Deep Neural Networks in Deployment: A Comparative Study (Replicability Study)","author":"Eduard Pinconschi, Divya Gopinath, Rui Abreu, Corina S. Păsăreanu"}
 {"conf":"ISSTA 2024","title":"Evaluating the Effectiveness of Decompilers","author":"Ying Cao, Runze Zhang, Ruigang Liang, Kai Chen"}
 {"conf":"ISSTA 2024","title":"Evaluating the Trustworthiness of Deep Neural Networks in Deployment - A Comparative Study (Replicability Study)","author":"Eduard Pinconschi, Divya Gopinath, Rui Abreu, Corina Pasareanu"}
 {"conf":"ISSTA 2024","title":"Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper)","author":"Paul-Antoine Le Tolguenec, Emmanuel Rachelson, Yann Besse, Florent Teichteil-Koenigsbuch, Nicolas Schneider, Helene Waeselynck, Dennis Wilson"}
@@ -422,24 +587,32 @@
 {"conf":"ISSTA 2024","title":"Finding Cuts in Static Analysis Graphs to Debloat Software","author":"Christoph Blumschein, Fabio Niephaus, Codrut Stancu, Christian Wimmer, Jens Lincke, Robert Hirschfeld"}
 {"conf":"ISSTA 2024","title":"Foliage: Nourishing Evolving Software by Characterizing and Clustering Field Bugs","author":"Zhanyao Lei, Yixiong Chen, Mingyuan Xia, Zhengwei Qi"}
 {"conf":"ISSTA 2024","title":"Following the \"Thread\": Toward Finding Manipulatable Bottlenecks In Blockchain Clients","author":"Shuohan Wu, zihao li, Hao Zhou, Xiapu Luo, Jianfeng Li, Haoyu Wang"}
+{"conf":"ISSTA 2024","title":"Following the “Thread”: Toward Finding Manipulatable Bottlenecks in Blockchain Clients","author":"Shuohan Wu, Zihao Li, Hao Zhou, Xiapu Luo, Jianfeng Li, Haoyu Wang"}
 {"conf":"ISSTA 2024","title":"FortifyPatch: Towards Tamper-Resistant Live Patching in Linux-Based Hypervisor","author":"Zhenyu Ye, Lei Zhou, Fengwei Zhang, Wenqiang Jin, Zhenyu Ning, Yupeng Hu, Zheng Qin"}
-{"conf":"ISSTA 2024","title":"FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees","author":"Liu Yunqi, Wei Song"}
+{"conf":"ISSTA 2024","title":"FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees","author":"Yunqi Liu, Wei Song"}
+{"conf":"ISSTA 2024","title":"Fuzzing JavaScript Interpreters with Coverage-Guided Reinforcement Learning for LLM-Based Mutation","author":"Jueon Eom, Seyeon Jeong, Taekyoung Kwon"}
 {"conf":"ISSTA 2024","title":"Fuzzing JavaScript Interpreters with Coverage-Guided Reinforcement Learning for LLM-based Mutation","author":"Jueon Eom, Seyeon Jeong, Taekyoung Kwon"}
 {"conf":"ISSTA 2024","title":"Fuzzing MLIR Compiler Infrastructure via Operation Dependency Analysis","author":"Chenyao Suo, Junjie Chen, Shuang Liu, Jiajun Jiang, Yingquan Zhao, Jianrong Wang"}
 {"conf":"ISSTA 2024","title":"Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation","author":"Zhaoyang Chu, Yao Wan, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin"}
+{"conf":"ISSTA 2024","title":"Guardian: A Runtime Framework for LLM-Based UI Exploration","author":"Dezhi Ran, Hao Wang, Zihe Song, Mengzhou Wu, Yuan Cao, Ying Zhang, Wei Yang, Tao Xie"}
 {"conf":"ISSTA 2024","title":"Guardian: A Runtime Framework for LLM-based UI Exploration","author":"Dezhi Ran, Hao Wang, Zihe Song, Mengzhou Wu, Yuan Cao, Ying Zhang, Wei Yang, Tao Xie"}
 {"conf":"ISSTA 2024","title":"How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation","author":"Cen Zhang, Yaowen Zheng, Mingqiang Bai, Yeting Li, Wei Ma, Xiaofei Xie, Yuekang Li, Limin Sun, Yang Liu"}
 {"conf":"ISSTA 2024","title":"Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow","author":"Jiachi Chen, Chong Chen, Jiang Hu, John Grundy, Yanlin Wang, Ting Chen, Zibin Zheng"}
+{"conf":"ISSTA 2024","title":"Inconsistencies in TeX-Produced Documents","author":"Jovyn Tan, Manuel Rigger"}
 {"conf":"ISSTA 2024","title":"Inconsistencies in TeX-produced Documents","author":"Jovyn Tan, Manuel Rigger"}
 {"conf":"ISSTA 2024","title":"Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters","author":"Purvish Jajal, Wenxin Jiang, Arav Tewari, Erik Kocinare, Joseph Woo, Anusha Sarraf, Yung-Hsiang Lu, George K. Thiruvathukal, James C. Davis"}
+{"conf":"ISSTA 2024","title":"Interpretability Based Neural Network Repair","author":"Zuohui Chen, Jun Zhou, Youcheng Sun, Jingyi Wang, Qi Xuan, Xiaoniu Yang"}
 {"conf":"ISSTA 2024","title":"Interpretability based Neural Network Repair","author":"Zuohui Chen, Jun Zhou, Youcheng Sun, Jingyi Wang, Qi Xuan, Xiaoniu Yang"}
 {"conf":"ISSTA 2024","title":"Interprocedural Path Complexity Analysis","author":"Mira Kaniyur, Ana Cavalcante-Studart, Yihan Yang, Sangeon Park, David Chen, Duy Lam, Lucas Bang"}
 {"conf":"ISSTA 2024","title":"Isolation-Based Debugging for Neural Networks","author":"Jialuo Chen, Jingyi Wang, Youcheng Sun, Peng Cheng, Jiming Chen"}
 {"conf":"ISSTA 2024","title":"LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts","author":"Peilin Zheng, Bowei Su, Xiapu Luo, Ting Chen, Neng Zhang, Zibin Zheng"}
-{"conf":"ISSTA 2024","title":"LLM4Fin: Fully Automating LLM-Powered Test Case Generation for FinTech Software Acceptance Testing","author":"Zhiyi Xue, Liangguo , Senyue Tian, Xiaohong Chen, Pingping Li, Liangyu Chen, Tingting Jiang, Min Zhang"}
+{"conf":"ISSTA 2024","title":"LLM4Fin: Fully Automating LLM-Powered Test Case Generation for FinTech Software Acceptance Testing","author":"Zhiyi Xue, Liangguo Li, Senyue Tian, Xiaohong Chen, Pingping Li, Liangyu Chen, Tingting Jiang, Min Zhang"}
 {"conf":"ISSTA 2024","title":"LPR: Large Language Models-Aided Program Reduction","author":"Mengxiao Zhang, Yongqiang Tian, Zhenyang Xu, Yiwen Dong, Shin Hwei Tan, Chengnian Sun"}
+{"conf":"ISSTA 2024","title":"Large Language Models Can Connect the Dots: Exploring Model Optimization Bugs with Domain Knowledge-Aware Prompts","author":"Hao Guan, Guangdong Bai, Yepang Liu"}
 {"conf":"ISSTA 2024","title":"Large Language Models can Connect the Dots: Exploring Model Optimization Bugs with Domain Knowledge-aware Prompts","author":"Hao Guan, Guangdong Bai, Yepang Liu"}
+{"conf":"ISSTA 2024","title":"Large Language Models for Equivalent Mutant Detection: How Far Are We?","author":"Zhao Tian, Honglin Shu, Dong Wang, Xuejie Cao, Yasutaka Kamei, Junjie Chen"}
 {"conf":"ISSTA 2024","title":"Large Language Models for Equivalent Mutant Detection: How Far are We?","author":"Zhao Tian, Honglin Shu, Dong Wang, Xuejie Cao, Yasutaka Kamei, Junjie Chen"}
+{"conf":"ISSTA 2024","title":"Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking","author":"Weilin Luo, Pingjia Liang, Junming Qiu, Polong Chen, Hai Wan, Jianfeng Du, Weiyuan Fang"}
 {"conf":"ISSTA 2024","title":"Learning to SAT-verifiably Check LTL Satisfiability via Differentiable Trace Checking","author":"Weilin Luo, Pingjia Liang, Qiu Junming, Polong Chen, Hai Wan, Jianfeng Du, Weiyuan Fang"}
 {"conf":"ISSTA 2024","title":"Logos: Log Guided Fuzzing for Protocol Implementations","author":"Feifan Wu, Zhengxiong Luo, Yanyang Zhao, Qingpeng Du, Junze Yu, Ruikang Peng, Heyuan Shi, Yu Jiang"}
 {"conf":"ISSTA 2024","title":"Ma11y: A Mutation Framework for Web Accessibility Testing","author":"Mahan Tafreshipour, Anmol Vilas Deshpande, Forough Mehralian, Iftekhar Ahmed, Sam Malek"}
@@ -449,53 +622,68 @@
 {"conf":"ISSTA 2024","title":"Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models","author":"Mingyi Zhou, Xiang Gao, Pei Liu, John Grundy, Chunyang Chen, Xiao Chen, Li Li"}
 {"conf":"ISSTA 2024","title":"Multi-modal Learning for WebAssembly Reverse Engineering","author":"Hanxian Huang, Jishen Zhao"}
 {"conf":"ISSTA 2024","title":"NativeSummary: Summarizing Native Binary Code for Inter-language Static Analysis of Android Apps","author":"Jikai Wang, Haoyu Wang"}
-{"conf":"ISSTA 2024","title":"NeuFair: Neural Network Fairness Repair with Dropout","author":"Vishnu Asutosh Dasu, Ashish Kumar, Saeid Tizpaz-Niari, Gang Tan"}
+{"conf":"ISSTA 2024","title":"NeuFair: Neural Network Fairness Repair with Dropout","author":"Vishnu Asutosh Dasu, Ashish Kumar, Saeid Tizpaz-Niari, Gang (Gary) Tan"}
 {"conf":"ISSTA 2024","title":"Neurosymbolic Repair of Test Flakiness","author":"Yang Chen, Reyhaneh Jabbarvand"}
 {"conf":"ISSTA 2024","title":"One Size Does Not Fit All: Multi-Granularity Patch Generation for Better Automated Program Repair","author":"Bo Lin, Shangwen Wang, Ming Wen, Liqian Chen, Xiaoguang Mao"}
-{"conf":"ISSTA 2024","title":"One-to-One or One-to-Many? Suggesting Extract Class Refactoring Opportunities with Intra-class Dependency Hypergraph Neural Network","author":"Di Cui, Qiangqiang Wang, Yutong Zhao, Jiaqi Wang, Minjie Wei, Jingzhao Hu, wangluqiao , Qingshan Li"}
+{"conf":"ISSTA 2024","title":"One Size Does Not Fit All: Multi-granularity Patch Generation for Better Automated Program Repair","author":"Bo Lin, Shangwen Wang, Ming Wen, Liqian Chen, Xiaoguang Mao"}
+{"conf":"ISSTA 2024","title":"One-to-One or One-to-Many? Suggesting Extract Class Refactoring Opportunities with Intra-class Dependency Hypergraph Neural Network","author":"Di Cui, Qiangqiang Wang, Yutong Zhao, Jiaqi Wang, Minjie Wei, Jingzhao Hu, Luqiao Wang, Qingshan Li"}
+{"conf":"ISSTA 2024","title":"Oracle-Guided Program Selection from Large Language Models","author":"Zhiyu Fan, Haifeng Ruan, Sergey Mechtaev, Abhik Roychoudhury"}
 {"conf":"ISSTA 2024","title":"Oracle-guided Program Selection from Large Language Models","author":"Zhiyu Fan, Haifeng Ruan , Sergey Mechtaev, Abhik Roychoudhury"}
 {"conf":"ISSTA 2024","title":"PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software","author":"Kaixuan Li, Jian Zhang, Sen Chen, Han Liu, Yang Liu, Yixiang Chen"}
 {"conf":"ISSTA 2024","title":"Policy Testing with MDPFuzz (Replicability Study)","author":"Quentin Mazouni, Helge Spieker, Arnaud Gotlieb, Mathieu Acher"}
 {"conf":"ISSTA 2024","title":"Practitioners’ Expectations on Automated Test Generation","author":"Xiao Yu, Lei Liu, Xing Hu, Jacky Keung, Xin Xia, David Lo"}
 {"conf":"ISSTA 2024","title":"Precise Compositional Buffer Overflow Detection via Heap Disjointness","author":"Yiyuan Guo, Peisen Yao, Charles Zhang"}
+{"conf":"ISSTA 2024","title":"Preserving Reactiveness: Understanding and Improving the Debugging Practice of Blocking-Call Bugs","author":"Arooba Shahoor, Jooyong Yi, Dongsun Kim"}
 {"conf":"ISSTA 2024","title":"Preserving Reactiveness: Understanding and Improving the Debugging Practice of Blocking-call Bugs","author":"Arooba Shahoor, Jooyong Yi, Dongsun Kim"}
+{"conf":"ISSTA 2024","title":"Prospector: Boosting Directed Greybox Fuzzing for Large-Scale Target Sets with Iterative Prioritization","author":"Zhijie Zhang, Liwei Chen, Haolai Wei, Gang Shi, Dan Meng"}
 {"conf":"ISSTA 2024","title":"Prospector: Boosting Directed Greybox Fuzzing for Large-scale Target Sets with Iterative Prioritization","author":"Zhijie Zhang, Liwei Chen, Haolai Wei, Gang Shi, Dan Meng"}
+{"conf":"ISSTA 2024","title":"Reproducing Timing-Dependent GUI Flaky Tests in Android Apps via a Single Event Delay","author":"Xiaobao Cai, Zhen Dong, Yongjiang Wang, Abhishek Tiwari, Xin Peng"}
 {"conf":"ISSTA 2024","title":"Reproducing Timing-dependent GUI Flaky Tests in Android Apps via A Single Event Delay","author":"Xiaobao Cai, Zhen Dong, Yongjiang Wang, Abhishek Tiwari, Xin Peng"}
 {"conf":"ISSTA 2024","title":"Revisiting Test-Case Prioritization on Long-Running Test Suites","author":"Runxiang Cheng, Shuai Wang, Reyhaneh Jabbarvand, Darko Marinov"}
+{"conf":"ISSTA 2024","title":"SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection","author":"Xin-Cheng Wen, Cuiyun Gao, Shuzheng Gao, Yang Xiao, Michael Lyu"}
 {"conf":"ISSTA 2024","title":"SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection","author":"Xin-Cheng Wen, Cuiyun Gao, Shuzheng Gao, Yang Xiao, Michael Lyu"}
 {"conf":"ISSTA 2024","title":"SQLess: Dialect-Agnostic SQL Query Simplification","author":"Li Lin, Zongyin Hao, Chengpeng Wang, Zhuangda Wang, Rongxin Wu, Gang Fan"}
 {"conf":"ISSTA 2024","title":"Scalable, Sound and Accurate Jump Table Analysis","author":"Huan Nguyen, Soumyakant Priyadarshan, R. Sekar"}
+{"conf":"ISSTA 2024","title":"Scalable, Sound, and Accurate Jump Table Analysis","author":"Huan Nguyen, Soumyakant Priyadarshan, R. Sekar"}
 {"conf":"ISSTA 2024","title":"See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing","author":"Yuanyuan Yuan, Shuai Wang, Zhendong Su"}
+{"conf":"ISSTA 2024","title":"Segment-Based Test Case Prioritization: A Multi-objective Approach","author":"Hieu Huynh, Nhu Pham, Tien N. Nguyen, Vu Nguyen"}
 {"conf":"ISSTA 2024","title":"Segment-based Test Case Prioritization: a Multi-objective Approach","author":"Hieu Huynh, Nhu Pham, Vu Nguyen, Tien N. Nguyen"}
 {"conf":"ISSTA 2024","title":"SelfPiCo: Self-Guided Partial Code Execution with LLMs","author":"Zhipeng Xue, Zhipeng Gao, Shaohua Wang, Xing Hu, Xin Xia, Shanping Li"}
 {"conf":"ISSTA 2024","title":"Semantic Constraint Inference for Web Form Test Generation","author":"Parsa Alian, Noor Nashid, Mobina Shahbandeh, Ali Mesbah"}
 {"conf":"ISSTA 2024","title":"Silent Taint-Style Vulnerability Fixes Identification","author":"Zhongzhen Wen, Jiayuan Zhou, Minxue Pan, Shaohua Wang, Xing Hu, Tongtong Xu, Tian Zhang, Xuandong Li"}
 {"conf":"ISSTA 2024","title":"Sleuth: A Switchable Dual-Mode Fuzzer to Investigate Bug Impacts Following a Single PoC","author":"Haolai Wei, Liwei Chen, Zhijie Zhang, Gang Shi, Dan Meng"}
 {"conf":"ISSTA 2024","title":"Synthesis of Sound and Precise Storage Cost Bounds via Unsound Resource Analysis and Max-SMT","author":"Elvira Albert, Jesús Correas, Pablo Gordillo, Guillermo Román-Díez, Albert Rubio"}
+{"conf":"ISSTA 2024","title":"Synthesis-Based Enhancement for GUI Test Case Migration","author":"Yakun Zhang, Qihao Zhu, Jiwei Yan, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang"}
 {"conf":"ISSTA 2024","title":"Synthesis-based Enhancement for GUI Test Case Migration","author":"Yakun Zhang, Qihao Zhu, Jiwei Yan, Chen Liu, Wenjie Zhang, Yifan Zhao, Dan Hao, Lu Zhang"}
 {"conf":"ISSTA 2024","title":"Synthesizing Boxes Preconditions for Deep Neural Networks","author":"Zengyu Liu, Liqian Chen, Wanwei Liu, Ji Wang"}
-{"conf":"ISSTA 2024","title":"Tacoma: Enhanced Browser Fuzzing with Fine-Grained Semantic Alignment","author":"Jiashui Wang, Peng Qian, Xilin Huang, Xinlei Ying, Yan Chen, Shouling Ji, Jianhai Chen, Jundong XIe, Long Liu"}
+{"conf":"ISSTA 2024","title":"Tacoma: Enhanced Browser Fuzzing with Fine-Grained Semantic Alignment","author":"Jiashui Wang, Peng Qian, Xilin Huang, Xinlei Ying, Yan Chen, Shouling Ji, Jianhai Chen, Jundong Xie, Long Liu"}
 {"conf":"ISSTA 2024","title":"TeDA: A Testing Framework for Data Usage Auditing in Deep Learning Model Development","author":"Xiangshan Gao, Jialuo Chen, Jingyi Wang, Jie Shi, Peng Cheng, Jiming Chen"}
 {"conf":"ISSTA 2024","title":"Test Selection for Deep Neural Networks using Meta-Models with Uncertainty Metrics","author":"Demet Demir, Aysu Betin Can, Elif Surer"}
+{"conf":"ISSTA 2024","title":"Testing Graph Database Systems with Graph-State Persistence Oracle","author":"Shuang Liu, Junhao Lan, Xiaoning Du, Jiyuan Li, Wei Lu, Jiajun Jiang, Xiaoyong Du"}
 {"conf":"ISSTA 2024","title":"Testing Gremlin-Based Graph Database Systems via Query Disassembling","author":"Yingying Zheng, Wensheng Dou, Lei Tang, Ziyu Cui, Yu Gao, Jiansen Song, Liang Xu, Jiaxin Zhu, Wei Wang, Jun Wei, Hua Zhong, Tao Huang"}
 {"conf":"ISSTA 2024","title":"ThinkRepair: Self-Directed Automated Program Repair","author":"Xin Yin, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang"}
 {"conf":"ISSTA 2024","title":"Total Recall? How Good Are Static Call Graphs Really?","author":"Dominik Helm, Sven Keidel, Anemone Kampkötter, Johannes Düsing, Tobias Roth, Ben Hermann, Mira Mezini"}
 {"conf":"ISSTA 2024","title":"Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions","author":"Antu Saha, Yang Song, Junayed Mahmud, Ying Zhou, Kevin Moran, Oscar Chaparro"}
+{"conf":"ISSTA 2024","title":"Towards Automatic Oracle Prediction for AR Testing: Assessing Virtual Object Placement Quality under Real-World Scenes","author":"Xiaoyi Yang, Yuxing Wang, Tahmid Rafi, Dongfang Liu, Xiaoyin Wang, Xueling Zhang"}
 {"conf":"ISSTA 2024","title":"Towards Automatic Oracle Prediction for AR testing: Assessing Virtual Object Placement Quality under Real-world Scenes","author":"Xiaoyi Yang, Yuxing Wang, Tahmid Rafi, Dongfang Liu, Xiaoyin Wang, Xueling Zhang"}
 {"conf":"ISSTA 2024","title":"Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement","author":"Gwihwan Go, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Yu Jiang"}
 {"conf":"ISSTA 2024","title":"Towards Understanding the Bugs in Solidity Compiler","author":"Haoyang Ma, Wuqi Zhang, Qingchao Shen, Yongqiang Tian, Junjie Chen, Shing-Chi Cheung"}
 {"conf":"ISSTA 2024","title":"Traceback: A Fault Localization Technique for Molecular Programs","author":"Michael C. Gerten, James I. Lathrop, Myra Cohen"}
 {"conf":"ISSTA 2024","title":"UPBEAT: Test Input Checks of Q# Quantum Libraries","author":"Tianmin Hu, Guixin Ye, Zhanyong Tang, Shin Hwei Tan, Huanting Wang, Meng Li, Zheng Wang"}
-{"conf":"ISSTA 2024","title":"Uncovering and Mitigating the Impact of Code Obfuscation on Dataset Annotation with Antivirus Engines","author":"Cuiying Gao, Yueming Wu, Heng Li, Wei Yuan, Haoyu Jiang, Qidan He, Yang Liu"}
+{"conf":"ISSTA 2024","title":"Uncovering and Mitigating the Impact of Code Obfuscation on Dataset Annotation with Antivirus Engines","author":"Gao Cuiying, Yueming Wu, Heng Li, Wei Yuan, Haoyu Jiang, Qidan He, Yang Liu"}
 {"conf":"ISSTA 2024","title":"Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches","author":"Paulo Canelas, Bradley Schmerl, Alcides Fonseca, Christopher Steven Timperley"}
 {"conf":"ISSTA 2024","title":"UniTSyn: A Large-Scale Dataset Capable of Enhancing the Prowess of Large Language Models for Program Testing","author":"Yifeng He, Jiabo Huang, Yuyang Rong, Yiwen Guo, Ethan Wang, Hao Chen"}
 {"conf":"ISSTA 2024","title":"Unimocg: Modular Call-Graph Algorithms for Consistent Handling of Language Features","author":"Dominik Helm, Tobias Roth, Sven Keidel, Michael Reif, Mira Mezini"}
 {"conf":"ISSTA 2024","title":"VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction","author":"Thanh-Dat Nguyen, Tung Do-Viet, Hung Nguyen-Duy, Tuan-Hai Luu, Hung Le, Xuan-Bach D. Le, Patanamon Thongtanunam"}
+{"conf":"ISSTA 2024","title":"VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-Guided Simulation Testing","author":"Zhongrui Li, Jiarun Dai, Zongan Huang, Nianhao You, Yuan Zhang, Min Yang"}
 {"conf":"ISSTA 2024","title":"VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-guided Simulation Testing","author":"Zhongrui Li, Jiarun Dai, Zongan Huang, Nianhao You, Yuan Zhang, Min Yang"}
+{"conf":"ISSTA 2024","title":"WASMaker: Differential Testing of WebAssembly Runtimes via Semantic-Aware Binary Generation","author":"Shangtong Cao, Ningyu He, Xinyu She, Yixuan Zhang, Mu Zhang, Haoyu Wang"}
 {"conf":"ISSTA 2024","title":"WASMaker: Differential Testing of WebAssembly Runtimes via Semantic-aware Binary Generation","author":"Shangtong Cao, Ningyu He, Xinyu She, Yixuan Zhang, Mu Zhang, Haoyu Wang"}
+{"conf":"ISSTA 2024","title":"Wapplique: Testing WebAssembly Runtime via Execution Context-Aware Bytecode Mutation","author":"Wenxuan Zhao, Ruiying Zeng, Yangfan Zhou"}
 {"conf":"ISSTA 2024","title":"Wapplique: Testing WebAssembly Runtime via Execution Context-aware Bytecode Mutation","author":"Wenxuan Zhao, Ruiying Zeng, Yangfan Zhou"}
 {"conf":"ISSTA 2024","title":"When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention","author":"Lianghong Guo, Yanlin Wang, Ensheng Shi, Wanjun Zhong, Hongyu Zhang, Jiachi Chen, Ruikai Zhang, Yuchi Ma, Zibin Zheng"}
 {"conf":"ISSTA 2024","title":"Your \"Notice\" is Missing: Detecting and Fixing Violations of Modification Terms in Open Source Licenses during Forking","author":"Kaifeng Huang, Yingfeng Xia, Bihuan Chen, Siyang He, Huazheng Zeng, Zhuotong Zhou, Jin Guo, Xin Peng"}
+{"conf":"ISSTA 2024","title":"Your “Notice” Is Missing: Detecting and Fixing Violations of Modification Terms in Open Source Licenses during Forking","author":"Kaifeng Huang, Yingfeng Xia, Bihuan Chen, Siyang He, Huazheng Zeng, Zhuotong Zhou, Jin Guo, Xin Peng"}
 {"conf":"ICSE 2023","title":"(Partial) Program Dependence Learning","author":"Aashish Yadavally, Wenbo Wang, Shaohua Wang, Tien N. Nguyen"}
 {"conf":"ICSE 2023","title":"A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization","author":"Hao Guan, Ying Xiao, Jiaying LI, Yepang Liu, Guangdong Bai"}
 {"conf":"ICSE 2023","title":"A Qualitative Study on the Implementation Design Decisions of Developers","author":"Jenny T. Liang, Maryam Arab, Minhyuk Ko, Amy Ko, Thomas LaToza"}
@@ -603,7 +791,7 @@
 {"conf":"ICSE 2023","title":"Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods","author":"Daye Nam, Brad A. Myers, Bogdan Vasilescu, Vincent J. Hellendoorn"}
 {"conf":"ICSE 2023","title":"Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation","author":"Sicong Cao, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li"}
 {"conf":"ICSE 2023","title":"Incident-aware Duplicate Ticket Aggregation for Cloud Systems","author":"Jinyang Liu, Shilin He, Zhuangbin Chen, Liqun Li, Yu Kang, Xu Zhang, Pinjia He, Hongyu Zhang, Qingwei Lin, Zhangwei Xu, Saravan Rajmohan, Dongmei Zhang, Michael Lyu"}
-{"conf":"ICSE 2023","title":"Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks","author":"Verya Monjezi, Ashutosh Trivedi, Gang Tan, Saeid Tizpaz-Niari"}
+{"conf":"ICSE 2023","title":"Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks","author":"Verya Monjezi, Ashutosh Trivedi, Gang (Gary) Tan, Saeid Tizpaz-Niari"}
 {"conf":"ICSE 2023","title":"Is It Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues","author":"Xin Tan, Yiran Chen, Haohua Wu, Minghui Zhou, Li Zhang"}
 {"conf":"ICSE 2023","title":"JITfuzz: Coverage-guided Fuzzing for JVM Just-in-Time Compilers","author":"Mingyuan Wu, Minghai Lu, Heming Cui, Junjie Chen, Yuqun Zhang, Lingming Zhang"}
 {"conf":"ICSE 2023","title":"KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair","author":"Nan Jiang, Thibaud Lutellier, Yiling Lou, Lin Tan, Dan Goldwasser, Xiangyu Zhang"}
@@ -739,7 +927,7 @@
 {"conf":"FSE 2023","title":"DecompoVision: Reliability Analysis of Machine Vision Components Through Decomposition and Reuse","author":"Boyue Caroline Hu, Lina Marsso, Nikita Dvornik, Huakun Shen, Marsha Chechik"}
 {"conf":"FSE 2023","title":"Deep Learning Based Feature Envy Detection Boosted by Real-World Examples","author":"Bo Liu, Hui Liu, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, Yanjie Jiang"}
 {"conf":"FSE 2023","title":"DeepDebugger: An Interactive Time-Travelling Debugging Approach for Deep Classifiers","author":"Xianglin Yang, Yun Lin, Yifan Zhang, Linpeng Huang, Jin Song Dong, Hong Mei"}
-{"conf":"FSE 2023","title":"DeepInfer: Deep Type Inference from Smart Contract Bytecode","author":"Kunsong Zhao, zihao li, Jianfeng Li, He Ye, Xiapu Luo, Ting Chen"}
+{"conf":"FSE 2023","title":"DeepInfer: Deep Type Inference from Smart Contract Bytecode","author":"Kunsong Zhao, Zihao Li, Jianfeng Li, He Ye, Xiapu Luo, Ting Chen"}
 {"conf":"FSE 2023","title":"DeepRover: A Query-efficient Blackbox Attack for Deep Neural Networks","author":"Fuyuan Zhang, Xinwen Hu, Lei Ma, Jianjun Zhao"}
 {"conf":"FSE 2023","title":"Demystifying Dependency Bugs in Deep Learning Stack","author":"Kaifeng Huang, Bihuan Chen, Susheng Wu, Junming Cao, Lei Ma, Xin Peng"}
 {"conf":"FSE 2023","title":"Demystifying the Composition and Code Reuse in Solidity Smart Contracts","author":"Kairan Sun, Zhengzi Xu, Chengwei Liu, Kaixuan Li, Yang Liu"}
@@ -1156,7 +1344,7 @@
 {"conf":"ICSE 2022","title":"FADATest: Fast and Adaptive Performance Regression Testing of Dynamic Binary Translation Systems","author":"Jin Wu, Jian Dong, Ruili Fang, Wen Zhang, Wenwen Wang, Decheng Zuo"}
 {"conf":"ICSE 2022","title":"FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation","author":"Jinhao Dong, Yiling Lou, Qihao Zhu, Zeyu Sun, Zhilin Li, Wenjie Zhang, Dan Hao"}
 {"conf":"ICSE 2022","title":"FairNeuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons","author":"Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, Yufei Chen, Qian Wang"}
-{"conf":"ICSE 2022","title":"Fairness-aware Configuration of Machine Learning Libraries","author":"Saeid Tizpaz-Niari, Ashish Kumar, Gang Tan, Ashutosh Trivedi"}
+{"conf":"ICSE 2022","title":"Fairness-aware Configuration of Machine Learning Libraries","author":"Saeid Tizpaz-Niari, Ashish Kumar, Gang (Gary) Tan, Ashutosh Trivedi"}
 {"conf":"ICSE 2022","title":"Fast Changeset-based Bug Localization with BERT","author":"Agnieszka Ciborowska , Kostadin Damevski"}
 {"conf":"ICSE 2022","title":"Fast and Precise Application Code Analysis using a Partial Library","author":"Akshay Utture, Jens Palsberg"}
 {"conf":"ICSE 2022","title":"Fault Localization via Efficient Probabilistic Modeling of Program Semantics","author":"Muhan Zeng, Yiqian Wu, Zhentao Ye, Yingfei Xiong, Xin Zhang, Lu Zhang"}
@@ -1810,7 +1998,7 @@
 {"conf":"ASE 2021","title":"CorbFuzz: Checking Browser Security Policies with Fuzzing","author":"Chaofan Shou, Ismet Burak Kadron, Qi Su, Tevfik Bultan"}
 {"conf":"ASE 2021","title":"Data-Driven Design and Evaluation of SMT Meta-Solving Strategies: Balancing Performance, Accuracy, and Cost","author":"Malte Mues, Falk Howar"}
 {"conf":"ASE 2021","title":"Deep GUI: Black-box GUI Input Generation with Deep Learning","author":"Faraz YazdaniBanafsheDaragh, Sam Malek"}
-{"conf":"ASE 2021","title":"DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning","author":"Triet Le Huynh Minh, David Hin, Roland Croft, Muhammad Ali Babar"}
+{"conf":"ASE 2021","title":"DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning","author":"Triet Le, David Hin, Roland Croft, Muhammad Ali Babar"}
 {"conf":"ASE 2021","title":"DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models","author":"Derui Zhu, Jinfu Chen, Weiyi Shang, Xuebing Zhou, Jens Grossklags, Ahmed E. Hassan"}
 {"conf":"ASE 2021","title":"DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score","author":"Vincenzo Riccio, Nargiz Humbatova, Gunel Jahangirova, Paolo Tonella"}
 {"conf":"ASE 2021","title":"Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers","author":"Xutong Ma, Jiwei Yan, Wei Wang, Jun Yan, Jian Zhang, Zongyan Qiu"}
