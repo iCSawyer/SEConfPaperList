@@ -1,8 +1,8 @@
 # Paper List of SE Conferences
 
-💥**Update**: Papers accepted by [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research) are included in this list! 
+💥**Update**: Papers accepted by ICSE 2025 Cycle 1&3 are continously being announced [here]([https://Conference.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-Cycle](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-and-Second-Cycle)) and we will add them after full acceptance announcement.
 
-💥**Update**: Papers accepted by ICSE 2025 Cycle 1 are continously being announced [here](https://Conference.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-Cycle) and we will add them after full acceptance announcement.
+💥**Update**: Papers accepted by [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research) are included in this list! 
 
 Research papers accepted by {ICSE, FSE, ASE, ISSTA} since 2020.
 
