@@ -1,4 +1,4 @@
-💥**Update**: Papers accepted by ISSTA/FSE/ASE 2025 are included in this list! 
+💥**Update**: Papers accepted by **ISSTA/FSE 2025** are included in this list! 
 
 # Paper List of SE Conferences
 
