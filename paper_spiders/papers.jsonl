@@ -378,6 +378,113 @@
 {"conf":"FSE 2025","title":"Who Will Stop Contributing to OSS Projects? Predicting Company Turnover Based on Initial Behavior","author":"Mian Qin, Yuxia Zhang, Klaas-Jan Stol, Hui Liu"}
 {"conf":"FSE 2025","title":"Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle","author":"Xiaokun Luan, David Sanan, Zhe Hou, Qiyuan Xu, Chengwei Liu, Yufan Cai, Yang Liu, Meng Sun"}
 {"conf":"FSE 2025","title":"Zero-Shot Cross-Domain Code Search without Fine-Tuning","author":"Keyu Liang, Zhongxin Liu, Chao Liu, Zhiyuan Wan, David Lo, Xiaohu Yang"}
+{"conf":"ISSTA 2025","title":"A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing","author":"ye shang, Quanjun Zhang, Chunrong Fang, Siqi Gu, Jianyi Zhou, Zhenyu Chen"}
+{"conf":"ISSTA 2025","title":"A Low-Cost Feature Interaction Fault Localization Approach for Software Product Lines","author":"Haining Wang, Yi Xiang, Han Huang, Jie Cao, Kaichen Chen, Xiaowei Yang"}
+{"conf":"ISSTA 2025","title":"ALMOND: Learning an Assembly Language Model for 0-Shot Code Obfuscation Detection","author":"Xuezixiang Li, Sheng Yu, Heng Yin"}
+{"conf":"ISSTA 2025","title":"Adding Spatial Memory Safety to EDK II through Checked C (Experience Paper)","author":"Sourag Cherupattamoolayil, Arunkumar Bhattar, Connor Everett Glosner, Aravind Machiry"}
+{"conf":"ISSTA 2025","title":"AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent","author":"He Ye, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, Claire Le Goues"}
+{"conf":"ISSTA 2025","title":"An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection","author":"Ravishka Shemal Rathnasuriya, Nidhi Majoju, Zihe Song, Wei Yang"}
+{"conf":"ISSTA 2025","title":"Are Autonomous Web Agents good testers?","author":"Antoine chevrot, Alexandre Vernotte, Jean-Rémy Falleri, Xavier Blanc, Bruno Legeard, Aymeric Cretin"}
+{"conf":"ISSTA 2025","title":"AudioTest: Prioritizing Audio Test Cases","author":"Yinghua Li, Xueqi Dang, Wendkuuni Arzouma Marc Christian OUEDRAOGO, Jacques Klein, Tegawendé F. Bissyandé"}
+{"conf":"ISSTA 2025","title":"Automated Attack Synthesis for Constant Product Market Makers","author":"Sujin Han, Jinseo Kim, Sung-Ju Lee, Insu Yun"}
+{"conf":"ISSTA 2025","title":"Automated Scene Generation for Testing COLREGS-Compliance of Autonomous Surface Vehicles","author":"Dominik Frey, Ulf Kargén, Daniel Varro"}
+{"conf":"ISSTA 2025","title":"Automated Test Transfer Across Android Apps Using Large Language Models","author":"Benyamin Beyzaei, Saghar Talebipour, Ghazal Rafiei, Nenad Medvidović, Sam Malek"}
+{"conf":"ISSTA 2025","title":"Beyond Static Pattern Matching? Rethinking Automatic Cryptographic API Misuse Detection in the Era of LLMs","author":"Yifan Xia, Zichen Xie, Peiyu Liu, Kangjie Lu, Yan Liu, Wenhai Wang, Shouling Ji"}
+{"conf":"ISSTA 2025","title":"BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction","author":"Lian Gao, Heng Yin"}
+{"conf":"ISSTA 2025","title":"BinQuery: A Novel Framework for Natural Language-Based Binary Code Retrieval","author":"Bolun Zhang, Zeyu Gao, Hao Wang, Yuxin Cui, Siliang Qin, Chao Zhang, Kai Chen, Beibei Zhao"}
+{"conf":"ISSTA 2025","title":"Bridge the Islands: Pointer Analysis for Microservice Systems","author":"Teng Zhang, Yufei Liang, Ganlin Li, Tian Tan, Chang Xu, Yue Li"}
+{"conf":"ISSTA 2025","title":"Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better","author":"Qingchen Yu, Xin Liu, Qingguo Zhou, Chunming Wu"}
+{"conf":"ISSTA 2025","title":"Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks","author":"Ruiqi Wang, Jiyu Guo, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia"}
+{"conf":"ISSTA 2025","title":"Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation","author":"Zhenlan Ji, Pingchuan Ma, Li Zongjie, Zhaoyu Wang, Shuai Wang"}
+{"conf":"ISSTA 2025","title":"ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation","author":"Pengyu Xue, Linhao Wu, Zhen Yang, Chengyi Wang, Xiang Li, Yuxiang Zhang, Jia Li, Ruikai Jin, Yifei Pei, Zhaoyan Shen, Xiran Lyu, Jacky Keung"}
+{"conf":"ISSTA 2025","title":"Clause2Inv: A Generate-Combine-Check Framework for Loop Invariant Inference","author":"Weining Cao, Guangyuan Wu, Tangzhi Xu, Yuan Yao, Hengfeng Wei, Taolue Chen, Xiaoxing Ma"}
+{"conf":"ISSTA 2025","title":"ConTested: Consistency-Aided Tested Code Generation with LLM","author":"Jinhao Dong, Jun Sun, Wenjie Zhang, Jin Song Dong, Dan Hao"}
+{"conf":"ISSTA 2025","title":"Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts","author":"Zexu Wang, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng"}
+{"conf":"ISSTA 2025","title":"CrossProbe: LLM-empowered Cross-Project Bug Detection for Deep Learning Frameworks","author":"Hao Guan, Guangdong Bai, Yepang Liu"}
+{"conf":"ISSTA 2025","title":"DataHook: An Efficient and Lightweight System Call Hooking Technique without Instruction Modification","author":"Quan Hong, Jiaqi Li, Wen Zhang, Lidong Zhai"}
+{"conf":"ISSTA 2025","title":"DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction","author":"Yuan Xiao, Yuchen Chen, Shiqing Ma, Haocheng Huang, Chunrong Fang, Yanwei Chen, Weisong Sun, Yunfeng Zhu, Xiaofang Zhang, Zhenyu Chen"}
+{"conf":"ISSTA 2025","title":"DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code","author":"WONG Wai Kin, Daoyuan Wu, Huaijin Wang, Li Zongjie, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu"}
+{"conf":"ISSTA 2025","title":"DepState: Detecting Synchronization Failure Bugs in Distributed Database Management Systems","author":"Cundi Fang, Jie Liang, Zhiyong Wu, Jingzhou Fu, Zhouyang Jia, Chun Huang, Yu Jiang, Shanshan Li"}
+{"conf":"ISSTA 2025","title":"Detecting Isolation Anomalies in Relational DBMSs","author":"Rui Yang, Ziyu Cui, Wensheng Dou, Yu Gao, Jiansen Song, Xudong Xie, Jun Wei"}
+{"conf":"ISSTA 2025","title":"Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration","author":"Zhu Zhiling, Tieming Chen, Chengwei Liu, Han Liu, Qijie Song, Zhengzi Xu, Yang Liu"}
+{"conf":"ISSTA 2025","title":"Dynamically Fusing Python HPC Kernels","author":"Nader Al Awar, Muhammad Hannan Naeem, James Almgren-Bell, George Biros, Milos Gligoric"}
+{"conf":"ISSTA 2025","title":"Effective REST APIs Testing with Error Message Analysis","author":"Lixin Xu, Huayao Wu, Zhenyu Pan, Tongtong Xu, Shaohua Wang, Xintao Niu, Changhai Nie"}
+{"conf":"ISSTA 2025","title":"Enhanced Prompting Framework for Code Summarization with Large Language Models","author":"fangminying , Xing Yuan, Yuying Li, Haojie Li, Chunrong Fang, Junwei Du"}
+{"conf":"ISSTA 2025","title":"Enhancing Smart Contract Security Analysis with Execution Property Graphs","author":"Kaihua Qin, Zhe Ye, Zhun Wang, Weilin Li, Liyi Zhou, Chao Zhang, Dawn Song, Arthur Gervais"}
+{"conf":"ISSTA 2025","title":"Enhancing Vulnerability Detection via Inter-procedural Semantic Completion","author":"bozhi wu, Chengjie Liu, Zhiming Li, Yushi Cao, Jun Sun, Shang-Wei LIN"}
+{"conf":"ISSTA 2025","title":"Extended Reality Cybersickness Assessment via User Review Analysis","author":"Shuqing Li, Qisheng Zheng, Cuiyun Gao, jiafeng , Michael Lyu"}
+{"conf":"ISSTA 2025","title":"FANDANGO: Evolving Language-Based Testing","author":"José Antonio Zamudio Amaya, Marius Smytzek, Andreas Zeller"}
+{"conf":"ISSTA 2025","title":"Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models","author":"Yisong Xiao, Aishan Liu, Siyuan Liang, Xianglong Liu, Dacheng Tao"}
+{"conf":"ISSTA 2025","title":"Finding 709 Defects in 258 Projects: An Experience Report on Applying CodeQL to Open-Source Embedded Software (Experience Paper)","author":"Mingjie Shen, Akul Abhilash Pillai, Brian A. Yuan, James C. Davis, Aravind Machiry"}
+{"conf":"ISSTA 2025","title":"Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management","author":"Lyuye Zhang, Wu Jiahui, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, Yang Liu"}
+{"conf":"ISSTA 2025","title":"FreeWavm: Enhanced WebAssembly Runtime Fuzzing Guided by Parse Tree Mutation and Snapshot","author":"Peng Qian, Xinlei Ying, Jiashui Wang, Long Liu, Lun Zhang, Jianhai Chen, Qinming He"}
+{"conf":"ISSTA 2025","title":"Freesia: Verifying Correctness of TEE Communication with Concurrent Separation Logic","author":"Fanlang Zeng, Rui Chang, Hongjian Liu"}
+{"conf":"ISSTA 2025","title":"GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs","author":"Ruofan Liu, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, Jin Song Dong"}
+{"conf":"ISSTA 2025","title":"Gamifying Testing in IntelliJ: A Replicability Study","author":"Philipp Straubinger, Tommaso Fulcini, Giacomo Garaccione, Luca Ardito, Gordon Fraser"}
+{"conf":"ISSTA 2025","title":"GoPV: Detecting Blocking Concurrency Bugs Related to Shared-Memory Synchronization in Go","author":"Wei Song, Xiaofan Xu, Jeff Huang"}
+{"conf":"ISSTA 2025","title":"Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis","author":"Zhiyong Wu, Jie Liang, Jingzhou Fu, Mingzhe Wang, Yu Jiang"}
+{"conf":"ISSTA 2025","title":"ICEPRE: ICS protocol reverse engineering via data-driven concolic execution","author":"Yibo Qu, Dongliang Fang, Zhen Wang, Jiaxing Cheng, Shuaizong Si , Yongle Chen, Limin Sun"}
+{"conf":"ISSTA 2025","title":"Identifying Multi-Parameter Constraint Errors in Python Data Science Library API Documentations","author":"Xiufeng Xu, Fuman Xie, Chenguang Zhu, Guangdong Bai, Sarfraz Khurshid, Yi Li"}
+{"conf":"ISSTA 2025","title":"Improving Deep Learning Framework Testing with Model-Level Metamorphic Testing","author":"Yanzhou Mu, Juan Zhai, Chunrong Fang, Xiang Chen, Zhixiang Cao, Peiran Yang, Kexin Zhao, An Guo, Zhenyu Chen"}
+{"conf":"ISSTA 2025","title":"Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation","author":"Liangze Yin, Yiwei Li, Kun Chen, Wei Dong, Ji Wang"}
+{"conf":"ISSTA 2025","title":"Intention-based GUI Test Migration for Mobile Apps using Large Language Models","author":"Shaoheng Cao, Minxue Pan, Yuanhong Lan, Xuandong Li"}
+{"conf":"ISSTA 2025","title":"KEENHash: Hashing Programs into Function-aware Embeddings for Large-scale Binary Code Similarity Analysis","author":"Zhijie Liu, Qiyi Tang, Sen Nie, Shi Wu, Liangfeng Zhang, Yutian Tang"}
+{"conf":"ISSTA 2025","title":"KRAKEN: Program-Adaptive Parallel Fuzzing","author":"Anshunkang Zhou, Heqing Huang, Charles Zhang"}
+{"conf":"ISSTA 2025","title":"LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation","author":"Ziyao Zhang, Chong Wang, Yanlin Wang, Ensheng Shi, Yuchi Ma, Wanjun Zhong, Jiachi Chen, Mingzhi Mao, Zibin Zheng"}
+{"conf":"ISSTA 2025","title":"LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models","author":"Lingxiao Tang, Jiakun Liu, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao "}
+{"conf":"ISSTA 2025","title":"LogBase: A Large-Scale Benchmark for Semantic Log Parsing","author":"Chenbo Zhang, Wenying Xu, Jinbu Liu, Lu Zhang, Guiyang Liu, Jihong Guan, Qi Zhou, Shuigeng Zhou"}
+{"conf":"ISSTA 2025","title":"MLLM-Based UI2Code Automation Guided by UI Layout Information","author":"Fan Wu, Cuiyun Gao, Shuqing Li, Xin-Cheng Wen, Qing Liao"}
+{"conf":"ISSTA 2025","title":"MoDitector: Module-Directed Testing for Autonomous Driving Systems","author":"Renzhi Wang, Mingfei Cheng, Xiaofei Xie, Yuan Zhou, Lei Ma"}
+{"conf":"ISSTA 2025","title":"Model Checking Guided Incremental Testing for Distributed Systems","author":"Yu Gao, Dong Wang, Wensheng Dou, Wenhan Feng, Yu Liang, Yuan Feng, Jun Wei"}
+{"conf":"ISSTA 2025","title":"More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph","author":"Dezhen Kong, Jiakun Liu, Chao Ni, David Lo, Lingfeng Bao "}
+{"conf":"ISSTA 2025","title":"NADA: Neural Acceptance-driven Approximate Specification Mining","author":"Weilin Luo, Tingchen Han, Junming Qiu, Hai Wan, Jianfeng Du, Bo Peng, Guohui Xiao, Yanan Liu"}
+{"conf":"ISSTA 2025","title":"No Bias Left Behind: Fairness Testing for Deep Recommender Systems Targeting General Disadvantaged Groups","author":"Zhuo Wu, Zan Wang, Chuan Luo, Xiaoning Du, Junjie Chen"}
+{"conf":"ISSTA 2025","title":"OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution","author":"Lianghong Guo, Wei Tao, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng"}
+{"conf":"ISSTA 2025","title":"OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine","author":"Jie Ma, Ningyu He, Jinwen Xi, Mingzhe Xing, Haoyu Wang, Ying Gao, Yinliang Yue"}
+{"conf":"ISSTA 2025","title":"PatchScope: LLM-Enhanced Fine-Grained Stable Patch Classification for Linux Kernel","author":"Rongkai Liu, Heyuan Shi, Shuning Liu, Chao Hu, Sisheng Li, Yuheng Shen, Runzhe Wang, Xiaohai Shi, Yu Jiang"}
+{"conf":"ISSTA 2025","title":"Pepper: Preference-Aware Active Trapping for Ransomware","author":"Huan Zhang, Zhengkai Qin, Lixin Zhao, Aimin Yu, Lijun Cai, Dan Meng"}
+{"conf":"ISSTA 2025","title":"Porting Software Libraries to OpenHarmony: Transitioning from TypeScript or JavaScript to ArkTS","author":"Bo Zhou, Jiaqi Shi, Ying Wang, Li Li, Li Tsz On, Hai Yu, Zhiliang Zhu"}
+{"conf":"ISSTA 2025","title":"Preventing Disruption of System Backup Against Ransomware Attacks","author":"Yiwei Hou, Lihua Guo, Chijin Zhou, Quan Zhang, Wenhuan Liu, Chengnian Sun, Yu Jiang"}
+{"conf":"ISSTA 2025","title":"Productively Deploying Emerging Models on Emerging Platforms: A Top-Down Approach for Testing and Debugging","author":"Siyuan Feng, Jiawei Liu, Ruihang Lai, Charlie F. Ruan, Yong Yu, Lingming Zhang, Tianqi Chen"}
+{"conf":"ISSTA 2025","title":"Program Analysis Combining Generalized Bit-Level and Word-Level Abstractions","author":"Guangsheng Fan, Liqian Chen, Banghu Yin, Wenyu Zhang, Peisen Yao, Ji Wang"}
+{"conf":"ISSTA 2025","title":"Program Feature-based Benchmarking for Fuzz Testing","author":"Miao Miao, Sriteja Kummita, Eric Bodden, Shiyi Wei"}
+{"conf":"ISSTA 2025","title":"QTRAN: Extending Metamorphic-Oracle based Logical Bug Detection Techniques for Multiple-DBMS Dialect Support","author":"Li Lin, Qinglin Zhu, Hongqiao Chen, Zhuangda Wang, Rongxin Wu, Xiaoheng Xie"}
+{"conf":"ISSTA 2025","title":"Quantum Concolic Testing","author":"Shangzhou Xia, Jianjun Zhao, Fuyuan Zhang, Xiaoyu Guo"}
+{"conf":"ISSTA 2025","title":"REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models","author":"Jianlei Chi, Xiaotian Wang, Yuhan Huang, Lechen Yu, Di Cui, Jianguo Sun, Jun Sun"}
+{"conf":"ISSTA 2025","title":"Recurring Vulnerability Detection: How Far Are We?","author":"Yiheng Cao, Susheng Wu, Ruisi Wang, Bihuan Chen, Yiheng Huang, Chenhao Lu, Zhuotong Zhou, Xin Peng"}
+{"conf":"ISSTA 2025","title":"Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator","author":"Zhilei Ren, Yitao Li, Xiaochen Li, Guanxiao Qi, Jifeng Xuan, He Jiang"}
+{"conf":"ISSTA 2025","title":"Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective","author":"Mingyu Huang, Peili Mao, Ke Li"}
+{"conf":"ISSTA 2025","title":"Robust Vulnerability Detection Across Compilations: LLVM-IR vs. Assembly with Transformer Model","author":"Rony Shir, Priyanka Surve, Yuval Elovici, Asaf Shabtai"}
+{"conf":"ISSTA 2025","title":"RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search","author":"Siao Wang, Zhen Dong, Hui Li, Liwei Shen, Xin Peng, Dongdong She"}
+{"conf":"ISSTA 2025","title":"S-Eval: Towards Automated and Comprehensive Safety Evaluation for Large Language Models","author":"Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Jialuo Chen, Hui Xue, Xiaoxia Liu, Wenhai Wang, Kui Ren, Jingyi Wang"}
+{"conf":"ISSTA 2025","title":"STRUT: Structured Seed Case Guided Unit Test Generation for C Programs using LLMs","author":"Jinwei Liu, Chao Li, Rui Chen, Shaofeng Li, Bin Gu, Mengfei Yang"}
+{"conf":"ISSTA 2025","title":"SWE-GPT: A Process-Centric Language Model for Automated Software Improvement","author":"Yingwei Ma, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li"}
+{"conf":"ISSTA 2025","title":"Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs","author":"Huan Li, Bei Wang, Xing Hu, Xin Xia"}
+{"conf":"ISSTA 2025","title":"Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection","author":"Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng, Li Yang, Fengjun Zhang, Chenjie Shen, Jiajia Ma, Jingyuan Zhang, Junyi Lu, Chun Zuo"}
+{"conf":"ISSTA 2025","title":"SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment","author":"Dianxiang Sun, Wei Ma, Liming Nie, Yang Liu"}
+{"conf":"ISSTA 2025","title":"Static Program Reduction via Type-Directed Slicing","author":"Loi Ngo Duc Nguyen, Tahiatul Islam, Theron Wang, Sam Lenz, Martin Kellogg"}
+{"conf":"ISSTA 2025","title":"Structure-Aware, Diagnosis-Guided ECU Firmware Fuzzing","author":"Qicai Chen, Kun Hu, Sichen Gong, Bihuan Chen, kevin kong, Haowen Jiang, Bingkun Sun, You Lu, Xin Peng"}
+{"conf":"ISSTA 2025","title":"Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems","author":"Haoxiang Tian, wenqiang ding, Xingshuo Han, Guoquan Wu, An Guo, Junqi Zhang, Wei Chen, Jun Wei, Tianwei Zhang"}
+{"conf":"ISSTA 2025","title":"The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation","author":"Yingjie Fu, Bozhou Li, Linyi Li, Wentao Zhang, Tao Xie"}
+{"conf":"ISSTA 2025","title":"The Incredible Shrinking Context... in a decompiler near you","author":"Sifis Lagouvardos, Yannis Bollanos, Neville Grech, Yannis Smaragdakis"}
+{"conf":"ISSTA 2025","title":"Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection","author":"Niklas Risse, Jing Liu, Marcel Böhme"}
+{"conf":"ISSTA 2025","title":"Tracezip: Efficient Distributed Tracing via Trace Compression","author":"Zhuangbin Chen, Junsong Pu, Zibin Zheng"}
+{"conf":"ISSTA 2025","title":"Tratto: A Neuro-Symbolic Approach to Deriving Axiomatic Test Oracles","author":"Davide Molinelli, Alberto Martin-Lopez, Elliott Zackrone, Beyza Eken, Michael D. Ernst, Mauro Pezze"}
+{"conf":"ISSTA 2025","title":"Type-Alias Analysis: Enabling LLVM IR with Accurate Types","author":"Jinmeng Zhou, Ziyue Pan, Wenbo Shen, Xingkai Wang, Kangjie Lu, Zhiyun Qian"}
+{"conf":"ISSTA 2025","title":"Uncovering API-Scope Misalignment in the App-in-App Ecosystem","author":"Jiarui Che, Chenkai Guo, Naipeng Dong, Jiaqi Pei, Lingling Fan, Xun Mi, Xueshuo Xie, Xiangyang Luo, Zheli Liu, Renhong Cheng"}
+{"conf":"ISSTA 2025","title":"Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection","author":"haodong li, Xiao Cheng, Yanjie Zhao, Guosheng Xu, Guoai Xu, Haoyu Wang"}
+{"conf":"ISSTA 2025","title":"Understanding Practitioners’ Expectations on Clear Code Review Comments","author":"Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu, Xin Xia"}
+{"conf":"ISSTA 2025","title":"Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG","author":"Zhiyu Zhang, Longxing Li, Ruigang Liang, Kai Chen"}
+{"conf":"ISSTA 2025","title":"Validating Network Protocol Parsers with Traceable RFC Document Interpretation","author":"Mingwei Zheng, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang"}
+{"conf":"ISSTA 2025","title":"VerLog: Enhancing Release Note Generation for Android Apps using Large Language Models","author":"Jiawei Guo, Haoran Yang, Haipeng Cai"}
+{"conf":"ISSTA 2025","title":"Walls Have Ears: Demystifying Notification Listener Usage in Android Apps","author":"Jiapeng Deng, Tianming Liu, Yanjie Zhao, Chao Wang, Lin Zhang, Haoyu Wang"}
+{"conf":"ISSTA 2025","title":"Wemby’s Web: Hunting for Memory Corruption in WebAssembly","author":"Oussama Draissi, Tobias Cloosters, David Klein, Michael Rodler, Marius Musch, Martin Johns, Lucas Davi"}
+{"conf":"ISSTA 2025","title":"What Happened in This Pipeline? Diffing Build Logs With CiDiff","author":"Nicolas Hubner, Jean-Rémy Falleri, Raluca Uricaru, Thomas Degueule, Thomas Durieux"}
+{"conf":"ISSTA 2025","title":"Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain","author":"Xiaoye Zheng, Zhiyuan Wan, David Lo, Difan Xie, Xiaohu Yang"}
+{"conf":"ISSTA 2025","title":"WildSync: Automated Fuzzing Harness Synthesis via Wild API Usage Recovery","author":"Wei-Cheng Wu, Stefan Nagy, Christophe Hauser"}
+{"conf":"ISSTA 2025","title":"You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects","author":"Islem BOUZENIA, Michael Pradel"}
+{"conf":"ISSTA 2025","title":"ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference","author":"Yuchong Xie, Wenhui Zhang, Dongdong She"}
+{"conf":"ISSTA 2025","title":"xFUZZ: A Flexible Framework for Fine-Grained, Runtime-Adaptive Fuzzing Strategy Composition","author":"DongSong Yu, Yiyi Wang, Chao Zhang, Yang Lan, Zhiyuan Jiang, Shuitao Gan, Zheyu Ma, Wende Tan"}
 {"conf":"ICSE 2024","title":"A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments","author":"Gao Cuiying, Gaozhun Huang, Heng Li, Bang Wu, Yueming Wu, Wei Yuan"}
 {"conf":"ICSE 2024","title":"A First Look at the Inheritance-Induced Redundant Test Execution","author":"Dong Jae Kim, Jinqiu Yang, Tse-Hsun (Peter) Chen"}
 {"conf":"ICSE 2024","title":"A Framework For Inferring Properties of User-Defined Functions","author":"Xinyu Liu, Joy Arulraj, Alessandro Orso"}

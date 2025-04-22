@@ -27,7 +27,7 @@ paper_list = [
     # 2025
     {"conf": "ICSE 2025", "url": "https://conf.researchr.org/track/icse-2025/icse-2025-research-track"},
     {"conf": "FSE 2025", "url": "https://conf.researchr.org/track/fse-2025/fse-2025-research-papers"},
-    
+    {"conf": "ISSTA 2025", "url": "https://conf.researchr.org/track/issta-2025/issta-2025-papers"},
 ]
 
 paper_url_list = [p["url"] for p in paper_list]

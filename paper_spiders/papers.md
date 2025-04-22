@@ -380,6 +380,113 @@
 | FSE 2025 | Who Will Stop Contributing to OSS Projects? Predicting Company Turnover Based on Initial Behavior | Mian Qin, Yuxia Zhang, Klaas-Jan Stol, Hui Liu |
 | FSE 2025 | Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle | Xiaokun Luan, David Sanan, Zhe Hou, Qiyuan Xu, Chengwei Liu, Yufan Cai, Yang Liu, Meng Sun |
 | FSE 2025 | Zero-Shot Cross-Domain Code Search without Fine-Tuning | Keyu Liang, Zhongxin Liu, Chao Liu, Zhiyuan Wan, David Lo, Xiaohu Yang |
+| ISSTA 2025 | A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing | ye shang, Quanjun Zhang, Chunrong Fang, Siqi Gu, Jianyi Zhou, Zhenyu Chen |
+| ISSTA 2025 | A Low-Cost Feature Interaction Fault Localization Approach for Software Product Lines | Haining Wang, Yi Xiang, Han Huang, Jie Cao, Kaichen Chen, Xiaowei Yang |
+| ISSTA 2025 | ALMOND: Learning an Assembly Language Model for 0-Shot Code Obfuscation Detection | Xuezixiang Li, Sheng Yu, Heng Yin |
+| ISSTA 2025 | Adding Spatial Memory Safety to EDK II through Checked C (Experience Paper) | Sourag Cherupattamoolayil, Arunkumar Bhattar, Connor Everett Glosner, Aravind Machiry |
+| ISSTA 2025 | AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent | He Ye, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, Claire Le Goues |
+| ISSTA 2025 | An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection | Ravishka Shemal Rathnasuriya, Nidhi Majoju, Zihe Song, Wei Yang |
+| ISSTA 2025 | Are Autonomous Web Agents good testers? | Antoine chevrot, Alexandre Vernotte, Jean-Rémy Falleri, Xavier Blanc, Bruno Legeard, Aymeric Cretin |
+| ISSTA 2025 | AudioTest: Prioritizing Audio Test Cases | Yinghua Li, Xueqi Dang, Wendkuuni Arzouma Marc Christian OUEDRAOGO, Jacques Klein, Tegawendé F. Bissyandé |
+| ISSTA 2025 | Automated Attack Synthesis for Constant Product Market Makers | Sujin Han, Jinseo Kim, Sung-Ju Lee, Insu Yun |
+| ISSTA 2025 | Automated Scene Generation for Testing COLREGS-Compliance of Autonomous Surface Vehicles | Dominik Frey, Ulf Kargén, Daniel Varro |
+| ISSTA 2025 | Automated Test Transfer Across Android Apps Using Large Language Models | Benyamin Beyzaei, Saghar Talebipour, Ghazal Rafiei, Nenad Medvidović, Sam Malek |
+| ISSTA 2025 | Beyond Static Pattern Matching? Rethinking Automatic Cryptographic API Misuse Detection in the Era of LLMs | Yifan Xia, Zichen Xie, Peiyu Liu, Kangjie Lu, Yan Liu, Wenhai Wang, Shouling Ji |
+| ISSTA 2025 | BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction | Lian Gao, Heng Yin |
+| ISSTA 2025 | BinQuery: A Novel Framework for Natural Language-Based Binary Code Retrieval | Bolun Zhang, Zeyu Gao, Hao Wang, Yuxin Cui, Siliang Qin, Chao Zhang, Kai Chen, Beibei Zhao |
+| ISSTA 2025 | Bridge the Islands: Pointer Analysis for Microservice Systems | Teng Zhang, Yufei Liang, Ganlin Li, Tian Tan, Chang Xu, Yue Li |
+| ISSTA 2025 | Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better | Qingchen Yu, Xin Liu, Qingguo Zhou, Chunming Wu |
+| ISSTA 2025 | Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks | Ruiqi Wang, Jiyu Guo, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia |
+| ISSTA 2025 | Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation | Zhenlan Ji, Pingchuan Ma, Li Zongjie, Zhaoyu Wang, Shuai Wang |
+| ISSTA 2025 | ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation | Pengyu Xue, Linhao Wu, Zhen Yang, Chengyi Wang, Xiang Li, Yuxiang Zhang, Jia Li, Ruikai Jin, Yifei Pei, Zhaoyan Shen, Xiran Lyu, Jacky Keung |
+| ISSTA 2025 | Clause2Inv: A Generate-Combine-Check Framework for Loop Invariant Inference | Weining Cao, Guangyuan Wu, Tangzhi Xu, Yuan Yao, Hengfeng Wei, Taolue Chen, Xiaoxing Ma |
+| ISSTA 2025 | ConTested: Consistency-Aided Tested Code Generation with LLM | Jinhao Dong, Jun Sun, Wenjie Zhang, Jin Song Dong, Dan Hao |
+| ISSTA 2025 | Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts | Zexu Wang, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng |
+| ISSTA 2025 | CrossProbe: LLM-empowered Cross-Project Bug Detection for Deep Learning Frameworks | Hao Guan, Guangdong Bai, Yepang Liu |
+| ISSTA 2025 | DataHook: An Efficient and Lightweight System Call Hooking Technique without Instruction Modification | Quan Hong, Jiaqi Li, Wen Zhang, Lidong Zhai |
+| ISSTA 2025 | DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction | Yuan Xiao, Yuchen Chen, Shiqing Ma, Haocheng Huang, Chunrong Fang, Yanwei Chen, Weisong Sun, Yunfeng Zhu, Xiaofang Zhang, Zhenyu Chen |
+| ISSTA 2025 | DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code | WONG Wai Kin, Daoyuan Wu, Huaijin Wang, Li Zongjie, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu |
+| ISSTA 2025 | DepState: Detecting Synchronization Failure Bugs in Distributed Database Management Systems | Cundi Fang, Jie Liang, Zhiyong Wu, Jingzhou Fu, Zhouyang Jia, Chun Huang, Yu Jiang, Shanshan Li |
+| ISSTA 2025 | Detecting Isolation Anomalies in Relational DBMSs | Rui Yang, Ziyu Cui, Wensheng Dou, Yu Gao, Jiansen Song, Xudong Xie, Jun Wei |
+| ISSTA 2025 | Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration | Zhu Zhiling, Tieming Chen, Chengwei Liu, Han Liu, Qijie Song, Zhengzi Xu, Yang Liu |
+| ISSTA 2025 | Dynamically Fusing Python HPC Kernels | Nader Al Awar, Muhammad Hannan Naeem, James Almgren-Bell, George Biros, Milos Gligoric |
+| ISSTA 2025 | Effective REST APIs Testing with Error Message Analysis | Lixin Xu, Huayao Wu, Zhenyu Pan, Tongtong Xu, Shaohua Wang, Xintao Niu, Changhai Nie |
+| ISSTA 2025 | Enhanced Prompting Framework for Code Summarization with Large Language Models | fangminying , Xing Yuan, Yuying Li, Haojie Li, Chunrong Fang, Junwei Du |
+| ISSTA 2025 | Enhancing Smart Contract Security Analysis with Execution Property Graphs | Kaihua Qin, Zhe Ye, Zhun Wang, Weilin Li, Liyi Zhou, Chao Zhang, Dawn Song, Arthur Gervais |
+| ISSTA 2025 | Enhancing Vulnerability Detection via Inter-procedural Semantic Completion | bozhi wu, Chengjie Liu, Zhiming Li, Yushi Cao, Jun Sun, Shang-Wei LIN |
+| ISSTA 2025 | Extended Reality Cybersickness Assessment via User Review Analysis | Shuqing Li, Qisheng Zheng, Cuiyun Gao, jiafeng , Michael Lyu |
+| ISSTA 2025 | FANDANGO: Evolving Language-Based Testing | José Antonio Zamudio Amaya, Marius Smytzek, Andreas Zeller |
+| ISSTA 2025 | Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models | Yisong Xiao, Aishan Liu, Siyuan Liang, Xianglong Liu, Dacheng Tao |
+| ISSTA 2025 | Finding 709 Defects in 258 Projects: An Experience Report on Applying CodeQL to Open-Source Embedded Software (Experience Paper) | Mingjie Shen, Akul Abhilash Pillai, Brian A. Yuan, James C. Davis, Aravind Machiry |
+| ISSTA 2025 | Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management | Lyuye Zhang, Wu Jiahui, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, Yang Liu |
+| ISSTA 2025 | FreeWavm: Enhanced WebAssembly Runtime Fuzzing Guided by Parse Tree Mutation and Snapshot | Peng Qian, Xinlei Ying, Jiashui Wang, Long Liu, Lun Zhang, Jianhai Chen, Qinming He |
+| ISSTA 2025 | Freesia: Verifying Correctness of TEE Communication with Concurrent Separation Logic | Fanlang Zeng, Rui Chang, Hongjian Liu |
+| ISSTA 2025 | GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs | Ruofan Liu, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, Jin Song Dong |
+| ISSTA 2025 | Gamifying Testing in IntelliJ: A Replicability Study | Philipp Straubinger, Tommaso Fulcini, Giacomo Garaccione, Luca Ardito, Gordon Fraser |
+| ISSTA 2025 | GoPV: Detecting Blocking Concurrency Bugs Related to Shared-Memory Synchronization in Go | Wei Song, Xiaofan Xu, Jeff Huang |
+| ISSTA 2025 | Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis | Zhiyong Wu, Jie Liang, Jingzhou Fu, Mingzhe Wang, Yu Jiang |
+| ISSTA 2025 | ICEPRE: ICS protocol reverse engineering via data-driven concolic execution | Yibo Qu, Dongliang Fang, Zhen Wang, Jiaxing Cheng, Shuaizong Si , Yongle Chen, Limin Sun |
+| ISSTA 2025 | Identifying Multi-Parameter Constraint Errors in Python Data Science Library API Documentations | Xiufeng Xu, Fuman Xie, Chenguang Zhu, Guangdong Bai, Sarfraz Khurshid, Yi Li |
+| ISSTA 2025 | Improving Deep Learning Framework Testing with Model-Level Metamorphic Testing | Yanzhou Mu, Juan Zhai, Chunrong Fang, Xiang Chen, Zhixiang Cao, Peiran Yang, Kexin Zhao, An Guo, Zhenyu Chen |
+| ISSTA 2025 | Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation | Liangze Yin, Yiwei Li, Kun Chen, Wei Dong, Ji Wang |
+| ISSTA 2025 | Intention-based GUI Test Migration for Mobile Apps using Large Language Models | Shaoheng Cao, Minxue Pan, Yuanhong Lan, Xuandong Li |
+| ISSTA 2025 | KEENHash: Hashing Programs into Function-aware Embeddings for Large-scale Binary Code Similarity Analysis | Zhijie Liu, Qiyi Tang, Sen Nie, Shi Wu, Liangfeng Zhang, Yutian Tang |
+| ISSTA 2025 | KRAKEN: Program-Adaptive Parallel Fuzzing | Anshunkang Zhou, Heqing Huang, Charles Zhang |
+| ISSTA 2025 | LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation | Ziyao Zhang, Chong Wang, Yanlin Wang, Ensheng Shi, Yuchi Ma, Wanjun Zhong, Jiachi Chen, Mingzhi Mao, Zibin Zheng |
+| ISSTA 2025 | LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models | Lingxiao Tang, Jiakun Liu, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao  |
+| ISSTA 2025 | LogBase: A Large-Scale Benchmark for Semantic Log Parsing | Chenbo Zhang, Wenying Xu, Jinbu Liu, Lu Zhang, Guiyang Liu, Jihong Guan, Qi Zhou, Shuigeng Zhou |
+| ISSTA 2025 | MLLM-Based UI2Code Automation Guided by UI Layout Information | Fan Wu, Cuiyun Gao, Shuqing Li, Xin-Cheng Wen, Qing Liao |
+| ISSTA 2025 | MoDitector: Module-Directed Testing for Autonomous Driving Systems | Renzhi Wang, Mingfei Cheng, Xiaofei Xie, Yuan Zhou, Lei Ma |
+| ISSTA 2025 | Model Checking Guided Incremental Testing for Distributed Systems | Yu Gao, Dong Wang, Wensheng Dou, Wenhan Feng, Yu Liang, Yuan Feng, Jun Wei |
+| ISSTA 2025 | More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph | Dezhen Kong, Jiakun Liu, Chao Ni, David Lo, Lingfeng Bao  |
+| ISSTA 2025 | NADA: Neural Acceptance-driven Approximate Specification Mining | Weilin Luo, Tingchen Han, Junming Qiu, Hai Wan, Jianfeng Du, Bo Peng, Guohui Xiao, Yanan Liu |
+| ISSTA 2025 | No Bias Left Behind: Fairness Testing for Deep Recommender Systems Targeting General Disadvantaged Groups | Zhuo Wu, Zan Wang, Chuan Luo, Xiaoning Du, Junjie Chen |
+| ISSTA 2025 | OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution | Lianghong Guo, Wei Tao, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng |
+| ISSTA 2025 | OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine | Jie Ma, Ningyu He, Jinwen Xi, Mingzhe Xing, Haoyu Wang, Ying Gao, Yinliang Yue |
+| ISSTA 2025 | PatchScope: LLM-Enhanced Fine-Grained Stable Patch Classification for Linux Kernel | Rongkai Liu, Heyuan Shi, Shuning Liu, Chao Hu, Sisheng Li, Yuheng Shen, Runzhe Wang, Xiaohai Shi, Yu Jiang |
+| ISSTA 2025 | Pepper: Preference-Aware Active Trapping for Ransomware | Huan Zhang, Zhengkai Qin, Lixin Zhao, Aimin Yu, Lijun Cai, Dan Meng |
+| ISSTA 2025 | Porting Software Libraries to OpenHarmony: Transitioning from TypeScript or JavaScript to ArkTS | Bo Zhou, Jiaqi Shi, Ying Wang, Li Li, Li Tsz On, Hai Yu, Zhiliang Zhu |
+| ISSTA 2025 | Preventing Disruption of System Backup Against Ransomware Attacks | Yiwei Hou, Lihua Guo, Chijin Zhou, Quan Zhang, Wenhuan Liu, Chengnian Sun, Yu Jiang |
+| ISSTA 2025 | Productively Deploying Emerging Models on Emerging Platforms: A Top-Down Approach for Testing and Debugging | Siyuan Feng, Jiawei Liu, Ruihang Lai, Charlie F. Ruan, Yong Yu, Lingming Zhang, Tianqi Chen |
+| ISSTA 2025 | Program Analysis Combining Generalized Bit-Level and Word-Level Abstractions | Guangsheng Fan, Liqian Chen, Banghu Yin, Wenyu Zhang, Peisen Yao, Ji Wang |
+| ISSTA 2025 | Program Feature-based Benchmarking for Fuzz Testing | Miao Miao, Sriteja Kummita, Eric Bodden, Shiyi Wei |
+| ISSTA 2025 | QTRAN: Extending Metamorphic-Oracle based Logical Bug Detection Techniques for Multiple-DBMS Dialect Support | Li Lin, Qinglin Zhu, Hongqiao Chen, Zhuangda Wang, Rongxin Wu, Xiaoheng Xie |
+| ISSTA 2025 | Quantum Concolic Testing | Shangzhou Xia, Jianjun Zhao, Fuyuan Zhang, Xiaoyu Guo |
+| ISSTA 2025 | REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models | Jianlei Chi, Xiaotian Wang, Yuhan Huang, Lechen Yu, Di Cui, Jianguo Sun, Jun Sun |
+| ISSTA 2025 | Recurring Vulnerability Detection: How Far Are We? | Yiheng Cao, Susheng Wu, Ruisi Wang, Bihuan Chen, Yiheng Huang, Chenhao Lu, Zhuotong Zhou, Xin Peng |
+| ISSTA 2025 | Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator | Zhilei Ren, Yitao Li, Xiaochen Li, Guanxiao Qi, Jifeng Xuan, He Jiang |
+| ISSTA 2025 | Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective | Mingyu Huang, Peili Mao, Ke Li |
+| ISSTA 2025 | Robust Vulnerability Detection Across Compilations: LLVM-IR vs. Assembly with Transformer Model | Rony Shir, Priyanka Surve, Yuval Elovici, Asaf Shabtai |
+| ISSTA 2025 | RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search | Siao Wang, Zhen Dong, Hui Li, Liwei Shen, Xin Peng, Dongdong She |
+| ISSTA 2025 | S-Eval: Towards Automated and Comprehensive Safety Evaluation for Large Language Models | Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Jialuo Chen, Hui Xue, Xiaoxia Liu, Wenhai Wang, Kui Ren, Jingyi Wang |
+| ISSTA 2025 | STRUT: Structured Seed Case Guided Unit Test Generation for C Programs using LLMs | Jinwei Liu, Chao Li, Rui Chen, Shaofeng Li, Bin Gu, Mengfei Yang |
+| ISSTA 2025 | SWE-GPT: A Process-Centric Language Model for Automated Software Improvement | Yingwei Ma, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li |
+| ISSTA 2025 | Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs | Huan Li, Bei Wang, Xing Hu, Xin Xia |
+| ISSTA 2025 | Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection | Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng, Li Yang, Fengjun Zhang, Chenjie Shen, Jiajia Ma, Jingyuan Zhang, Junyi Lu, Chun Zuo |
+| ISSTA 2025 | SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment | Dianxiang Sun, Wei Ma, Liming Nie, Yang Liu |
+| ISSTA 2025 | Static Program Reduction via Type-Directed Slicing | Loi Ngo Duc Nguyen, Tahiatul Islam, Theron Wang, Sam Lenz, Martin Kellogg |
+| ISSTA 2025 | Structure-Aware, Diagnosis-Guided ECU Firmware Fuzzing | Qicai Chen, Kun Hu, Sichen Gong, Bihuan Chen, kevin kong, Haowen Jiang, Bingkun Sun, You Lu, Xin Peng |
+| ISSTA 2025 | Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems | Haoxiang Tian, wenqiang ding, Xingshuo Han, Guoquan Wu, An Guo, Junqi Zhang, Wei Chen, Jun Wei, Tianwei Zhang |
+| ISSTA 2025 | The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation | Yingjie Fu, Bozhou Li, Linyi Li, Wentao Zhang, Tao Xie |
+| ISSTA 2025 | The Incredible Shrinking Context... in a decompiler near you | Sifis Lagouvardos, Yannis Bollanos, Neville Grech, Yannis Smaragdakis |
+| ISSTA 2025 | Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection | Niklas Risse, Jing Liu, Marcel Böhme |
+| ISSTA 2025 | Tracezip: Efficient Distributed Tracing via Trace Compression | Zhuangbin Chen, Junsong Pu, Zibin Zheng |
+| ISSTA 2025 | Tratto: A Neuro-Symbolic Approach to Deriving Axiomatic Test Oracles | Davide Molinelli, Alberto Martin-Lopez, Elliott Zackrone, Beyza Eken, Michael D. Ernst, Mauro Pezze |
+| ISSTA 2025 | Type-Alias Analysis: Enabling LLVM IR with Accurate Types | Jinmeng Zhou, Ziyue Pan, Wenbo Shen, Xingkai Wang, Kangjie Lu, Zhiyun Qian |
+| ISSTA 2025 | Uncovering API-Scope Misalignment in the App-in-App Ecosystem | Jiarui Che, Chenkai Guo, Naipeng Dong, Jiaqi Pei, Lingling Fan, Xun Mi, Xueshuo Xie, Xiangyang Luo, Zheli Liu, Renhong Cheng |
+| ISSTA 2025 | Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection | haodong li, Xiao Cheng, Yanjie Zhao, Guosheng Xu, Guoai Xu, Haoyu Wang |
+| ISSTA 2025 | Understanding Practitioners’ Expectations on Clear Code Review Comments | Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu, Xin Xia |
+| ISSTA 2025 | Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG | Zhiyu Zhang, Longxing Li, Ruigang Liang, Kai Chen |
+| ISSTA 2025 | Validating Network Protocol Parsers with Traceable RFC Document Interpretation | Mingwei Zheng, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang |
+| ISSTA 2025 | VerLog: Enhancing Release Note Generation for Android Apps using Large Language Models | Jiawei Guo, Haoran Yang, Haipeng Cai |
+| ISSTA 2025 | Walls Have Ears: Demystifying Notification Listener Usage in Android Apps | Jiapeng Deng, Tianming Liu, Yanjie Zhao, Chao Wang, Lin Zhang, Haoyu Wang |
+| ISSTA 2025 | Wemby’s Web: Hunting for Memory Corruption in WebAssembly | Oussama Draissi, Tobias Cloosters, David Klein, Michael Rodler, Marius Musch, Martin Johns, Lucas Davi |
+| ISSTA 2025 | What Happened in This Pipeline? Diffing Build Logs With CiDiff | Nicolas Hubner, Jean-Rémy Falleri, Raluca Uricaru, Thomas Degueule, Thomas Durieux |
+| ISSTA 2025 | Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain | Xiaoye Zheng, Zhiyuan Wan, David Lo, Difan Xie, Xiaohu Yang |
+| ISSTA 2025 | WildSync: Automated Fuzzing Harness Synthesis via Wild API Usage Recovery | Wei-Cheng Wu, Stefan Nagy, Christophe Hauser |
+| ISSTA 2025 | You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects | Islem BOUZENIA, Michael Pradel |
+| ISSTA 2025 | ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference | Yuchong Xie, Wenhui Zhang, Dongdong She |
+| ISSTA 2025 | xFUZZ: A Flexible Framework for Fine-Grained, Runtime-Adaptive Fuzzing Strategy Composition | DongSong Yu, Yiyi Wang, Chao Zhang, Yang Lan, Zhiyuan Jiang, Shuitao Gan, Zheyu Ma, Wende Tan |
 | ICSE 2024 | A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments | Gao Cuiying, Gaozhun Huang, Heng Li, Bang Wu, Yueming Wu, Wei Yuan |
 | ICSE 2024 | A First Look at the Inheritance-Induced Redundant Test Execution | Dong Jae Kim, Jinqiu Yang, Tse-Hsun (Peter) Chen |
 | ICSE 2024 | A Framework For Inferring Properties of User-Defined Functions | Xinyu Liu, Joy Arulraj, Alessandro Orso |
