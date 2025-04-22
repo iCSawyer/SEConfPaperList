@@ -1,4 +1,4 @@
-💥**Update**: Papers accepted by [FSE 2025](https://Conference.researchr.org/track/icse-2025/icse-2025-research-track) and [ICSE 2025](https://Conference.researchr.org/track/icse-2025/icse-2025-research-track) are included in this list! 
+💥**Update**: Papers accepted by ISSTA/FSE/ASE 2025 are included in this list! 
 
 # Paper List of SE Conferences
 
