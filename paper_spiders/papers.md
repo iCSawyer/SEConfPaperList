@@ -141,7 +141,7 @@
 | ICSE 2026 | Hey, ChatGPT, Look at My Work: Using Conversational AI in Requirements Engineering Education | Sahar Badihi, Michael Tegegn, Evelien Riddell, Krzysztof Czarnecki, Julia Rubin |
 | ICSE 2026 | HistoryFinder: Advancing Method-Level Source Code History Generation with Accurate Oracles and Enhanced Algorithm | Md Shahidul Islam, S M Ashik Aowal, Md Sharif Uddin, Shaiful Chowdhury |
 | ICSE 2026 | HoarePrompt: Structural Reasoning About Program Correctness in Natural Language | Dimitrios Stamatios Bouras, Yihan Dai, Tairan Wang, Yingfei Xiong, Sergey Mechtaev |
-| ICSE 2026 | How Do Semantically Equivalent Code Transformations Impact Membership Inference on LLMs for Code? | Hua yang, Alejandro Velasco, Le-Cong Thanh, Md Nazmul Haque, Bowen Xu, Denys Poshyvanyk |
+| ICSE 2026 | How Do Semantically Equivalent Code Transformations Impact Membership Inference on LLMs for Code? | Hua yang, Alejandro Velasco, Thanh Le-Cong, Md Nazmul Haque, Bowen Xu, Denys Poshyvanyk |
 | ICSE 2026 | How Does Core Contributor Disengagement Impact Open Source Project Activity? A Quasi-Experiment | Yunqi Chen, Klaas-Jan Stol, Fabio Marcos De Abreu Santos, Daniel M. German, Bianca Trinkenreich |
 | ICSE 2026 | How Good are Input Grammar Miners? An Empirical Study | Leon Bettscheider, Andreas Zeller |
 | ICSE 2026 | Hybrid Fault-Driven Mutation Testing for Python | Saba Alimadadi, Golnaz Gharachorlu |
@@ -179,7 +179,7 @@
 | ICSE 2026 | MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming | Zixiao Zhao, Jing Sun, Zhe Hou, Wei Zhiyuan, ChengHao Cai, Miao Qiao, Jin Song Dong |
 | ICSE 2026 | MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses | Zhihao Lin, Wei Ma, Mingyi Zhou, Yanjie Zhao, Haoyu Wang, Yang Liu, Jun Wang, Li Li |
 | ICSE 2026 | Measuring the Influence of Incorrect Code on Test Generation | Dong Huang, Jie M. Zhang, Mark Harman, Mingzhe Du, Heming Cui |
-| ICSE 2026 | Memory-Efficient Large Language Models for Program Repair with Semantic-Guided Patch Generation | Le-Cong Thanh, Xuan-Bach D. Le, Toby Murray |
+| ICSE 2026 | Memory-Efficient Large Language Models for Program Repair with Semantic-Guided Patch Generation | Thanh Le-Cong, Xuan-Bach D. Le, Toby Murray |
 | ICSE 2026 | Metamorphic Fuzzing for Multi-Agent Path Finding Algorithms | Luxia Lin, xudong zhang, Shihao Zhu, Yan Cai |
 | ICSE 2026 | Metronome: Differentiated Delay Scheduling for Serverless Functions | Zhuangbin Chen, Juzheng Zheng, Zibin Zheng |
 | ICSE 2026 | Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects | Rui Lu, Lyuye Zhang, Kaixuan Li, Min Zhang, Yixiang Chen |
@@ -266,7 +266,7 @@
 | ICSE 2026 | SymRadar: PoC-Centered Bounded Verification for Vulnerability Repair | Seungheon Han, YoungJae Kim, Yeseung Lee, Jooyong Yi |
 | ICSE 2026 | Synthesizing Hardware-Specific Instructions for Efficient Code Generation of Simulink | Zehong Yu, Zhuo Su, Rui Wang, Yu Jiang |
 | ICSE 2026 | Synthetic Repo-level Bug Dataset for Training Automated Program Repair Models | Minh V. T. Pham, Huy N. Phan, Hoang Nhat Phan, Cuong Chi Le, Tien N. Nguyen, Nghi D. Q. Bui |
-| ICSE 2026 | TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs and LLMs | Alireza Ezaz, Ghazal Khodabandeh, Majid Babaei, Naser Ezzati Jivan |
+| ICSE 2026 | TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs and LLMs | Alireza Ezaz, Ghazal Khodabandeh, Majid Babaei, Naser Ezzati-Jivan |
 | ICSE 2026 | TACO: Trust Assessment of Large Language Models in Coding Assistance Tasks | Shihao Weng, Yang Feng, Jincheng Li, Yining Yin, Zhanglun Zhang, Lyuxi Liu, Jia Liu |
 | ICSE 2026 | TARIPlay: A Test Framework for AR Applications based on Interactive Area Detection in Playback Videos | Seyed Amir Mousavi, Xiaoyin Wang |
 | ICSE 2026 | TaCoS: Generated Context Summaries for Task Resumption | Alexander Lill, Valentin Hollenstein, Roy Rutishauser, André N. Meyer, Thomas Fritz |
@@ -323,6 +323,217 @@
 | ICSE 2026 | XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models | Jingwen Wu, Hanyang Guo, Hong-Ning Dai, Xiapu Luo |
 | ICSE 2026 | “I need to learn better searching tactics for privacy policy laws.” Investigating Software Developers’ Behavior When Using Sources on Privacy Issues | Stefan Albert Horstmann, Sandy Hong, Maziar Niazian, Cristiana Santos, Alena Naiakshina |
 | ICSE 2026 | “Write in English, Nobody Understands Your Language Here”: A Study of Non-English Trends in Open-Source Repositories | Masudul Hasan Masud Bhuiyan, Manish Kumar Bala Kumar, Cristian-Alexandru Staicu |
+| FSE 2026 | A Grounded Theory of Debugging in Professional Software Engineering Practice | Haolin Li, Michael Coblenz |
+| FSE 2026 | A Tuple-Oriented Sampling Method for Generating Small Pairwise Covering Arrays in Configurable Software Systems | Kaichen Chen, Yi Xiang, Haining Wang, Jiatong Ma, Fujian Feng, Miqing Li, Han Huang |
+| FSE 2026 | A Wily Hare Has Three Havens: Combating Programmable Logic Controller Attacks via Virtualization Redundancy | Wenjie Wang, Yazhe Wang, Lei Ren |
+| FSE 2026 | ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems | Yuancheng Jiang, Jianing Wang, Chuqi Zhang, Roland H. C. Yap, Zhenkai Liang, Manuel Rigger |
+| FSE 2026 | Accelerating Policy Synthesis in Large-Scale MDPs via Hierarchical Adaptive Refinement | Alexandros Evangelidis, Gricel Vázquez, Simos Gerasimou |
+| FSE 2026 | AccessDroid: Detecting Screen Reader Accessibility Issues in Android Applications via Semantics Trees | Hang Zhou, Wei Song |
+| FSE 2026 | AccessRefinery: Fast Mining Concise Access Control Intents on Public Cloud | Ning Kang, Peng Zhang, Jianyuan Zhang, Hao Li, Dan Wang, Zhenrong Gu, Weibo Lin, Shibiao Jiang, Zhu He, Xu Du, Longfei Chen, Jun Li, Xiaohong Guan |
+| FSE 2026 | Active Learning of Symbolic Automata for Reactive Programs via Dynamic Symbolic Mapper | Yoel Kim, Yunja Choi |
+| FSE 2026 | AdaDec: A Uncertainty-Guided Lookahead Decoding Framework for LLM-based Code Generation | He Kaifeng, Mingwei Liu, Chong Wang, Zike Li, Yanlin Wang, Xin Peng, Zibin Zheng |
+| FSE 2026 | Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing | Qianqian Pang, Xin Yin, Tingting Bi, Lingfeng Bao , Chao Ni, Xiaohu Yang |
+| FSE 2026 | AgentBound: Securing Execution Boundaries of AI Agents | Christoph Buehler, Matteo Biagiola, Luca Di Grazia, Guido Salvaneschi |
+| FSE 2026 | Agentic Verification of Software Systems | Haoxin Tu, Huan Zhao, Yahui Song, Mehtab Zafar, Ruijie Meng, Abhik Roychoudhury |
+| FSE 2026 | Aligning with Human Coding Preferences for Improving Code Generation | Xin Yin, Chao Ni, Xiaohu Yang |
+| FSE 2026 | An Empirical Study of Fuzz Harness Degradation | Philipp Görz, Joschua Schilling, Nicolai Bissantz, Thorsten Holz |
+| FSE 2026 | Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis | Felipe Paixão, Eduardo Almeida , Joanna C. S. Santos, Paulo Anselmo da Mota Silveira Neto, Daniel Sadoc Menasche, Gustavo B. Figueiredo  |
+| FSE 2026 | Automated Knowledge-Aware Test Reuse | Ziyuan Zhang, Yi Gao, Xing Hu, Xin Xia, Shanping Li |
+| FSE 2026 | Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables | Aren Babikian, Alessio Di Sandro, Federico Formica, Claudio Menghi, Marsha Chechik |
+| FSE 2026 | Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching | Chengyan Ma, Jieke Shi, Ruidong Han, Ye Liu, Feng Li, Yuqing Niu, David Lo |
+| FSE 2026 | Automating Dockerfile Refactoring to Multi-Stage Builds | Dongjin Chen, Wenhua Yang, Minxue Pan, Yu Zhou |
+| FSE 2026 | BackportBench: A Multilingual Benchmark for Automated Patch Backporting | Zhiqing Zhong, Jiaming Huang, Pinjia He |
+| FSE 2026 | Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading | Lu Hanzhen, Lishui Fan, Jiachi Chen, Qiuyuan Chen, Zhao Wei, Zhongxin Liu |
+| FSE 2026 | Bash-Commenter: Leveraging Syntax-Aware Preference Optimization to Reinforce Large Language Model for Bash Code Comment Generation | Lei Yu, Jingyuan Zhang, Xin Wang, Li Yang, Fengjun Zhang, Peng Wang, Jia Xu, Jiajia Ma |
+| FSE 2026 | Behind Defective Mobile AR Apps: Studying Reviews and Bugs of Android AR Software with Comparison to Prior Bug Studies | Tahmid Rafi, Xueling Zhang, Jianwei Niu, Xiaoyin Wang |
+| FSE 2026 | Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models | Shangbo Yun, Jianghong Huang, Xiaodong Gu, Beijun Shen |
+| FSE 2026 | Binvariants: Enhancing Fuzzing of Closed-source Binary Executables via Register-level Likely Invariants | Zao Yang, Stefan Nagy |
+| FSE 2026 | Boosting LLMs for Mutation Generation | Bo Wang, Ming Deng, Mingda Chen, Chengran Yang, Youfang Lin, Mark Harman, Mike Papadakis, Jie M. Zhang |
+| FSE 2026 | Break to Adapt: Knowledge-Based Updates of Breaking Dependencies in JavaScript | Yifan Xia, Chengwei Liu, Zifan Xie, Lyuye Zhang, Peiyu Liu, Kangjie Lu, Yang Liu, Wenhai Wang, Shouling Ji |
+| FSE 2026 | Bringing Managed Language Support to WebAssembly with External Library Linking | Shuyao Jiang, Ruiying Zeng, Yangfan Zhou, Michael Lyu |
+| FSE 2026 | Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding | Yi-Hung Chou, Boyuan Jiang, Yiwen Chen, Mingyue Weng, Victoria Jackson, Thomas Zimmermann, James Jones |
+| FSE 2026 | CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation | Tobias Kiecker, Jan Arne Sparka, Martin Reuter, Albert Ziegler, Lars Grunske |
+| FSE 2026 | Can Old Tests do New Tricks for Resolving SWE Issues? | Yang Chen, Toufique Ahmed, Reyhaneh Jabbarvand, Martin Hirzel |
+| FSE 2026 | Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models | Ajmain Inqiad Alam, Palash Ranjan Roy, Chanchal K. Roy, Banani Roy, Kevin Schneider |
+| FSE 2026 | Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing | Chaozheng Wang, Zezhou Yang, Shuzheng Gao, Cuiyun Gao Harbin Institute of Technology, Shenzhen, Li Zongjie, Yichen LI, Ting Peng, Hailiang Huang, Yuetang Deng, Michael Lyu |
+| FSE 2026 | Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking | Yifan Huang, Xiaojun Jia, Wenbo Guo, Yuqiang Sun, Yihao Huang, Chong Wang, Yang Liu |
+| FSE 2026 | CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs | Min Gou, Zhiyu Yao, Hualong Ma, Ende Zhang, Jian Zhou, Fei He |
+| FSE 2026 | ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents | Mingxi Ye, Yuhong Nan, Zhijie Zhong, Jianzhong Su, Xingwei Lin, Peilin Zheng, Zibin Zheng |
+| FSE 2026 | Characterizing Trust Boundary Vulnerabilities in TEE Container Systems: An Empirical Study | Weijie Liu, Hongbo Chen, Shuo Huai, Zhen Xu, Wenhao Wang, XiaoFeng Wang, Danfeng Zhang, Zhi Li, Haixu Tang, Zheli Liu |
+| FSE 2026 | Characterizing and Mitigating False-Positive Bug Reports in the Linux Kernel | jiashuo tian, Dong Wang, Chen Yang, Haichi Wang, Zan Wang, Junjie Chen |
+| FSE 2026 | Chiseling Out Efficiency: Structured Skeleton Supervision for Efficient Code Generation | Yu Yu, Zhihong Sun, Jia Li, Yao Wan, Chuanyi Li, Hongyu Zhang, Ruyun Wang, Tao Huang, Zhi Jin, Ge Li, Chen Lyu |
+| FSE 2026 | Clotho: Measuring Task-Specific Pre-Generation Test Adequacy for LLM Inputs | Juyeon Yoon, Somin Kim, Robert Feldt, Shin Yoo |
+| FSE 2026 | Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code | Shuo Sun, Shixin Zhang, Jiwei Yan, Jun Yan, Jian Zhang |
+| FSE 2026 | CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings | Pascal Joos, Islem BOUZENIA, Michael Pradel |
+| FSE 2026 | Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation | Tanghaoran Zhang, Xinjun Mao, Shangwen Wang, Yuxin Zhao, Yao Lu, Zezhou Tang, Wenyu Xu, Longfei Sun, Changrong Xie, Kang Yang, Yue Yu |
+| FSE 2026 | Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation | Yuan Huang, Yukang Zhou, Xiangping Chen, Zibin Zheng |
+| FSE 2026 | Compiling Code LLMs into Lightweight Executables | Jieke Shi, Junda He, Zhou Yang, Chengran Yang, Mykhailo Klymenko, Thong Hoang, Xiwei (Sherry) Xu, Zhenchang Xing, David Lo |
+| FSE 2026 | Cost-Effective Testing of MPC Compilers | Sebastian Watzinger, Valentin Wüstholz, Deepak Garg, Maria Christakis |
+| FSE 2026 | Cross-Refactoring-Type Test Program Migration for Refactoring Engines | Chunhao Dong, Yanjie Jiang, Yang Zhang, Yuxia Zhang, Hui Liu |
+| FSE 2026 | CrossFit: Demystifying VM Callback Bugs in Interpreters | Chibin Zhang, Qiang Liu, Mathias Payer |
+| FSE 2026 | CrypFormBench: Benchmarking Formal Analysis Capability of Large Language Models for Cryptographic schemes | Zhaoxuan Li, Qionglu Zhang, Hengyuan Liu, Xiaoyan Gu, Xianhui Lu, Hongbo Liu, Bingzheng Wang, Haihui Fan, Ziming Zhao, Rui Zhang, Li Zhou |
+| FSE 2026 | CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries | Ximing Fan, Yong Fang, Peng Jia, Yang Liu, Yijia Xu, Xi Peng, Yuhao Zhou |
+| FSE 2026 | DECODE: Dynamic Exploration for Constraint-Guided Vulnerability Discovery in Deep Learning Operators | Haotong Liu, Zhi Wang , Liu Zhuohang, Wanpeng Li |
+| FSE 2026 | Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug? | Kunyi Li, Sai Wu, Xiu Tang, Chang Yao, Songhao Bu, Quanqing Xu, Gang Chen |
+| FSE 2026 | Denoising Fault Localization with Test Line Proximity | Marius Smytzek, Andreas Zeller |
+| FSE 2026 | Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation | Tianyi Zhang, Shidong pan, Zejun Zhang, Zhenchang Xing, xiaoyu sun |
+| FSE 2026 | Detecting Bugs in Rust Compiler Fix Suggestions via Constraint-Violation-Guided Mutation | Zixi Liu, Yang Feng, Jialiang Jiang, Baowen Xu |
+| FSE 2026 | Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis | Jiashuo Zhang, Jiachi Chen, Ting Zhang, Yue Li, Daoyuan Wu, Yanlin Wang, Jianbo Gao, Ting Chen, Zhong Chen |
+| FSE 2026 | DiverFPS: Generating Diverse Solutions for Floating-Point SMT Formulas | Shuangyu Lyu, Chuan Luo, Ruizhi Shi, Zhuo Su, Chunming Hu |
+| FSE 2026 | Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond | Minh Le-Anh, Huyen Nguyen, Khanh An Tran, Nam Le Hai, Linh Ngo Van, Nghi D. Q. Bui, Xuan-Bach D. Le |
+| FSE 2026 | DuCodeMark: Dual-Purpose Code Dataset Watermarking via Style-Aware Watermark–Poison Design | Yuchen Chen, Yuan Xiao, Chunrong Fang, Zhenyu Chen, Baowen Xu |
+| FSE 2026 | DualCodeDetect: Zero-Shot LLM-Generated Code Detection via Dual-Channel Perturbation | Zhengdao Li, Xiuwei Shang, Zhenkan Fu, Shikai Guo, Weiming Zhang, Nenghai Yu, Kejiang Chen |
+| FSE 2026 | EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-based UI Code Generation | Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael Lyu |
+| FSE 2026 | Eidolon: Perform Noise-Aware Fuzzing on FHE Libraries via Equivalence Expression Transformation | Zhensheng Xian, Zhen Yan, Yuanliang Chen, Xuelian Cao, Fuchen Ma, Dalong Shi, Yu Jiang |
+| FSE 2026 | Empirical Insights of Test Selection Metrics under Multiple Testing Objectives and Distribution Shifts | Jingyu ZHANG, Fan Wang, Jacky Keung, Yihan Liao, Yan Xiao, Lei Ma |
+| FSE 2026 | Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis | Jiahong Xiang, Xiaoyang Xu, Xiaopan Chu, Hongliang Tian, Yuqun Zhang |
+| FSE 2026 | Evaluating LLM-based Regression Test Generation | Jing Liu, Seongmin Lee, Eleonora Losiouk, Marcel Böhme |
+| FSE 2026 | Evaluating Risk and Confidence in Performance Bounds of Configuration Sampling Strategies | Kallistos Weis, Martina Maggio, Norbert Siegmund, Sven Apel |
+| FSE 2026 | Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair | Hongshu Wang, Xinyue Zuo, yuhan sun, Qin Li, Yamine AIT AMEUR, Jin Song Dong |
+| FSE 2026 | EventADL: Open-Box Anomaly Detection and Localization Framework for Events in Cloud-Based Service Systems | Luan Pham, Victor Nicolet, Joey Dodds, Hui Guan, Daniel Kroening |
+| FSE 2026 | Exorcist: Enabling Atomic-Level Runtime Detection of Spectre Attacks Using Precise Event Based Sampling | Hao Jia, Haoyu Ma, Changfeng Ding, Jinku Li |
+| FSE 2026 | ExpeRepair: Dual-Memory Enhanced LLM-based Repository-Level Program Repair | Fangwen Mu, Junjie Wang, Lin Shi, Song Wang, Shoubin Li, Qing Wang |
+| FSE 2026 | Failing with Purpose: Dangling Coverage-Guided Negative Test Generation from a Mechanized P4 Type System | Jaehyun Lee, Seokhun Jeong, Sukyoung Ryu |
+| FSE 2026 | Failure-Based Testing for Deep Reinforcement Learning Agents | Weibin Lin, Jiangtao Meng, Zheng Zheng |
+| FSE 2026 | Fairness Testing of Large Language Models in Role-Playing | Xinyue Li, Zhenpeng Chen, Jie M. Zhang, Ying Xiao, Li Tianlin, Weisong Sun, Yang Liu, Yiling Lou, Xuanzhe Liu |
+| FSE 2026 | Feature Slice Matching for Precise Bug Detection | Ke Ma, Jianjun Huang, Wei You, Bin Liang, Jingzheng Wu, Yanjun Wu, Yuanjun Gong |
+| FSE 2026 | Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences | anyuan sang, Li Yang, Lu Zhou, Junbo Jia, Huipeng Yang |
+| FSE 2026 | Fool Me If You Can: On the Robustness of Binary Code Similarity Detection Models against Semantics-preserving Transformations | Jiyong Uhm, Minseok Kim, Michalis Polychronakis, Hyungjoon Koo |
+| FSE 2026 | From Particles to Perils: SVGD-Based Hazardous Scenario Generation for Autonomous Driving Systems Testing | Linfeng Liang, Xiao Cheng, Tsong Yueh Chen, Xi Zheng |
+| FSE 2026 | From Specifications to Implementation in the Gen-AI Era: Lessons from a Project-based Software Engineering Course | Yingying Wang, Masih Beigi Rizi, Fatemeh Khashei, Julia Rubin |
+| FSE 2026 | From Suspicious Signals to Crashes: Guiding Bug-driven GUI Testing via Code-inspired Tracing | Mengzhuo Chen, Zhe Liu, Chunyang Chen, Junjie Wang, Boyu Wu, Yuekai Huang, Jun Hu, Qing Wang |
+| FSE 2026 | GAER: Graph Auto-Encoders for Unsupervised Software Architecture Recovery | Rakhshanda Jabeen, Morgan Ericsson, Jonas Nordqvist, Anna Wingkvist |
+| FSE 2026 | GPU-Accelerated Flow-Sensitive Pointer Analysis for C/C++ Programs | Jiaqi He, Karim Ali |
+| FSE 2026 | GREClue: Failure Indexing with Graph-based Failure Representation and Entropy-based Deep Clustering | Zhenyu Yang, Zhongxing Yu |
+| FSE 2026 | GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI | Yi Gao, Xing Hu, Xiaohu Yang, Xin Xia |
+| FSE 2026 | GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities | Kaixuan Li, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, Yang Liu |
+| FSE 2026 | Generalizing Test Cases for Comprehensive Test Scenario Coverage | Binhang Qi, Yun Lin, Xinyi Weng, Chenyan Liu, Hailong Sun, Gordon Fraser, Jin Song Dong |
+| FSE 2026 | GraphLocator: Graph-guided Causal Reasoning for Issue Localization | Wei Liu, Chao Peng, Pengfei Gao, Aofan Liu, Wei Zhang, Haiyan Zhao, Zhi Jin |
+| FSE 2026 | GraphQLify: Automated and Type Safety-Preserving GraphQL API Adoption | Saleh Amareen, Arif Rahman, Sazzadur Rahaman, Amiangshu Bosu |
+| FSE 2026 | Hallucinations in LLM-based Code Summarization: Unveiling, Detection, and Mitigation | Guanghua Wan, Yuanning Feng, Yao Wan, Zhaoyang Chu, Zhangqian Bi, Junxiao Han, Zhou Zhao, Hongyu Zhang, Pingpeng Yuan, Xuanhua Shi, Hai Jin |
+| FSE 2026 | How Do Developers Interact with AI? An Exploratory Study on Modeling Developer Programming Behavior | Yinan Wu, Ze Shi (Zane) Li, Kathryn Stolee, Bowen Xu |
+| FSE 2026 | How Low Can You Go? The Data-Light SE Challenge | Kishan Kumar Ganguly, Tim Menzies |
+| FSE 2026 | Improving Data Leakage Detection in Machine Learning Notebooks through Static Slicing and Structured LLM Prompts | Taha Draoui, Mohamed Wiem Mkaouer, Christian D. Newman |
+| FSE 2026 | In Bugs We Trust? On Measuring the Randomness of a Fuzzer Benchmarking Outcome | Ardi Madadi, Seongmin Lee, Cornelius Aschermann, Marcel Böhme |
+| FSE 2026 | In Line with Context: Repository-Level Code Generation via Context Inlining | Chao Hu, Wenhao Zeng, Yuling Shi, Beijun Shen, Xiaodong Gu |
+| FSE 2026 | InDe-LLM: Defending Against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling | YujueWang , Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang |
+| FSE 2026 | Influence-Aware Bayesian-Inspired Token Reweighting for Improved Code Generation | YUQI ZHU, Ge Li, Hong Mei, Zhi Jin, Jia Li, Qibin Zheng, Jieyuan Zhang |
+| FSE 2026 | IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration | Yi Gao, Ziyuan Zhang, Xing Hu, Xiaohu Yang, Xin Xia |
+| FSE 2026 | Interrogation Testing of CHC Solvers | David Kaindlstorfer, Anastasia Isychev, Valentin Wüstholz, Maria Christakis |
+| FSE 2026 | It Takes Two: Option-Aware Directed Greybox Fuzzing for Vulnerability PoC Generation | Susheng Wu, Xin Hu, Yiheng Cao, Zhuotong Zhou, Yiheng Huang, Yijian Wu, Bihuan Chen, Zhijia Zhao, Xin Peng |
+| FSE 2026 | JavaScript Pointer Analysis with Adaptive Heap Abstraction | Wenyuan Xu, Anders Møller |
+| FSE 2026 | Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development: A HarmonyOS Case Study | Mingwei Liu, Zheng Pei, Yanlin Wang, Zihao Wang, Zikang Li, Enci Lin, Xin Peng, Zibin Zheng |
+| FSE 2026 | LLM-Assisted Input-Requirement-Aware Differential Testing of Array Programming Frameworks | Zhichao Zhou, Jingzhu He |
+| FSE 2026 | Large Language Models for Opaque Predicate Resolution: A Universal Control Flow Deobfuscation Framework | Xiao Chen, Wang Qiuyun, Wang Shuwei, Zhang Weize, Yuling Liu, Baoxu Liu, Jiang Zhengwei |
+| FSE 2026 | LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery | Arshia Akhavan, Alireza Hoseinpour, Abbas Heydarnoori, Hamid Bagheri, Mehdi Keshani |
+| FSE 2026 | LoCaL: Countering Surface Bias in Code Evaluation Metrics | Simantika Bhattacharjee Dristi, Matthew B Dwyer |
+| FSE 2026 | Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing | Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheung, Michael Lyu |
+| FSE 2026 | MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis | Congying Xu, Hengcheng Zhu, Songqiang Chen, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung |
+| FSE 2026 | MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge | Shuai Liang, Pengfei Chen, Bozhe Tian, Gou Tan, Maohong Xu, Youjun Qu, Yahui Zhao, Yiduo Shang, Chongkang Tan |
+| FSE 2026 | Mining Long Tail Bugs: Identifying Rare and Overlooked Issues in Code | Wentao Liang, Yanjun Wu, Xiang Ling, Tianyue Luo, Dinghao Liu, Haotian Zhang, Jingzheng Wu |
+| FSE 2026 | Mitigating Prompt-Induced Cognitive Biases in General-Purpose AI for Software Engineering | Francesco Sovrano, Gabriele Dominici, Alberto Bacchelli |
+| FSE 2026 | Mitigating the Risk of Defects and Improving Knowledge Distribution with Code Reviewer Recommenders | Mohammadali Sefidi Esfahani, Peter Rigby |
+| FSE 2026 | Multi-LLM Persona Generation for Virtual Focus Groups in Software Engineering: A Controlled, Multi-Domain Study of Emotional Requirements Elicitation | Guangrui Fan, Dandan Liu, Lihu Pan, Rui Zhang, Qian Guo |
+| FSE 2026 | NESA: Relational Neuro-Symbolic Static Program Analysis | Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, Mingwei Zheng, Qingkai Shi, Xiangyu Zhang |
+| FSE 2026 | Natural Language-Focused Software Engineering via Code-Documentation Equivalence | Aryaz Eghbali, Zhongxin Liu, Michael Pradel |
+| FSE 2026 | Neuron-Guided Interpretation of Code LLMs: Where, Why, and How? | Zhe Yin, Xiaodong Gu, Beijun Shen |
+| FSE 2026 | Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks | Qiang Ke, Yanjie Zhao, Hongjin Leng, Shengming Zhao, Haoyu Wang |
+| FSE 2026 | OCPPuzz: Specification-driven Fuzzing of Charging Station Management Systems with Large Language Model | Jongchan Hong, Jaewon Kim, Sungjae Hwang |
+| FSE 2026 | OdoTest: An Automated Testing Approach for Odometry Systems | Jixiang Zhou, Mingfei Cheng, Shuncheng Tang, An Guo, Xiaofei Xie, Yinxing Xue, Lijun Zhang |
+| FSE 2026 | Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration | Jianzhong Su, Mingxi Ye, Jiachi Chen, Yuhong Nan, Peilin Zheng, Tao Zhang, Zibin Zheng |
+| FSE 2026 | On the Road to Personalized Code Intelligence: Portraiting and Assisting Developers Based on Their In-IDE Behaviors | Yuhong Liu, YUNHE SU, Zhipeng Peng, Zhiwen Luo, Lin Shi, Zhi Jin, Li Zhang |
+| FSE 2026 | One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks | Yinggang Qiu, Yihao Qin, Mingyang Geng, Shangwen Wang, Dezun Dong |
+| FSE 2026 | One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation | Yichen LI, Qiye Lin, Yun Peng, Zhihan Jiang, Jinyang Liu, Chaozheng Wang, Yintong Huo, Cuiyun Gao |
+| FSE 2026 | PROGnosticator: Testing Source-to-Source Code Translators via Construct-oriented Fuzzing | Yeaseen Arafat, Stefan Nagy |
+| FSE 2026 | Phantom Rendering Detection: Identifying and Analyzing unnecessary UI computations | Zhihao Lin, Mingyi Zhou, Bo Sun, Han Hu, Gang Fan, Li Li |
+| FSE 2026 | Pig: Leveraging Large Language Models for Python Library Migrations | Miryeong Kang, Wonseok Oh, Gabin An, Hakjoo Oh |
+| FSE 2026 | PlayCoder: Making LLM-Generated GUI Code Playable | Zhiyuan Peng, Wei Tao, Xin Yin, Chenhao Ying, Yuan Luo, Yiwen Guo |
+| FSE 2026 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel |
+| FSE 2026 | Precondition Synthesis for Deep Neural Networks with Statistical Guarantees | Zengyu Liu, Bai Xue, Pengfei Yang, Ji Wang |
+| FSE 2026 | Project-Level C-to-Rust Translation via Pointer Knowledge Graphs | Zhiqiang Yuan, Wenjun Mao, Zhou , Xiyue Shang, Chong Wang, Yiling Lou, Xin Peng |
+| FSE 2026 | ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning | Manqing Zhang, Yunwei Dong, Lingru Zhou, Bingxu Xiao, Yepang Liu |
+| FSE 2026 | Property Refinement in Linear Temporal Logic: Formal Semantics and Algorithms for Software Verification | Luca Brodo, Giuseppe Scalora, Stefan Henkler |
+| FSE 2026 | Protocol Reverse Engineering via Deep Transfer Learning | Yanyang Zhao, Zhengxiong Luo, Wenlong Zhang, Feifan Wu, Yuanliang Chen, Fuchen Ma, Qi Xu, Heyuan Shi, Yu Jiang |
+| FSE 2026 | PuzzleMark: Implicit Jigsaw Learning for Robust Code Dataset Watermarking in Neural Code Completion Models | Haocheng Huang, Yuchen Chen, Weisong Sun, Peizhuo Lv, Yuan Xiao, Chunrong Fang, Yang Liu, Xiaofang Zhang |
+| FSE 2026 | QuanForge: A Mutation Testing Framework for Quantum Neural Networks | Minqi Shao, Shangzhou Xia, Jianjun Zhao |
+| FSE 2026 | RAT: Retrieval-Augmented Testing of Certificate Revocation List Parsers in TLS Implementations | Chu Chen, Qianxin Cheng, Pinghong Ren, Hairong Yu, Cong Tian, Zhenhua Duan, Xu Lu, Bin Yu, WenSheng Wang, Jin Liu |
+| FSE 2026 | ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software Defect Prediction? | Doha Nam, Taehyoun Kim, Duksan Ryu, Jongmoon Baik |
+| FSE 2026 | ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI | Yirui He, Ziyao He, Syed Fatiul Huq, Sam Malek |
+| FSE 2026 | ReGA: Model-based Safeguard for LLMs via Representation-Guided Abstraction | Zeming Wei, Chengcan Wu, Meng Sun |
+| FSE 2026 | RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices | Jia Li, Hongyi Deng, Yiran Zhang, Kechi Zhang, Tianqi Shao, Tiankuo Zhao, Weinan Wang, Zhi Jin, Ge Li, Yang Liu, Yingtao Fang, Yihong Dong |
+| FSE 2026 | Recommending Usability Improvements with Multimodal Large Language Models | Sebastian Lubos, Alexander Felfernig, Damian Garber, Viet-Man Le, Manuel Henrich |
+| FSE 2026 | Red Teaming LLMs via Linguistic-Aware Fuzzing | Shuai Yuan, Nian Luo, Jingling Sun, Yihao Huang, Chengyu Zhang |
+| FSE 2026 | Reducing Cost of LLM Agents with Trajectory Reduction | Yuan-An Xiao, Pengfei Gao, Chao Peng, Yingfei Xiong |
+| FSE 2026 | Reducing Coverage-Equivalent Inputs in Grammar-based Fuzzing by Avoiding Recurrent Rule Sequences | Jaehan Yoon, Yunji Seo, Hakjoo Oh, Sooyoung Cha |
+| FSE 2026 | Reducing the TCB of SGX-oriented LibOSes at Runtime | Donghui Yu, Dahan Pan, Fengwei Zhang, Haoran Fang, Ya Fang, Yuanyuan Zhang |
+| FSE 2026 | RepoReasoner: Evaluating Repository-Level Code Reasoning Ability of Long-Context Language Models | Yanlin Wang, Suiquan Wang, Yanli Wang, Bowen Zhang, Daya Guo, Jiachi Chen, Zibin Zheng |
+| FSE 2026 | Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark | Aoyang Fang, Songhan Zhang, Yifan Yang, Haotong Wu, Junjielong Xu, Xuyang Wang, Rui Wang, Manyi Wang, Qisheng Lu, Pinjia He |
+| FSE 2026 | Revealing Regressions: A Comparative Study of State-Capture Strategies in Validating Program Behavior | Hang Du, Vijay Krishna Palepu, James Jones |
+| FSE 2026 | Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation | Sanjeepan Sivapiran, Gias Uddin |
+| FSE 2026 | SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching | Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo |
+| FSE 2026 | SQLiFuzz: Uncover SQL Injection in Any Web Applications | I Putu Arya Dharmaadi, Thuan Pham, Fadi Mohsen, Fatih Turkmen |
+| FSE 2026 | SWE Data Construction, Automatically! | Lianghong Guo, Yanlin Wang, Caihua Li, Wei Tao, Pengyu Yang, Jiachi Chen, Haoyu Song, Duyu Tang, Zibin Zheng |
+| FSE 2026 | SWR-Bench: Assessing LLM Performance in Real-World Code Review Comment Generation | Zhengran Zeng, Ruikai Shi, Keke Han, Yixin Li, Kaicheng Sun, Yidong Wang, Zhuohao Yu, Rui Xie, Wei Ye, Shikun Zhang |
+| FSE 2026 | Satisfiability Solving with LLMs | Leizhen Zhang, Shuhan Chen, Sheng Chen |
+| FSE 2026 | ScanCoder: Leveraging Human Attention Patterns to Enhance LLMs for Code | Yueke Zhang, Yifan Zhang, Zihan Fang, Greg Trafton, Daniel Levin, Kevin Leach, Yu Huang |
+| FSE 2026 | Semantics-Guided Control-Flow Reconstruction for Firmware Binaries via Static Analysis | Fengjuan Gao, Qingjie Zhu, Yi Zhang, Yu Wang, Xuandong Li, Ke Wang |
+| FSE 2026 | Small is Beautiful: A Practical and Efficient Log Parsing Framework | Minxing Wang, Yintong Huo |
+| FSE 2026 | SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning | Hyegeun Song, Jiseong Han, Sunbeom So |
+| FSE 2026 | SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization | Lei Yu, Jingyuan Zhang, Xin Wang, Li Yang, Fengjun Zhang, Jiajia Ma |
+| FSE 2026 | SmartDispatch: Dynamic Substitution of NumPy-style APIs on Heterogenous CPU-GPU Systems | Jinku Cui, Yueming Hao, Shuyin Jiao, Jiajia Li, Xu Liu |
+| FSE 2026 | SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts | Yinghao Wu, Miaomiao Zhang, Fu Song, John Baugh |
+| FSE 2026 | SnakeCharmer: Automatic Fuzzing Harness Generation for Pure and Hybrid Python Libraries | Gabriel Sherman, Stefan Nagy |
+| FSE 2026 | Sound Termination and Non-Termination Analysis of C Programs with Bit-Precise Bounded Semantics and Advanced Constructs | Negar Fathi, Hiroshi Unno, Tachio Terauchi, Rahul Purandare |
+| FSE 2026 | SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services | Wenbo Hu, Jie Lu, Jingting Chen, Feng Li, Chenghang Shi, Xiaonan Shi, Jinchen Wang, Wei Huo |
+| FSE 2026 | Spectrum-based Failure Attribution for Multi-Agent Systems | Yu Ge, Linna Xie, Zhong Li, Yu Pei, Tian Zhang |
+| FSE 2026 | Speculate: Generating REST API Specifications Using LLMs | Krishanu Singh, Kushagra Karar, Abhilash Jindal, Guowei Yang |
+| FSE 2026 | StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis | Jiayi Mao, Liqun Li, Yanjie Gao, Zegang Peng, Shilin He, Chaoyun Zhang, Si Qin, Samia Khalid, Qingwei Lin, Saravan Rajmohan, Sitaram Lanka, Dongmei Zhang |
+| FSE 2026 | Still Manual? Automated Linter Configuration via DSL-Based LLM Compilation of Coding Standards | Zejun Zhang, Yixin Gan, Zhenchang Xing, Tian Zhang, Yi Li, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu |
+| FSE 2026 | Structure-Aware Delta Debugging with Geometric-Information Weights | Yonggang Tao, Jingling Xue |
+| FSE 2026 | SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis | Minki Lee, Seojin Lee, Seulbae Kim |
+| FSE 2026 | TLR: Codebase-Level C Memory Management Error Repair with Large Language Models | Xiao Cheng, Zhihao Guo, Huan Huo, Yulei Sui |
+| FSE 2026 | TORAI: Multi-Source Root Cause Analysis for \textit{Blind Spots} in Microservice Service Call Graph | Luan Pham, Huong Ha, Xiuzhen Zhang, Hongyu Zhang |
+| FSE 2026 | TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud | Yitao Yang, Yangtao Deng, Yifan Xiong, Baochun Li, Hong Xu, Peng Cheng |
+| FSE 2026 | TUSR: A Test Unit–Based Framework for Repairing Obsolete GUI Test Scripts | Shaoheng Cao, Minxue Pan, Xuandong Li |
+| FSE 2026 | TestTailor: Generating High-Coverage Tests via Path-Proximal Tests with LLMs | Xiaoxuan Zhou, Yiling Lou, Jinhao Dong, Dan Hao |
+| FSE 2026 | The Interaction of Complexity and Provenance in Code Review Decisions: Evidence from a Controlled Experiment | Neha Singh, Francesco Sovrano, Vincent Hellendoorn, Alberto Bacchelli |
+| FSE 2026 | Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model | Chaoyuan Peng, Muhui Jiang, Yajin Zhou, Lei Wu |
+| FSE 2026 | Three Heads Are Better Than One: A Multi-Perspective Reasoning Framework for Enhanced Vulnerability Detection | Xin Peng, Bo Lin, Jing Wang, Xiaoling Li, Jun Ma, Jie Yu, Xiaoguang Mao, Shangwen Wang |
+| FSE 2026 | Towards Automated Crowdsourced Testing via Personified-LLM | Shengcheng Yu, Yuchen Ling, Chunrong Fang, Zhenyu Chen, Chunyang Chen |
+| FSE 2026 | Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair | Zaoyu Chen, Haoran Qin, Nuo Chen, Xiangyu Zhao, Lei Xue, Xiapu Luo, Xiao-Ming Wu |
+| FSE 2026 | Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs | He Yang Yuan, Xin Wang, Kundi Yao, An Ran Chen, Zishuo Ding, Zhenhao Li |
+| FSE 2026 | Towards the Localization of Multi-Root-Cause Failures in Microservice Systems: An Active Intervention Framework | Yazhuo Gao, Lin Yang, Lianxiao Meng, Ran Zhu, Yining Cao |
+| FSE 2026 | ToxiShield: Promoting Inclusive Developer Communication through Real-Time Toxicity Filtering | Md Awsaf Alam Anindya, Showvik Biswas, Anindya Iqbal, Jaydeb Sarker, Amiangshu Bosu |
+| FSE 2026 | TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment | Zhiqiang Yuan, Weitong Chen, Hanlin Wang, Xin Peng, Zhenpeng Chen, Yiling Lou |
+| FSE 2026 | TransLibEval: Demystify Large Language Models’ Capability in Third-party Library-targeted Code Translation | Pengyu Xue, Kunwu Zheng, Zhen Yang, Yifei Pei, Linhao Wu, Jiahui Dong, Xiapu Luo, Yan Xiao, Fei Liu, Yuxuan Zhang, Xiran Lyu, Xianhang Li, Xuanyu Zhu, Chengyi Wang |
+| FSE 2026 | Two-Level Adaptation for Budget-Constrained Continuous Dynamic Dependence Analysis | Xiaoqin Fu, Haipeng Cai |
+| FSE 2026 | TypePro: Boosting LLM-Based Type Inference via Inter-Procedural Slicing | linTeyu , Minghao Fan, Huaxun Huang, Zhirong Shen, Rongxin Wu |
+| FSE 2026 | UNICS: Multilingual Code Search via Unified Pseudocode and Contrastive Transfer Learning | Ye Fan, Jidong Ge, Chuanyi Li, Liguo Huang, Bin Luo |
+| FSE 2026 | Uncovering Similar but Different Packages in PyPI and Potential Security Threats | Sunha Park, Soojin Han, Seunghoon Woo |
+| FSE 2026 | Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study | Jingdong Guo, Chaopeng Dong, Yimo Ren, Siyuan Li, Jie Liu, Hong Li, Hongsong Zhu |
+| FSE 2026 | Understanding Code Similarity across Instruction Set Architectures: An Empirical Study | yuhaonan , Jiaxin Zhu, Yingying Zheng, Yuwei Zhang, Wei Wang, Jun Wei, Tao Huang |
+| FSE 2026 | Understanding Performance Problems in CUDA Programs | Yuyang Bi, Junming Cao, You Lu, Bihuan Chen, Tianwei Gan, Dingji Wang, Xin Peng |
+| FSE 2026 | Understanding and Predicting Accepted Code Suggestions in AI-Assisted Programming | Jing Jiang, Liehao Li, Jinyun Hou, Xin Tan, Li Zhang |
+| FSE 2026 | Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale | CHENGYUE LIU, Zhengzi Xu, Kaixuan Li, Wu Jiahui, Sihao Qiu, Siyuan Li, Siyang Xiong, Yang Xiao, Yang Liu |
+| FSE 2026 | Understanding, Detecting, and Repairing Real-World In-Context-Learning-Based Text-to-SQL Errors | Jiawei Shen, Chengcheng Wan, Ruoyi Qiao, Jiazhen Zou, Hang Xu, Yuchen Shao, Yueling Zhang, Weikai Miao, Geguang Pu |
+| FSE 2026 | Unfulfilled Promises: LLM-Based Detection of OS Compatibility Issues in Infrastructure as Code | Georgios-Petros Drosos, Georgios Alexopoulos, Thodoris Sotiropoulos, Dimitris Mitropoulos, Zhendong Su |
+| FSE 2026 | Unleashing HPC Application Performance through Software Deployment: A Joint Model of Software Parallelism and Co-location | Yuxin Ren, li zhou, Chumin Sun, Rui Fan, Jie Sun, Ning Jia, Xinwei Hu |
+| FSE 2026 | Unveiling AI-Driven Web Applications: Insights into Characteristics, Functionality, and Compliance | Liuhuo Wan, Zicong Liu, Chuan Yan, Liujia Wan, Naipeng Dong, Zi Huang, Guangdong Bai |
+| FSE 2026 | Unveiling the Fragility of Binary Code Similarity Detection via Targeted Attacks with Model Explanations | Mingjie Chen, Tiancheng Zhu, Mingxue Zhang, Yiling He, Minghao Lin, Penghui Li, Kui Ren |
+| FSE 2026 | V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution | Jingwen Zhang, Yuhong Nan, Kaiwen Ning, Mingxi Ye, Wei Li, Yuming Xiao, Yuming Feng, Weizhe Zhang, Zibin Zheng |
+| FSE 2026 | Validating LLM-Generated SQL Queries Through Metamorphic Prompting | Li Lin, Qinglin Zhu, Jintai Hong, Chong Wang, Yang Liu, Rongxin Wu |
+| FSE 2026 | Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis | Divya Rathore, Kartik Nagar |
+| FSE 2026 | Verifying Structural Robustness of Deep Neural Network | Hai Duong, Thanh Le, Lam Nguyen, ThanhVu Nguyen |
+| FSE 2026 | VerilogASTBench: Benchmark Construction of Verilog AST Dataset with Dual-Stage AST Semantic Enhancement Framework | luping zhang, Chao Chen, Dapeng Yan, Hui Xu, Mingsheng Cao, Jingkuan Song, Zhikuang Cai, Yufeng Guo |
+| FSE 2026 | ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models | Sidong Feng, Dingbang Wang, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen |
+| FSE 2026 | VisionScratch: LLM-Based Automated Feedback Generation Using Code-Produced Videos for Scratch Programs | Yuan Si, Daming Li, Hanyuan Shi, Jialu Zhang |
+| FSE 2026 | VulInstruct: Teaching LLMs Root-Cause Reasoning for Vulnerability Detection via Security Specifications | Hao Zhu, Jia Li, Cuiyun Gao, Jiaru Qian, Yihong Dong, Huanyu Liu, Lecheng Wang, Ziliang Wang, Xiaolong Hu, Ge Li |
+| FSE 2026 | VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns | Jia Li, Zhuangbin Chen, Yuxin Su, Michael Lyu |
+| FSE 2026 | WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions | Xiaohui Hu, Ningyu He, Haoyu Wang |
+| FSE 2026 | WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements | Xiwen Teoh, Yun Lin, Duc-Minh Nguyen, Ruofei Ren, Wenjie Zhang, Jin Song Dong |
+| FSE 2026 | When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems | Shuqing Li, Chenran Zhang, Binchang Li, Cuiyun Gao, Michael Lyu |
+| FSE 2026 | iCoRe: An Iterative Correlation-Aware Retriever for Bug Reproduction Test Generation | JunyiWang , Jialun Cao, Zhongxin Liu |
+| FSE 2026 | pPatch: Automated Vulnerability Unpatching | Tianyi Jing, Pengyu Ding, Meng Xu, Yinhao Hu, Zheng Yu, Dongliang Mu |
 | ICSE 2025 | "Get Me In The Groove": A Mixed Methods Study on Supporting ADHD Professional Programmers | Kaia Newman, Sarah Snay, Madeline Endres, Manasvi Parikh, Andrew Begel |
 | ICSE 2025 | $ZTD_{JAVA}$: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies | Paschal Amusuo, Kyle A. Robinson, Tanmay Singla, Huiyun Peng, Aravind Machiry, Santiago Torres-Arias, Laurent Simon, James C. Davis |
 | ICSE 2025 | 3DGen: AI-Assisted Generation of Provably Correct Binary Format Parsers | Sarah Fakhoury, Markus Kuppe, Shuvendu K. Lahiri, Tahina Ramananandro, Nikhil Swamy |
@@ -406,7 +617,7 @@
 | ICSE 2025 | Enhancing Fault Localization in Industrial Software Systems via Contrastive Learning | Chun Li, Hui Li, Zhong Li, Minxue Pan, Xuandong Li |
 | ICSE 2025 | Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects | Hao Song, Teng Li, Jiachi Chen, Ting Chen, Beibei Li, Zhangyan Lin, Yi Lu, Pan Li, Xihan Zhou |
 | ICSE 2025 | Evaluating Garbage Collection Performance Across Managed Language Runtimes | Yicheng Wang, Wensheng Dou, Yu Liang, Yi Wang, Wei Wang, Jun Wei, Tao Huang |
-| ICSE 2025 | Execution Trace Reconstruction Using Diffusion-Based Generative Models | Madeline Janecek, Naser Ezzati Jivan, Abdelwahab Hamou-Lhadj |
+| ICSE 2025 | Execution Trace Reconstruction Using Diffusion-Based Generative Models | Madeline Janecek, Naser Ezzati-Jivan, Abdelwahab Hamou-Lhadj |
 | ICSE 2025 | Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication | Yesugen Baatartogtokh, Kaitlyn Cook, Alicia M. Grubb |
 | ICSE 2025 | Exposing the Hidden Layer: Software Repositories in the Service of SEO Manipulation | Mengying Wu, Geng Hong, Wuyuao Mai, Xinyi Wu, Lei Zhang, Yingyuan Pu, Huajun Chai, Lingyun Ying, Haixin Duan, Min Yang |
 | ICSE 2025 | FAMOS: Fault diagnosis for Microservice Systems through Effective Multi-modal Data Fusion | Chiming Duan, Yong Yang, Tong Jia, Guiyang Liu, Jinbu Liu, Huxing Zhang, Qi Zhou, Ying Li, Gang Huang |
@@ -457,7 +668,7 @@
 | ICSE 2025 | LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes | Shiyao Zhou, Jincheng Wang, He Ye, Hao Zhou, Claire Le Goues, Xiapu Luo |
 | ICSE 2025 | Large Language Models as Configuration Validators | Xinyu Lian, Yinfang Chen, Sam Cheng, Jie Huang, Parth Thakkar, Minjia Zhang, Tianyin Xu |
 | ICSE 2025 | Large Language Models for Safe Minimization | Aashish Yadavally, Xiaokai Rong, Phat Nguyen, Tien N. Nguyen |
-| ICSE 2025 | Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests | Amirhossein Deljouyi, Roham Koohestani, Maliheh Izadi, Andy Zaidman |
+| ICSE 2025 | Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests | Amirhossein Deljouyi, Roham Koohestani, Mali Izadi, Andy Zaidman |
 | ICSE 2025 | Leveraging Large Language Models to Detect npm Malicious Packages | Nusrat Zahan, Philipp Burckhardt, Mikola Lysenko, Feross Aboukhadijeh, Laurie Williams |
 | ICSE 2025 | Leveraging Propagated Infection to Crossfire Mutants | Hang Du, Vijay Krishna Palepu, James Jones |
 | ICSE 2025 | LiCoEval: Evaluating LLMs on License Compliance in Code Generation | Weiwei Xu, Kai Gao, Hao He, Minghui Zhou |
@@ -604,7 +815,7 @@
 | FSE 2025 | ChatDBG: Augmenting Debugging with Large Language Models | Kyla H. Levin, Nicolas van Kempen, Emery D. Berger, Stephen N. Freund |
 | FSE 2025 | Clone Detection for Smart Contracts: How Far Are We? | Zuobin Wang , Zhiyuan Wan, Yujing Chen, Yun Zhang, David Lo, Difan Xie, Xiaohu Yang |
 | FSE 2025 | Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM | Xu Yang, Wenhan Zhu, Michael Pacheco, Jiayuan Zhou, Shaowei Wang, Xing Hu, Kui Liu |
-| FSE 2025 | Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks | Ali Al-Kaswan, Sebastian Deatc, Begüm Koç, Arie van Deursen, Maliheh Izadi |
+| FSE 2025 | Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks | Ali Al-Kaswan, Sebastian Deatc, Begüm Koç, Arie van Deursen, Mali Izadi |
 | FSE 2025 | Core Developer Turnover in the Rust Package Ecosystem: Prevalence, Impact, and Awareness | Meng Fan, Yuxia Zhang, Klaas-Jan Stol, Hui Liu |
 | FSE 2025 | CoverUp: Effective High Coverage Test Generation for Python | Juan Altmayer Pizzorno, Emery D. Berger |
 | FSE 2025 | Cross-System Categorization of Abnormal Traces in Microservice-Based Systems via Meta-Learning | Yuqing Wang, Mika Mäntylä, Serge Demeyer, Mutlu Beyazıt, Joanna Kisaakye, Jesse Nyyssölä |
@@ -653,7 +864,7 @@
 | FSE 2025 | Medusa: A Framework for Collaborative Development of Foundation Models with Automated Parameter Ownership Assignment | Dezhi Ran, Yuan Cao, Yuzhe Guo, Yuetong Li, Mengzhou Wu, Simin Chen, Wei Yang, Tao Xie |
 | FSE 2025 | MendelFuzz: The Return of the Deterministic Stage | Han Zheng, Flavio Toffalini, Marcel Böhme, Mathias Payer |
 | FSE 2025 | MiSum: Multi-Modality Heterogeneous Code Graph Learning for Multi-Intent Binary Code Summarization | Kangchen Zhu, Zhiliang Tian, Shangwen Wang, Weiguo Chen, Zixuan Dong, mingyue leng, Xiaoguang Mao |
-| FSE 2025 | Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection | haodong li, Xiao Cheng, Guohan Zhang, Guosheng Xu, Guoai Xu, Haoyu Wang |
+| FSE 2025 | Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection | Haodong Li, Xiao Cheng, Guohan Zhang, Guosheng Xu, Guoai Xu, Haoyu Wang |
 | FSE 2025 | Multi-Modal Traffic Scenario Generation for Autonomous Driving System Testing | Zhi Tu, Liangkun Niu, Wei Fan, Tianyi Zhang |
 | FSE 2025 | Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM | Susheng Wu, Ruisi Wang, Bihuan Chen, Zhuotong Zhou, Yiheng Huang, JunPeng Zhao, Xin Peng |
 | FSE 2025 | NLP Libraries, Energy Consumption and Runtime - An Empirical Study | Rajrupa Chattaraj, Sridhar Chimalakonda |
@@ -1052,7 +1263,7 @@
 | ISSTA 2025 | Tratto: A Neuro-Symbolic Approach to Deriving Axiomatic Test Oracles | Davide Molinelli, Alberto Martin-Lopez, Elliott Zackrone, Beyza Eken, Michael D. Ernst, Mauro Pezze |
 | ISSTA 2025 | Type-Alias Analysis: Enabling LLVM IR with Accurate Types | Jinmeng Zhou, Ziyue Pan, Wenbo Shen, Xingkai Wang, Kangjie Lu, Zhiyun Qian |
 | ISSTA 2025 | Uncovering API-Scope Misalignment in the App-in-App Ecosystem | Jiarui Che, Chenkai Guo, Naipeng Dong, Jiaqi Pei, Lingling Fan, Xun Mi, Xueshuo Xie, Xiangyang Luo, Zheli Liu, Renhong Cheng |
-| ISSTA 2025 | Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection | haodong li, Xiao Cheng, Yanjie Zhao, Guosheng Xu, Guoai Xu, Haoyu Wang |
+| ISSTA 2025 | Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection | Haodong Li, Xiao Cheng, Yanjie Zhao, Guosheng Xu, Guoai Xu, Haoyu Wang |
 | ISSTA 2025 | Understanding Practitioners’ Expectations on Clear Code Review Comments | Junkai Chen, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu, Xin Xia |
 | ISSTA 2025 | Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG | Zhiyu Zhang, Longxing Li, Ruigang Liang, Kai Chen |
 | ISSTA 2025 | Validating Network Protocol Parsers with Traceable RFC Document Interpretation | Mingwei Zheng, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang |
@@ -1081,7 +1292,7 @@
 | ICSE 2024 | Analyzing and Debugging Normative Requirements via Satisfiability Checking | Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik |
 | ICSE 2024 | Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot | David OBrien, Sumon Biswas, Sayem Mohammad Imtiaz, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan |
 | ICSE 2024 | Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers | Shuohan Wu, Zihao Li, Luyi Yan, Weimin Chen, Muhui Jiang, Chenxu Wang, Xiapu Luo, Hao Zhou |
-| ICSE 2024 | Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App | Fuman Xie, Chuan Yan, Mark Huasong Meng, Shaoming Teng, Yanjun Zhang, Guangdong Bai |
+| ICSE 2024 | Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App | Fuman Xie, Chuan Yan, Mark Meng, Shaoming Teng, Yanjun Zhang, Guangdong Bai |
 | ICSE 2024 | Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps | Yongliang Chen, Ruoqin Tang, Chaoshun Zuo, Xiaokuan Zhang, Lei Xue, Xiapu Luo, Qingchuan Zhao |
 | ICSE 2024 | Automated Program Repair, What Is It Good For? Not Absolutely Nothing! | Hadeel Eladawy, Claire Le Goues, Yuriy Brun |
 | ICSE 2024 | Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization) | Toufique Ahmed, Kunal Suresh Pai, Prem Devanbu, Earl T. Barr |
@@ -1181,7 +1392,7 @@
 | ICSE 2024 | KnowLog: Knowledge Enhanced Pre-trained Language Model for Log Understanding | Lipeng Ma, Weidong Yang, Bo Xu, Sihang Jiang, Ben Fei, Jiaqing Liang, Mingjie Zhou, Yanghua Xiao |
 | ICSE 2024 | Knowledge Graph Driven Inference Testing for Question Answering Software | Jun Wang, Yanhui Li, Zhifei Chen, Lin Chen, Xiaofang Zhang, Yuming Zhou |
 | ICSE 2024 | LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing | Zeyang Ma, An Ran Chen, Dong Jae Kim, Tse-Hsun (Peter) Chen, Shaowei Wang |
-| ICSE 2024 | Language Models for Code Completion: A Practical Evaluation | Maliheh Izadi, Jonathan Katzy, Tim van Dam, Marc Otten, Răzvan Mihai Popescu, Arie van Deursen |
+| ICSE 2024 | Language Models for Code Completion: A Practical Evaluation | Mali Izadi, Jonathan Katzy, Tim van Dam, Marc Otten, Răzvan Mihai Popescu, Arie van Deursen |
 | ICSE 2024 | Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries | Yinlin Deng, Chunqiu Steven Xia, Chenyuan Yang, Shizhuo Zhang, Shujing Yang, Lingming Zhang |
 | ICSE 2024 | Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning | Mingyang Geng, Shangwen Wang, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, Liao Xiangke |
 | ICSE 2024 | Large Language Models for Test-Free Fault Localization | Aidan Z.H. Yang, Claire Le Goues, Ruben Martins, Vincent J. Hellendoorn |
@@ -1197,7 +1408,7 @@
 | ICSE 2024 | MUT: Human-in-the-Loop Unit Test Migration | Yi Gao, Xing Hu, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang |
 | ICSE 2024 | Machine Learning is All You Need: A Simple Token-based Approach for Effective Code Clone Detection | Siyue Feng, Wenqi Suo, Yueming Wu, Deqing Zou, Yang Liu, Hai Jin |
 | ICSE 2024 | Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions | Zhe Liu, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Xing Che, Dandan Wang, Qing Wang |
-| ICSE 2024 | MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty | haodong li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, Haoyu Wang |
+| ICSE 2024 | MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty | Haodong Li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, Haoyu Wang |
 | ICSE 2024 | MalwareTotal: Multi-Faceted and Sequence-Aware Bypass Tactics against Static Malware Detection | Shuai He, Cai Fu, Hong Hu, Jiahe Chen, Jianqiang Lv, Shuai Jiang |
 | ICSE 2024 | Marco: A Stochastic Asynchronous Concolic Explorer | Jie Hu, Yue Duan, Heng Yin |
 | ICSE 2024 | MetaLog: Generalizable Cross-System Anomaly Detection from Logs with Meta-Learning | Chenyangguang Zhang, Tong Jia, Guopeng Shen, Pinyan Zhu, Ying Li |
@@ -1280,7 +1491,7 @@
 | ICSE 2024 | Towards More Practical Automation of Vulnerability Assessment | Shengyi Pan, Lingfeng Bao , Jiayuan Zhou, Xing Hu, Xin Xia, Shanping Li |
 | ICSE 2024 | Towards Reliable AI: Adequacy Metrics for Ensuring the Quality of System-level Testing of Autonomous Vehicles | Neelofar Neelofar, Aldeida Aleti |
 | ICSE 2024 | Trace-based Multi-Dimensional Root Cause Localization of Performance Issues in Microservice Systems | Chenxi Zhang, Zhen Dong, Xin Peng, Bicheng Zhang, Miao Chen |
-| ICSE 2024 | Traces of Memorisation in Large Language Models for Code | Ali Al-Kaswan, Maliheh Izadi, Arie van Deursen |
+| ICSE 2024 | Traces of Memorisation in Large Language Models for Code | Ali Al-Kaswan, Mali Izadi, Arie van Deursen |
 | ICSE 2024 | Translation Validation for JIT Compiler in the V8 JavaScript Engine | Seungwan Kwon, Jaeseong Kwon, Wooseok Kang, Juneyoung Lee, Kihong Heo |
 | ICSE 2024 | Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts | Shuo Yang, Jiachi Chen, Mingyuan Huang, Zibin Zheng, Yuan Huang |
 | ICSE 2024 | Uncovering the Causes of Emotions in Software Developer Communication Using Zero-shot LLMs | Mia Mohammad Imran, Preetha Chatterjee, Kostadin Damevski |
@@ -1367,7 +1578,7 @@
 | FSE 2024 | How to Gain Commit Rights in Modern Top Open Source Communities? | Xin Tan, Yan Gong, Geyu Huang, Haohua Wu, Li Zhang |
 | FSE 2024 | IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion | Bolun Li, Zhihong Sun, Tao Huang, Hongyu Zhang, Yao Wan, Chen Lyu, Ge Li, Zhi Jin |
 | FSE 2024 | Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation | Oussama Ben Sghaier, Houari Sahraoui |
-| FSE 2024 | Investigating Documented Privacy Changes in Android OS | Chuan Yan, Mark Huasong Meng, Fuman Xie, Guangdong Bai |
+| FSE 2024 | Investigating Documented Privacy Changes in Android OS | Chuan Yan, Mark Meng, Fuman Xie, Guangdong Bai |
 | FSE 2024 | JIT-Smart: A Multi-Task Learning Framework for Just-In-Time Defect Prediction and Localization | Xiangping Chen, Furen Xu, Yuan Huang, Neng Zhang, Zibin Zheng |
 | FSE 2024 | Java JIT Testing with Template Extraction | Zhiqiang Zang, Fu-Yao Yu, Aditya Thimmaiah, August Shi, Milos Gligoric |
 | FSE 2024 | LILAC: Log Parsing using LLMs with Adaptive Parsing Cache | Zhihan Jiang, Jinyang Liu, Zhuangbin Chen, Yichen LI, Junjie Huang, Yintong Huo, Pinjia He, Jiazhen Gu, Michael Lyu |
@@ -1483,7 +1694,7 @@
 | ASE 2024 | Enhancing the Efficiency of Automated Program Repair via Greybox Analysis | YoungJae Kim, Yechan Park, Seungheon Han, Jooyong Yi |
 | ASE 2024 | Evaluating Terminology Translation in Machine Translation Systems via Metamorphic Testing | Yihui Xu, Yanhui Li, Jun Wang, Xiaofang Zhang |
 | ASE 2024 | Evaluation of Version Control Merge Tools | Benedikt Schesch, Ryan Featherman, Ben Roberts, Kenneth J Yang, Michael D. Ernst |
-| ASE 2024 | Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security | Chuan Yan, Mark Huasong Meng, Liuhuo Wan, Tian Yang Ooi, Ruomai Ren, Guangdong Bai |
+| ASE 2024 | Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security | Chuan Yan, Mark Meng, Liuhuo Wan, Tian Yang Ooi, Ruomai Ren, Guangdong Bai |
 | ASE 2024 | Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair | Guochang Li, Chen Zhi, Jialiang Chen, Junxiao Han, Shuiguang Deng |
 | ASE 2024 | FAIL: Analyzing Software Failures from the News Using LLMs | Dharun Anandayuvaraj, Matthew Campbell, Arav Tewari, James C. Davis |
 | ASE 2024 | FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection | Jialuo Chen, Jingyi Wang, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng |
@@ -1495,7 +1706,7 @@
 | ASE 2024 | Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach | Jialiang Wei, Anne-Lise Courbis, Thomas Lambolais, Binbin Xu, Pierre Louis Bernard, Gerard Dray, Walid Maalej |
 | ASE 2024 | Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization | Lei Tao, Shenglin Zhang, ZedongJia , Jinrui Sun, Minghua Ma, Zhengdan Li, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei |
 | ASE 2024 | Giving without Notifying: Assessing Compliance of Data Transmission in Android Apps | Ming Fan, Jifei Shi, Yin Wang, Le Yu, Xicheng Zhang, Haijun Wang, Wuxia Jin, Ting Liu |
-| ASE 2024 | GlitchProber: Advancing Effective Detection and Mitigation of Glitch Tokens in Large Language Models | Zhibo Zhang, Wuxia Bai, Yuxi Li, Mark Huasong Meng, Kailong Wang, Ling Shi, Li Li, Jun Wang, Haoyu Wang |
+| ASE 2024 | GlitchProber: Advancing Effective Detection and Mitigation of Glitch Tokens in Large Language Models | Zhibo Zhang, Wuxia Bai, Yuxi Li, Mark Meng, Kailong Wang, Ling Shi, Li Li, Jun Wang, Haoyu Wang |
 | ASE 2024 | GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph | Wei Liu, Ailun Yu, Daoguang Zan, Bo Shen, Wei Zhang, Haiyan Zhao, Zhi Jin, Qianxiang Wang |
 | ASE 2024 | How Does Code Optimization Impact Third-party Library Detection for Android Applications? | Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin |
 | ASE 2024 | How Effective Do Code Language Models Understand Poor-Readability Code? | Chao Hu, Yitian Chai, Hao Zhou, Fandong Meng, Jie Zhou, Xiaodong Gu |
@@ -1516,7 +1727,7 @@
 | ASE 2024 | MRCA: Metric-level Root Cause Analysis for Microservices via Multi-Modal Data | Wang yidan, Zhouruixing Zhu, Qiuai Fu, Yuchi Ma, Pinjia He |
 | ASE 2024 | Magneto: A Step-Wise Approach to Exploit Vulnerabilities in Dependent Libraries via LLM-Empowered Directed Fuzzing | Zhuotong Zhou, Yongzhuo Yang, Susheng Wu, Yiheng Huang, Bihuan Chen, Xin Peng |
 | ASE 2024 | MaskDroid: Robust Android Malware Detection with Masked Graph Representations | Jingnan Zheng, Jiahao Liu, An Zhang, Jun ZENG, Ziqi Yang, Zhenkai Liang, Tat-Seng Chua |
-| ASE 2024 | Microservice Decomposition Techniques: An Independent Tool Comparison | Yingying Wang, Sarah Bornais, Julia Rubin |
+| ASE 2024 | Microservice Decomposition Techniques: An Independent Tool Comparison | Yingying Wang, Sarah Dagger, Julia Rubin |
 | ASE 2024 | MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs | Yin Wang, Ming Fan, Hao Zhou, Haijun Wang, Wuxia Jin, Jiajia Li, Wenbo Chen, Shijie Li, Yu Zhang, Deqiang Han, Ting Liu |
 | ASE 2024 | Mutation-Based Deep Learning Framework Testing Method in JavaScript Environment | Yinglong Zou, Juan Zhai, Chunrong Fang, Jiawei Liu, Tao Zheng, Zhenyu Chen |
 | ASE 2024 | Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training | Yangsen Wang, Yizhou Chen, Yifan Zhao, Zhihao Gong, Junjie Chen, Dan Hao |
@@ -1567,7 +1778,7 @@
 | ASE 2024 | Typed and Confused: Studying the Unexpected Dangers of Gradual Typing | Dominic Troppmann, Aurore Fass, Cristian-Alexandru Staicu |
 | ASE 2024 | UFront: Toward A Unified MLIR Frontend for Deep Learning | Guoqing Bao, Heng Shi, Chengyi Cui, Yalin Zhang, Jianguo Yao |
 | ASE 2024 | Understanding Code Changes Practically with Small-Scale Language Models | Cong Li, Zhaogui Xu, Peng Di, Dongxia Wang, Zheng Li, Qian Zheng |
-| ASE 2024 | Understanding the Implications of Changes to Build Systems | Mahtab Nejati, Mahmoud Alfadel, Shane McIntosh |
+| ASE 2024 | Understanding the Implications of Changes to Build Systems | Mattie Nejati, Mahmoud Alfadel, Shane McIntosh |
 | ASE 2024 | Unlocking the Power of Numbers: Log Compression via Numeric Token Parsing | Siyu Yu, Yifan Wu, Ying Li, Pinjia He |
 | ASE 2024 | Unveiling the Characteristics and Impact of Security Patch Evolution | Zifan Xie, Ming Wen, Zichao Wei, Hai Jin |
 | ASE 2024 | Verifying the Option Type With Rely-Guarantee Reasoning | James Yoo, Michael D. Ernst, René Just |
@@ -1786,11 +1997,11 @@
 | ICSE 2023 | CCTEST: Testing and Repairing Code Completion Systems | Li Zongjie, Chaozheng Wang, Zhibo Liu, Haoxuan Wang, Dong Chen, Shuai Wang, Cuiyun Gao |
 | ICSE 2023 | COLUMBUS: Android App Testing Through Systematic Callback Exploration | Priyanka Bose, Dipanjan Das, Saastha Vasan, Sebastiano Mariani, Ilya Grishchenko, Andrea Continella, Antonio Bianchi, Christopher Kruegel, Giovanni Vigna |
 | ICSE 2023 | Carving UI Tests to Generate API Tests and API Specification | Rahulkrishna Yandrapally, Saurabh Sinha, Rachel Tzoref-Brill, Ali Mesbah |
-| ICSE 2023 | Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports | Yunbo Lyu, Le-Cong Thanh, Hong Jin Kang, Ratnadira Widyasari, Zhipeng Zhao, Xuan-Bach D. Le, Ming Li, David Lo |
+| ICSE 2023 | Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports | Yunbo Lyu, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Zhipeng Zhao, Xuan-Bach D. Le, Ming Li, David Lo |
 | ICSE 2023 | CoCoSoDa: Effective Contrastive Learning for Code Search | Ensheng Shi, Wenchao Gu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun |
 | ICSE 2023 | CoLeFunDa: Explainable Silent Vulnerability Fix Identification | Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, Xin Xia, David Lo, Ahmed E. Hassan |
 | ICSE 2023 | CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models | Caroline Lemieux, Jeevana Priya Inala, Shuvendu K. Lahiri, Siddhartha Sen |
-| ICSE 2023 | Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions | Mahtab Nejati, Mahmoud Alfadel, Shane McIntosh |
+| ICSE 2023 | Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions | Mattie Nejati, Mahmoud Alfadel, Shane McIntosh |
 | ICSE 2023 | Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality | Jiawei Li, Iftekhar Ahmed |
 | ICSE 2023 | Comparison and Evaluation of Clone Detection Techniques with Different Code Representations | Yuekun Wang, Yuhang Ye, Yueming Wu, Weiwei Zhang, Yinxing Xue, Yang Liu |
 | ICSE 2023 | Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis | Sen Yang, Sen Chen, Lingling Fan, Sihan Xu, Zhanwei Hui, Song Huang |
@@ -2197,7 +2408,7 @@
 | ASE 2023 | SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding | Sicheng Hao, Yuhong Nan, Zibin Zheng, Xiaohui Liu |
 | ASE 2023 | Software Entity Recognition with Noise-Robust Learning | Tai Nguyen, Yifeng Di, Joohan Lee, Muhao Chen, Tianyi Zhang |
 | ASE 2023 | Symbolic Fixpoint Algorithms for Logical LTL Games | Stanly Samuel, Deepak D'Souza, Raghavan Komondoor |
-| ASE 2023 | Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks | Paschal Amusuo, Ricardo Andrés Calvo Méndez, Zhongwei Xu, Aravind Machiry, James C. Davis |
+| ASE 2023 | Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks | Paschal Amusuo, Ricardo Andres Calvo Mendez, Zhongwei Xu, Aravind Machiry, James C. Davis |
 | ASE 2023 | The Devil is in the Tails: How Long-Tailed Code Distributions Impact Large Language Models | Xin Zhou, Kisub Kim, Bowen Xu, Jiakun Liu, DongGyun Han, David Lo |
 | ASE 2023 | The MAP metric in Information Retrieval Fault Localization | Thomas Hirsch, Birgit Hofer |
 | ASE 2023 | The Plastic Surgery Hypothesis in the Era of Large Language Models | Chunqiu Steven Xia, Yifeng Ding, Lingming Zhang |
@@ -2372,7 +2583,7 @@
 | ICSE 2022 | Change Is the Only Constant: Dynamic Updates for Workflows | Daniel Sokolowski, Pascal Weisenburger, Guido Salvaneschi |
 | ICSE 2022 | Characterizing and Detecting Bugs in WeChat Mini-Programs | Tao Wang, Qingxin Xu, Xiaoning Chang, Wensheng Dou, Jiaxin Zhu, Jinhui Xie, Yuetang Deng, Jianbo Yang, Jiaheng Yang, Jun Wei, Tao Huang |
 | ICSE 2022 | Code Search based on Context-aware Code Translation | Weisong Sun, Chunrong Fang, Yuchen Chen, Guanhong Tao, Tingxu Han, Quanjun Zhang |
-| ICSE 2022 | CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences | Maliheh Izadi, Roberta Gismondi, Georgios Gousios |
+| ICSE 2022 | CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences | Mali Izadi, Roberta Gismondi, Georgios Gousios |
 | ICSE 2022 | Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process | Nadia Nahar, Shurui Zhou, Grace Lewis, Christian Kästner |
 | ICSE 2022 | Combinatorial Testing of RESTful APIs | Huayao Wu, Lixin Xu, Xintao Niu, Changhai Nie |
 | ICSE 2022 | Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph | Wei Cheng, XiangRong Zhu, Wei Hu |
@@ -2549,7 +2760,7 @@
 | FSE 2022 | An Exploratory Study on the Predominant Programming Paradigms in Python Code | Robert Dyer, Jigyasa Chauhan |
 | FSE 2022 | Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization | Lin Shi, Fangwen Mu, Xiao Chen, Song Wang, Junjie Wang, Ye Yang, Ge Li, Xin Xia, Qing Wang |
 | FSE 2022 | Asynchronous Technical Interviews: Reducing the Effect of Supervised Think-Aloud on Communication Ability | Mahnaz (Mana) Behroozi, Chris Parnin, Chris Brown |
-| FSE 2022 | AutoPruner: Transformer-Based Call Graph Pruning | Le-Cong Thanh, Hong Jin Kang, Truong Giang Nguyen, Stefanus Agus Haryono, David Lo, Xuan-Bach D. Le, Quyet Thang Huynh |
+| FSE 2022 | AutoPruner: Transformer-Based Call Graph Pruning | Thanh Le-Cong, Hong Jin Kang, Truong Giang Nguyen, Stefanus Agus Haryono, David Lo, Xuan-Bach D. Le, Quyet Thang Huynh |
 | FSE 2022 | Automated Unearthing of Dangerous Issue Reports | Shengyi Pan, Jiayuan Zhou, Filipe Cogo, Xin Xia, Lingfeng Bao , Xing Hu, Shanping Li, Ahmed E. Hassan |
 | FSE 2022 | Automatically Deriving JavaScript Static Analyzers from Specifications using Meta-level Static Analysis | Jihyeok Park, Seungmin An, Sukyoung Ryu |
 | FSE 2022 | Automating Code Review Activities by Large-Scale Pre-training | Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan |
