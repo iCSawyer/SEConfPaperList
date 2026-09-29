@@ -6,7 +6,13 @@ from ..utils.paperlist import paper_list
 class PaperSpider(scrapy.Spider):
     name = "paper_spider"
 
+    async def start(self):
+        # Scrapy >= 2.13
+        for p in paper_list:
+            yield Request(url=p["url"], callback=self.parse, cb_kwargs=p)
+
     def start_requests(self):
+        # Scrapy < 2.13
         for p in paper_list:
             yield Request(url=p["url"], callback=self.parse, cb_kwargs=p)
 
